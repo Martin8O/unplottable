@@ -1,0 +1,17 @@
+# private working area — never committed
+Local/
+data/
+
+# build output
+build/
+*.epub
+*.pdf
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# os junk
+Thumbs.db
+desktop.ini

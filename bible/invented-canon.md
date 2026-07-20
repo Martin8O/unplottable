@@ -33,6 +33,16 @@
 - Scorpius: raised non-supremacist by Astoria; tense gatherings with Lucius/Narcissa (Pottermore Draco piece Dec 2014). First use: R1 dossier.
 - Scorpius middle name Hyperion (JKR site, weakly documented) — AVOID unless needed; flag per-use. Not yet used.
 
+## Tier-2 adoptions (R2 — world mechanics; sources verified via Lexicon/accio-quote)
+- Statute of Secrecy **in force 1692** (Fantastic Beasts textbook 2001 intro; Pottermore concurs). Reconciles with Tier-1: **signature 1689** (DH ch.16 — books win if forced to choose). First use: R2 world-rules A5 + timeline spine.
+- **Clause 73** (added 1750): national responsibility for magical-creature concealment, ICW discipline (FB textbook). First use: R2 world-rules A5 (reference only).
+- Ghosts: **Muggles cannot become ghosts** stated flatly only in JKR's "Ghosts" (Pottermore/WizardingWorld); on-page Nick frames ghost-hood as a wizard's option (OotP ch.38). First use: R2 world-rules A1.
+- Portraits are **limited imitations, not the person** — coached catchphrases/demeanour; headmasters train their own portrait (JKR "Hogwarts Portraits", Pottermore; Edinburgh Book Festival 15 Aug 2004). First use: R2 world-rules A1.
+- **Veritaserum resistible** by the skilled → unreliable in trials (jkrowling.com FAQ, archived mirror). First use: R2 world-rules A2.
+- Pensieve replays a memory **more completely than the owner perceived it** (JKR Pensieve piece, Pottermore) — supplements T1 evidence of objective recording. First use: R2 world-rules A2/A7.
+- WWN programme texture: *Witching Hour*, presenter Glenda Chittock (Pottermore). Noted R2 world-rules A4; use in prose = per-instance log.
+- ICW delegates/assembly imagery (FB films — pre-approved Grindelwald-era adoption). Noted R2 world-rules A5; T1 gives only chairmanship+members+Statute.
+
 ## Inventions
 | id | fact | why needed | canon seams touched | logged in prompt |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 # Hidden-places register — the anomaly map's site concordance (S3)
 
-> Rule (ADR-008 + world-rules C3): **prose may name an anomaly-map site only if it has a row here.** The map shows "roughly three dozen point-like sites plus a handful of extended blobs" (C3 Figure 1); only the rows below are *nameable* — the rest stay unnamed background statistics. Naming a new site = add the row (with its canon/T2/INV warrant) **first**, in the same prompt. Map labels ("Site NN") are Adam's paper-order numbering and are fixed here; wizard-side scenes use the true names. Concordance itself logged as INV-026.
+> Rule (ADR-008 + world-rules C3): **prose may name an anomaly-map site only if it has a row here.** The map shows "roughly three dozen point-like sites plus a handful of extended blobs" (C3 Figure 1); only the rows below are *nameable* — the rest stay unnamed background statistics. Naming a new site = add the row (with its canon/T2/INV warrant) **first**, in the same prompt. Map labels ("Site NN") are Adam's paper-order numbering — descending anomaly mass (ch2; INV-029) — and are fixed here; wizard-side scenes use the true names. Concordance itself logged as INV-026.
 
 ## Nameable sites
 

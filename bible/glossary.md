@@ -22,7 +22,7 @@ anomaly map (lower case; "the map" after first use) · AR glasses (never "smart 
 **Institution & artefact names (fictional analogues — LOCKED S1; canonical spellings):** **University of Lothian** [INV-004] · **World Model Reliability Group** ("the group"/"the lab" after first use; no hyphen in the Group's name) [INV-004] · **Meridian Programme** ("Meridian" after first use) [INV-005] · **National Institute for Model Evaluation** ("the Institute" after first use; acronym never used in prose) [INV-006] · **Causeway** (frontier lab, London — no "Labs" suffix) [INV-007] · **Orrery** (model family: Orrery-2, Orrery-3 — hyphenated version numbers) [INV-008].
 
 ## Names added in S1 (canonical spellings)
-Orla Quinn (Quinns as family plural) · Adam Kessler · Priya Nair · Ewan Baird (Dr Baird in muggle prose) · Ciarán, Colm, Sinéad, Bríd Quinn (fadas always) · Susan Bones · Saul Croaker · Padma Patil · Assistant Keeper of the Hall of Prophecy (Orla's post; "the Keeper's office" lower-case k for the room)
+Orla Quinn (Quinns as family plural; "Miss Quinn" in Ministry address) · Adam Kessler · Priya Nair · Ewan Baird (Dr Baird in muggle prose) · Ciarán, Colm, Sinéad, Bríd Quinn (fadas always) · Susan Bones · Saul Croaker · Padma Patil · Assistant Keeper of the Hall of Prophecy (Orla's post; "the Keeper's office" lower-case k for the room)
 
 ## Canon terms added in S1
 Unplottable (capital U, GoF ch.11 [pin exact line at first prose use]) — also the novel's title
@@ -38,6 +38,9 @@ Level Two (Department of Magical Law Enforcement floor) · Level Nine (Departmen
 
 ## Canon terms added in W1
 Level Three (Department of Magical Accidents and Catastrophes — Accidental Magic Reversal Squad, Obliviator Headquarters, Muggle-Worthy Excuse Committee; the lift's inventory, OotP ch.7 [pin exact wording at first prose use]) · Muggle / Muggle-born (canon capitalisation, books throughout — house style follows canon in prose; lower-case "muggle" survives only in pre-W1 bible notes)
+
+## Canon terms added in W3
+Muggle-Worthy Excuse (the Committee's product — capitalised per the committee's Tier-1 name; the Level Three lift inventory **quoted verbatim in ch3 prose and hereby pinned**: "Level Three, Department of Magical Accidents and Catastrophes, incorporating the Accidental Magic Reversal Squad, Obliviator Headquarters and Muggle-Worthy Excuse Committee", OotP ch.7) · the Squad (short form of Accidental Magic Reversal Squad, capital S in Level Three usage) · the Committee (short form of Muggle-Worthy Excuse Committee, capital C in Level Three usage) · King's Cross (PS ch.6) · Healer (job title, capital H; lime-green robes, OotP ch.22)
 
 ## Common-usage words (lint-acknowledged — ordinary English, not terms; listed so the glossary lint stays a real alarm)
 Monday · Tuesday · Wednesday · Thursday · Friday · Saturday · Sunday · Boxing Day

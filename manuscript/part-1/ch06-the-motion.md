@@ -41,7 +41,7 @@ The violet memo arrived while she was still standing there, wings squared, in a 
 
 "Level One," said the lift, "Minister for Magic and Support Staff," in the tone it kept for its best material, and Orla stepped out into carpet.
 
-She had gone down for six years, then sideways for a fortnight, and now up; the lift was running out of Britain to show her. Level One was quieter than any floor she had worked and warmer than any floor deserved to be, and the briefing room, when an assistant showed her in, held one long table, no portraits she could see being seen by, and the Minister for Magic, pouring the tea herself.
+She had gone down for six years, then sideways for a fortnight, and now up; the lift was running out of Britain to show her. Level One was quieter than any floor she had worked and warmer than any floor deserved to be, and the briefing room, when an assistant showed her in, held one long table, no portraits she could see being seen by, and the Minister for Magic, pouring the tea herself. Light came from high windows that were somebody's idea of a fine morning — a shade too even, like weather in a painting — and the only furniture with any age on it was the easel: oak, paint-flecked at the feet, plainly borrowed from a schoolroom once and never returned.
 
 Susan Bones was a broad, quiet woman who read every paper on the table before she let anyone speak, and while she read, the room — heads of this and that, robes at their soberest, the Squad's daisy on one shoulder by the door — arranged itself around her silence the way furniture arranges itself around a fire. Orla had expected glitter, or at least weather. What the Minister had instead was the manner of a senior matron on a difficult ward: no hurry, no performance, the attention going round the table like a lamp.
 
@@ -53,7 +53,7 @@ So Orla told them. She had rehearsed it in the lift and abandoned the rehearsal 
 
 The room made the sound she had last heard on Level Three, over an island — twenty professionals privately re-deriving the same result.
 
-"Thank you," the Minister said, without hurry. "The Head of the DMLE reaches the same wall by a different stair. Her memorandum has been circulated; I'll have the operative part in the minutes." She nodded to the assistant, who read it out in the flat voice reserved for other people's thunder:
+"Thank you," the Minister said, without hurry. "The Head of Magical Law Enforcement reaches the same wall by a different stair. Her memorandum has been circulated; I'll have the operative part in the minutes." She nodded to the assistant, who read it out in the flat voice reserved for other people's thunder:
 
 > DEPARTMENT OF MAGICAL LAW ENFORCEMENT — MEMORANDUM TO THE MINISTER
 > Re: Breach (Documentary) 2033/1 — enforcement position
@@ -63,9 +63,9 @@ The room made the sound she had last heard on Level Three, over an island — tw
 > 4. Containment, as doctrine, ended on 21 March. What remains to us is the management of arrival. I am aware this memorandum will be read as pessimism. I ask that it be read again in May.
 > — Granger, DMLE
 
-Paragraph three said, under the DMLE's letterhead, in the DMLE's unhurried ink, the sentence Orla had crossed out of her own first draft a week ago for being too true to file. She kept her face still while it was read, and it cost her.
+Paragraph three said, under Law Enforcement's letterhead, in its unhurried ink, the sentence Orla had crossed out of her own first draft a week ago for being too true to file. She kept her face still while it was read, and it cost her.
 
-"The Head of the DMLE takes the gravest available view," said the Head of Magical Accidents and Catastrophes, a spare precise wizard with fifty years of other people's emergencies behind his eyes, "as her office requires. Ours requires the opposite. The survey holds; the wards hold; the trade has weathered every arrival since 1689, and the procedure—" he did not quite say *has never lost*, the way a man does not quite touch a wall he has always leaned on "—the procedure is not yet exhausted, Minister. Doctrines do not die of a memorandum."
+"Law Enforcement takes the gravest available view," said the Head of Magical Accidents and Catastrophes, a spare precise wizard with fifty years of other people's emergencies behind his eyes, "as her office requires. Ours requires the opposite. The survey holds; the wards hold; the trade has weathered every arrival since 1689, and the procedure—" he did not quite say *has never lost*, the way a man does not quite touch a wall he has always leaned on "—the procedure is not yet exhausted, Minister. Doctrines do not die of a memorandum."
 
 "No," the Minister agreed. "They die of the thing the memorandum describes." But she said it mildly, and the room chose to hear it as balance, and the memo went into the minutes the way a stone goes into deep water: in perfect order, and without visible effect.
 
@@ -73,9 +73,9 @@ Paragraph three said, under the DMLE's letterhead, in the DMLE's unhurried ink, 
 
 "Propose it," the Minister said.
 
-He stood, which nobody else had done, and for the first sentence it was pomposity; and then it stopped being, which was the most frightening thing Orla had watched all week.
+He stood, which nobody else had done, and for the first sentence it was pomposity; and then it stopped being pomposity, which was the most frightening thing Orla had watched all week.
 
-"In 1689 the Confederation signed the Statute, and we withdrew — and we did it badly. Half a withdrawal. We kept the hems of our robes in their world: enchanted ways through their stations, a hospital behind their shopfronts, this Ministry under their street. For three centuries we have lived like a man hiding in a house he insists on walking through, and we have called the success of the patching a doctrine. The paper on that easel is the bill for the half we kept. I move" — and the committee English came up under him like a keel — "that Britain lay before the Wizengamot, and thereafter before the Confederation, a second and final Seclusion: every dwelling, every settlement, every soul of magical Britain enrolled under the Fidelius and its sister concealments; every enchanted way between the worlds closed; every Muggle-facing office of this Ministry wound up — in order, with honour, and for good. The first Seclusion was 1689, and it was left half-done because finishing was hard. I move that we finish the work."
+"In 1689 the Confederation signed the Statute, and we withdrew — and we did it badly. Half a withdrawal. We kept the hems of our robes in their world: enchanted ways through their stations, a hospital behind their shopfronts, this Ministry under their street. For three centuries we have lived like a man hiding in a house he insists on walking through, and we have called the success of the patching a doctrine. The paper on that easel is the bill for the half we kept. I move that Britain lay before the Wizengamot, and thereafter before the Confederation, a second and final Seclusion: every dwelling, every settlement, every soul of magical Britain enrolled under the Fidelius and its sister concealments; every enchanted way between the worlds closed; every Muggle-facing office of this Ministry wound up — in order, with honour, and for good. The first Seclusion was 1689, and it was left half-done because finishing was hard. I move that we finish the work."
 
 Silence — but a working silence, the kind the Hall's readers gave a difficult label.
 
@@ -87,7 +87,7 @@ Silence — but a working silence, the kind the Hall's readers gave a difficult 
 
 And the Minister did not laugh.
 
-Orla watched her not do it — watched the one person in the room with the standing to call the motion absurd sit instead with her hands round a cooling cup, listening the way you listen to an old song you had hoped not to hear again — and understood, with the part of her that read rooms the way she read shelves, that she was watching a family history attend a meeting. Nobody over fifty at that table needed the arithmetic of the name Bones explained. It was a name from the lists — the first war's famous dead, a family that had been easy to find — and its last daughter sat at the head of the table while a decent man proposed that no one magical ever be findable again, and she did not laugh, and the not-laughing went through the room like a change of pressure.
+Orla watched her not do it — watched the one person in the room with the standing to call the motion absurd sit instead with her hands round a cooling cup, listening the way you listen to an old song you had hoped not to hear again — and understood, with the part of her that read rooms the way she read shelves, that she was watching a family history attend a meeting. Nobody over fifty at that table needed the arithmetic of the name Bones explained. It was a name from both wars' lists — a whole family of the first war's famous dead, and then, a generation on, an aunt at the head of Magical Law Enforcement, found at home by the enemy himself behind a door locked from the inside — a family that had been easy to find — and its last daughter sat at the head of the table while a decent man proposed that no one magical ever be findable again, and she did not laugh, and the not-laughing went through the room like a change of pressure.
 
 "The Department of Mysteries," the Minister said at last. "Do you keep a view on any of this?"
 
@@ -101,7 +101,15 @@ Nobody answered.
 
 * * *
 
-The lift going down recited the Ministry to her floor by floor, a country reading itself aloud to nobody, and Orla stood in it and did what she always did on the far side of fear. She took inventory.
+Lupin was at the lifts before her, holding the grille the way he held doors for people he was about to inconvenience.
+
+"Miss Quinn. Two weeks today," he said, pleasantly, as the gate closed on the two of them. "I've read every minute you've filed. They're the best-drafted documents on my desk — status, materials, propagation, everything a file could want except a direction. If I didn't know the drafting was yours, I'd say it was ours." The lift recited Level Two to itself. "Assessments have a shape by now, in my experience. Yours is a circle."
+
+"Circles are a shape, sir."
+
+"So they are," Lupin said, warm the whole time, which was the worst of it, and got out at Three, and turned in the bright corridor. "Wednesday, as usual. Do give it an arrow."
+
+Alone from Level Three down, the lift recited the Ministry to her floor by floor, a country reading itself aloud to nobody, and Orla stood in it and did what she always did on the far side of fear. She took inventory.
 
 Three doctrines had stood up in that room. The wipe — still walking, dead since the twenty-first of March, kept upright now mostly by the loyalty of good men to the meaning of their own careers; she had watched the Head of Accidents lean on a wall that was no longer there and had felt nothing but pity, and the pity frightened her more than his doctrine did. The seal — born this morning, argued best of the three, wrong in a way only the map could prove, and the map would prove it too late to matter. And a third, which had no faction, no motion and no name, and had entered the room exactly once, dressed as the Minister's last question — "what do the finders do next" — because the honest answer was: that depends on what they find. A fortress, or a door. Nobody had proposed the door. She had stood in the highest room she would ever stand in with the whole shape of the proposal held ready, indexed, ordered the way she ordered things when she was frightened — and had put none of it in the room, again, and had spent the ride down examining what she was becoming, like a label re-inked in a hand she did not entirely trust.
 
@@ -109,8 +117,8 @@ Because here was the morning's true finding, the one in nobody's minutes. Every 
 
 She had built that shelter out of true sentences, for a man none of them had met.
 
-That was the other inventory, and it was short. Three hours, the highest table in Britain, the map on its easel and the motion on its feet, the machinery of two worlds turning over one Tuesday's arithmetic — and in all of it, no one had asked a single question about the man. Not the source, not the author, not *subject, primary*. The man: tall and sorry about it, milk offered first, keeping one line open on his own recognisance because closing it would have been tidy, and untrue.
+That was the other inventory, and it was short. Three hours, the highest table in Britain, the map on its easel and the motion on its feet, the machinery of two worlds turning over one Tuesday's arithmetic — and in all of it, no one had asked a single question about the man. Not the source, not the author, not *subject, primary*. The man: tall and sorry about it, milk offered first, keeping one line open because closing it would have been tidy, and untrue.
 
-Nobody else in that room had once looked at him. She had done nothing else all morning.
+Nobody else in that room had once looked at him.
 
 "Level Nine," said the lift, with its usual satisfaction, "Department of Mysteries," and she went down into the winter, to keep the state's one open question open another week.

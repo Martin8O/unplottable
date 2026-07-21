@@ -10,7 +10,7 @@ payoffs: []
 status: draft
 ---
 
-The knock came at eight exactly, which he had already learnt was her: a person who treated other people's time as an archive she was borrowing from.
+The knock came at eight exactly, which he had already learnt was her.
 
 He had brought it on himself, in the plain sense that he had started it. That afternoon, at the end of the Tuesday session, with the renewal plan closed and the pens down, he had heard himself make a disclosure the review had not asked for: that Meridian's integrity strand kept a public staff page; that he had known this for three weeks; that he had not looked at it and did not intend to; and that the review deserved to know its subject was running an unaudited manual override on his own diligence. He gave her the reason, too — the doorplate in Leipzig, the passports, the family habit read at its second face: never be the man who runs the check. She had gone very still while he said it, the stillness of a reader at a difficult label, and then she had asked, in a voice with no procedure left in it, whether she might call at his flat that evening. Off the file. He had said yes before he had decided anything, which was becoming the signature move of his year.
 
@@ -46,9 +46,9 @@ Her name was her name; he had never been lied to about a single fact, which she 
 
 He asked his questions, and they came out in his own dialect, because it was the only one he had. How many — and she declined the number, gently, as not hers to give away: "Fewer than you fear. More than you'd credit." Since when — and she gave him a date, 1689, a signature, an actual document, and his sense of the last month rearranged itself around the fact that the oldest data point in the study predated the telescope. And the question he asked with a gesture at the kitchen, at the steady lights and the sleeping screen: why does nothing ever register?
 
-"You've already published the answer," she said. "Your instruments see what our concealments do. Never what they are. And here's the part your side will never guess on its own: so do we. We don't know what it is either. We work it the way you work your models — craft, apprenticeship, knowing what happens without once knowing why. Your people mapped our entire way of knowing from orbit, Dr Kessler, and called it Figure 1."
+"You've already published the answer," she said. "Your instruments see what our concealments do. Never what they are. Enough of us in one place will make your machines misbehave outright — a castle's worth of us; your instruments have been complaining about the Highlands for years without knowing what about. One mend in one kitchen doesn't ripple. And here's the part your side will never guess on its own: so do we. We don't know what it is either. We work it the way you work your models — craft, apprenticeship, knowing what happens without once knowing why. Your people mapped our entire way of knowing from orbit, Dr Kessler, and called it Figure 1."
 
-He asked, finally, what she called it — the it of all of it — and she told him, and the word arrived wearing three centuries of pantomime and had to sit at his kitchen table while it took off the costume, item by item, and became a technical term. It took less time than it should have. The kitchen smelled of rain off her coat, and of tea, and there was a witch at his table drinking it, and somewhere in the last quarter-hour the word had stopped being embarrassing the way a foreign currency stops being toy money the first time you buy bread with it.
+He asked, finally, what she called it — the it of all of it — and she told him, and the word arrived wearing three centuries of pantomime, and sat at his kitchen table while it became a technical term. It took less time than it should have. The kitchen smelt of rain off her coat, and of tea, and there was a witch at his table drinking it, and somewhere in the last quarter-hour the word had stopped being embarrassing the way a foreign currency stops being toy money the first time you buy bread with it.
 
 And then, because the order mattered, she told him what she had been sent to do.
 
@@ -58,6 +58,12 @@ She told him about the office that manufactured forgetting — a whole floor of 
 
 The kitchen was quiet. Below the window the street did its small hours of business; a bus ran its interval; somewhere in the building a door closed on someone's ordinary evening — the world going on writing itself down, every second, in channels she had just told him could be made to forget.
 
+He got up. Not towards her — to the window, which was as far as the kitchen went, and stood with his back to the glass, and heard his own voice arrive level and stripped, three weeks late.
+
+"You sat in my office and audited my error handling, and the error being handled was me. I showed you the hold. I showed you the workings." He was not loud. He did not know how to be. "You watched me hope the review was real. What was the recommendation going to say, Miss Quinn — the day the tea wasn't good enough?"
+
+"I don't know," she said, which was not the answer that had been prepared for anywhere in him. "I never once wrote it. That's the whole of what I have to offer you: the blank where it should be."
+
 "Priya," he said. Quietly, and with no qualifier anywhere on it. "She checked the sums. That's the entirety of what she did. She's twenty-six."
 
 "I know her age," Orla said. "It's a column on a page I hate. Nothing touches that list while my line is blank, and my line stays blank. That's not a kindness I'm offering; it's the one power I hold, and you should know I am spending it illegally. My interim minutes are true the way your funding reports are true. Assembled. My state believes it is waiting for my recommendation. It is not waiting. There will never be one."
@@ -66,7 +72,7 @@ The kitchen was quiet. Below the window the street did its small hours of busine
 
 "I'm describing my terms," she said. "You were always going to be told; you were owed it from the day I drank your tea under a legend. But I came tonight because the politics has a clock on it now, and I'll not do the next part without you knowing every fact I know." She turned her cup a quarter-turn, her one tell, he thought; filed it. "A man stood up in a high room on Friday and proposed, decently, that my country finish the work of 1689 — seal itself under its concealments entirely and for ever. He argued it well. If his motion carries, there is no version of me still sitting at this table. And a woman at the head of that table asked the one question nobody could answer: when the finders find a hidden thing that hid on purpose — what do they do next?"
 
-"That depends on what they find," Adam said. The answer arrived assembled, no drafting stage he could point to. "A wall, or a door."
+"That depends on what they find," Adam said, and came back to the table, and sat down. The answer had arrived assembled, no drafting stage he could point to. "A wall, or a door."
 
 Orla looked at him for a long moment, and something in her settled, the way an instrument settles on its reading.
 
@@ -104,7 +110,7 @@ Friday began with a checksum.
 
 "Vendors re-cut extracts and re-stamp them, because vendors are why we can't have provenance," Priya agreed. "It's the tidiest bug I've seen all year — nothing's wrong except that nothing happened. If the audit were still live I'd chase it, but the audit's in maintenance and I have a calibration chapter due and, Adam, I am *at peace* with maintenance mode. You've no idea. My mother asked what I do now and I said 'quality assurance' and she was so happy."
 
-He looked at the diff for the length of one mug of tea. The mug was the mended one; he had brought it in, and told nobody why, and drunk from the crack side all morning. Fourteen sites, fractionally sharper, on no new data. Once — a month ago, a life ago — he would have put a hold on it, on principle, the principle being that a result which improves while nobody is looking is a result with a private income. But the sites were the same sites; the answer was the same answer; a re-cut extract explained it to one decimal place of plausibility, and his attention, rationed now like everything else in his amended life, had standing obligations elsewhere. Five hundred and thirty-one days of refusing tidy answers, and he took this one at its word — filed it, in the moment, under the heading his whole field kept for such things, which was: fine.
+He looked at the diff for the length of one mug of tea. The mug was the mended one; he had brought it in, and told nobody why, and drunk from the crack side all morning. Fourteen sites, fractionally sharper, on no new data. Once — a month ago, a life ago — he would have put a hold on it, on principle, the principle being that a result which improves while nobody is looking is a result with a private income. But the sites were the same sites; the answer was the same answer; a re-cut extract explained it to one decimal place of plausibility, and his attention, rationed now like everything else in his amended life, had standing obligations elsewhere: a renewal case to be rewritten into reputable dullness, and a student to steer towards the calibration chapters without her feeling the rudder. Five hundred and thirty-one days of refusing tidy answers, and he took this one at its word — filed it, in the moment, under the heading his whole field kept for such things, which was: fine.
 
 "Log it and cap it," he said. "Maintenance mode."
 

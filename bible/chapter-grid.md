@@ -87,7 +87,7 @@
 **register** Adam register cracked open by wonder — first bleed of the dial.
 
 ### I-1 · Preprint / Memorandum
-`interlude · after ch7 · slug i1-preprint-memorandum · artefact document · date 2033-03/04 (documents) · target ~700 · written in WP1 · model-behaviour: none`
+`interlude · after ch7 · slug i1-preprint-memorandum · artefact document · date 2033-04 (documents; the preprint's v1 is dated 21 March) · target ~700 · written in WP1 · model-behaviour: none`
 **form** The preprint abstract (with the *inhabited-looking* sentence and the footnote) set against the Ministry's containment memorandum — two bureaucracies, one grammar; the tone-mirror seeds T5's symmetry unledgered.
 **plants** P-T1-2 (abstract footnote: "dataset vintage reconciliation pending" — housekeeping to the reader, the steering's paper trail in truth) · **payoffs** —
 **register** Paper-formal × ministry-formal; comedy of convergent officialese.

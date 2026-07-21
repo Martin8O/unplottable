@@ -88,6 +88,11 @@ Voice sheets in `bible/characters.md` are binding; the one-line keys:
 - **Draco (53):** clipped, guarded, formal — the drawl banked, not gone.
 - Per-appearance canon-voice check at part-boundary panels (Wiki 05 §8); Hermione is **at cap**
   (5 scenes / 8 chapters) — every line of hers must earn set-piece weight.
+- **Ensemble guardrail (WP1 panel finding):** at most ONE aphorist per exchange. In committee/
+  briefing scenes, minor voices get plain, functional lines — let somebody be dull, hesitant,
+  or wrong on purpose. The leads' balanced-antithesis wit is THEIR register, not the room's;
+  when everyone speaks in struck epigrams the reader hears the author (Sorkin convergence —
+  flagged independently by two WP1 panellists; full prune of narration tics deferred to E2a).
 
 ### 2.4 The fragment's register (Part II on; W-phase discipline)
 - It **writes**; it never speaks (world-rules F3). On-page presence = artefacts, console

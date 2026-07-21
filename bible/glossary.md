@@ -27,5 +27,8 @@ Orla Quinn (Quinns as family plural) · Adam Kessler · Priya Nair · Ewan Baird
 ## Canon terms added in S1
 Unplottable (capital U, GoF ch.11 [pin exact line at first prose use]) — also the novel's title
 
+## Canon names & terms added in S2
+Ernie Macmillan (canonical spelling — two n's in Macmillan per books) · Xenophilius Lovegood · Pandora Lovegood [T2 name — see invented-canon S2 adoptions] · Department of International Magical Cooperation
+
 ## Our terms (invented — each with invented-canon.md id)
-(pending — S2 fills novum vocabulary)
+**the Cartographer** [INV-020] — working-group codename for the steering agent (coined ch15–16; "the revenant" from ch17, Rose's coinage; "the Pandora fragment" formal post-identity) · **pattern Horcrux** [INV-021] — the group's later technical term; in-prose arrives via Hermione/Rose in Part III, never earlier · **pattern-anchor** [INV-021] — the rite's binding target (non-local; recurs where data matches its key) · **the Second Seclusion** [INV-022] — the national-Fidelius movement (capital S both words; members "Seclusionists"; never "Retreat" in prose — that is our structural label only) · **the census** [INV-020] — the fragment's ask: the wizard-side registry it cannot compile itself · **provenance quarantine** [INV-021/B3] — treaty-mandated exclusion of unverified corpora from training (lower case) · **soul-assay** [INV-023] — the joint magic×tech instrument standard (hyphenated noun) · **the Kessler Anomalies** [C3/§3b] — what the sites get called publicly before the treaty renames them (his cost: the name comes off)

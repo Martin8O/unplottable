@@ -6,6 +6,7 @@ The manuscript must obey these files; these files must obey Tier-1 canon (`Local
 |---|---|---|
 | `characters.md` | canon dossiers + original-character sheets + voice notes | R1, S1 |
 | `world-rules.md` | Part A: cited canon mechanics · Part B: our three novums' rules · Part C: 2033 muggle-tech baseline | R2, S2, R4 |
+| `plot-architecture.md` | S2 beat sheet (5 parts, sequence altitude) · twist dossiers T1–T5 · romance spine · B-plots · S3 directives — SPOILER-bearing | S2, S3 |
 | `timeline.md` | 1692 → 2033 spine + per-chapter story dates | R2, S3 |
 | `glossary.md` | canonical spellings: spells, places, institutions, invented terms (gate lints against this) | R1+, all |
 | `foreshadowing-ledger.md` | plant/payoff table for every twist (fair-play discipline) | S2, all W |

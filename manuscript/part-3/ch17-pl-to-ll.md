@@ -4,7 +4,7 @@ part: III
 title: P.L. to L.L.
 pov: Orla
 date_in_story: 2033-08-12
-target_words: 4500
+target_words: 3500
 plants: [P-T3-2]
 payoffs: [P-T2-1, P-T2-2, P-T2-3]
 status: stub

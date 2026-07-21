@@ -4,7 +4,7 @@ part: III
 title: The Manor
 pov: Orla
 date_in_story: 2033-09-02
-target_words: 3900
+target_words: 3050
 plants: []
 payoffs: []
 status: stub

@@ -4,7 +4,7 @@ part: IV
 title: The Naturalist
 pov: Adam
 date_in_story: 2033-10-14
-target_words: 3800
+target_words: 2950
 plants: []
 payoffs: []
 status: stub

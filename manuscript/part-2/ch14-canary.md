@@ -4,7 +4,7 @@ part: II
 title: Canary
 pov: Adam
 date_in_story: 2033-07-01
-target_words: 3900
+target_words: 3050
 plants: [P-T3-1]
 payoffs: []
 status: stub

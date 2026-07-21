@@ -4,7 +4,7 @@ part: V
 title: Two Receivers
 pov: Orla
 date_in_story: 2033-12-19
-target_words: 4500
+target_words: 3500
 plants: []
 payoffs: [P-T4-1, P-T4-2, P-T4-3, P-T4-3a]
 status: stub

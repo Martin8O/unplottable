@@ -4,7 +4,7 @@ part: V
 title: Quinn & Kessler et al.
 pov: none
 date_in_story: 2034
-target_words: 700
+target_words: 550
 plants: []
 payoffs: []
 status: stub

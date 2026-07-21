@@ -4,7 +4,7 @@ part: IV
 title: Compartments
 pov: Orla
 date_in_story: 2033-10-07
-target_words: 3900
+target_words: 3050
 plants: [P-T3-4]
 payoffs: []
 status: stub

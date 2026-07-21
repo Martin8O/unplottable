@@ -4,7 +4,7 @@ part: I
 title: Terms and Conditions
 pov: Adam
 date_in_story: 2033-04-22
-target_words: 4200
+target_words: 3300
 plants: [P-T1-1]
 payoffs: []
 status: stub

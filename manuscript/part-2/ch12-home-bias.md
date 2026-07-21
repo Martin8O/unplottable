@@ -4,7 +4,7 @@ part: II
 title: Home Bias
 pov: Adam
 date_in_story: 2033-06-10
-target_words: 3800
+target_words: 2950
 plants: [P-T1-3, P-T2-3]
 payoffs: []
 status: stub

@@ -4,7 +4,7 @@ part: V
 title: Where the Gates Open
 pov: Orla
 date_in_story: 2033-12-22
-target_words: 4500
+target_words: 3500
 plants: []
 payoffs: [P-T5-1, P-T5-2]
 status: stub

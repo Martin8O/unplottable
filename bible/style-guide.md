@@ -139,7 +139,11 @@ Voice sheets in `bible/characters.md` are binding; the one-line keys:
 
 ## 3. Chapter shape & pacing (binding checks)
 
-- Target **3,800–4,600** words; hard band **3,200–5,200** (gate-checked). Interludes 600–1,200.
+- Target **2,900–3,700** words; hard band **2,500–4,000** (gate-checked). Interludes 500–1,000.
+  *(S6 rescale: the book is 300–400 printed A5 pages ≈ 118k words, not 151k. Chapters got
+  ~22% leaner, the grid's relative weights unchanged — set-pieces are still the long ones.
+  Consequence for the prose: enter later, leave earlier; a scene that isn't changing a value
+  no longer has anywhere to hide. The floor exists to stop skeletal chapters, not to be hit.)*
 - Every chapter lands its card's **goal → friction → turn → out-hook** (grid = contract; the
   W-prompt report quotes the landing lines).
 - Enter late, leave early; every scene changes a value; exposition rides on conflict or charm.
@@ -334,7 +338,7 @@ the blond man
 
 ## 9. Gate thresholds (S5 implements; this section is the spec)
 
-- Word band per chapter: hard 3,200–5,200 (interludes 600–1,200; probes exempt from bands).
+- Word band per chapter: hard 2,500–4,000 (interludes 500–1,000; probes exempt from bands).
 - Adverb budget: **manner adverbs** (-ly tokens outside dialogue) ≤4 per 1k words → warn;
   >6 → fail. *(S4 calibration: the count EXCLUDES a whitelist of degree/focus adverbs — nearly,
   exactly, entirely, barely, hardly, merely, mostly… — and -ly non-adverbs — only, family,

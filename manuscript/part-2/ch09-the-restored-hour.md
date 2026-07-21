@@ -4,7 +4,7 @@ part: II
 title: The Restored Hour
 pov: Orla
 date_in_story: 2033-05-13
-target_words: 3800
+target_words: 2950
 plants: []
 payoffs: []
 status: stub

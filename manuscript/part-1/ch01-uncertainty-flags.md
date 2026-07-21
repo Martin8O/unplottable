@@ -4,7 +4,7 @@ part: I
 title: Uncertainty Flags
 pov: Orla
 date_in_story: 2033-03-22
-target_words: 4300
+target_words: 3350
 plants: [P-T2-1, P-T4-1]
 payoffs: []
 status: stub

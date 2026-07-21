@@ -4,7 +4,7 @@ part: II
 title: World Models
 pov: Adam
 date_in_story: 2033-05-20
-target_words: 3800
+target_words: 2950
 plants: []
 payoffs: []
 status: stub

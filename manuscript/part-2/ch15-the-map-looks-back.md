@@ -4,7 +4,7 @@ part: II
 title: The Map Looks Back
 pov: Orla
 date_in_story: 2033-07-08
-target_words: 4500
+target_words: 3500
 plants: []
 payoffs: [P-T1-1, P-T1-2, P-T1-3]
 status: stub

@@ -4,7 +4,7 @@ part: III
 title: Inquest
 pov: none
 date_in_story: 2033-09
-target_words: 950
+target_words: 750
 plants: [P-T4-3a]
 payoffs: []
 status: stub

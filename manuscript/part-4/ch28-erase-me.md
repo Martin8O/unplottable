@@ -4,7 +4,7 @@ part: IV
 title: Erase Me
 pov: Adam
 date_in_story: 2033-11-18
-target_words: 4200
+target_words: 3300
 plants: []
 payoffs: []
 status: stub

@@ -58,9 +58,9 @@ PART_DIR = {"I": "part-1", "II": "part-2", "III": "part-3",
             "IV": "part-4", "V": "part-5"}
 
 THRESHOLDS = {
-    "chapter_hard": (3200, 5200),      # style-guide 3/9: hard band
-    "chapter_target": (3800, 4600),    # target band -> warn outside
-    "interlude": (600, 1200),          # interludes 600-1,200
+    "chapter_hard": (2500, 4000),      # style-guide 3/9: hard band (S6 rescale)
+    "chapter_target": (2900, 3700),    # target band -> warn outside
+    "interlude": (500, 1000),          # interludes 500-1,000
     "adverbs_warn": 4.0,               # manner adverbs / 1k narration words
     "adverbs_fail": 6.0,
     "simile_per_300": 1.0,             # like a|as if|as though

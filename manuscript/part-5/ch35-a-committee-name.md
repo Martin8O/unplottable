@@ -4,7 +4,7 @@ part: V
 title: A Committee Name
 pov: Adam
 date_in_story: 2034-01-13
-target_words: 4200
+target_words: 3300
 plants: []
 payoffs: [P-T5-3]
 status: stub

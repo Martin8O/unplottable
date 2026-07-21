@@ -4,7 +4,7 @@ part: IV
 title: Front Page / Tract
 pov: none
 date_in_story: 2033-11
-target_words: 900
+target_words: 700
 plants: [P-T5-3]
 payoffs: []
 status: stub

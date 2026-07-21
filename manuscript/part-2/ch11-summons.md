@@ -4,7 +4,7 @@ part: II
 title: Summons
 pov: Orla
 date_in_story: 2033-05-27
-target_words: 4200
+target_words: 3300
 plants: []
 payoffs: []
 status: stub

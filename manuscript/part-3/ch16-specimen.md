@@ -4,7 +4,7 @@ part: III
 title: Specimen
 pov: Adam
 date_in_story: 2033-08-05
-target_words: 4500
+target_words: 3500
 plants: [P-T4-3]
 payoffs: []
 status: stub

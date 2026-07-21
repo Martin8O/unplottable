@@ -4,7 +4,7 @@ part: V
 title: Unplottable
 pov: Orla
 date_in_story: 2034-02-04
-target_words: 3800
+target_words: 2950
 plants: []
 payoffs: [P-T5-4]
 status: stub

@@ -4,7 +4,7 @@ part: I
 title: Cover Stories
 pov: Adam
 date_in_story: 2033-04-04
-target_words: 3900
+target_words: 3050
 plants: []
 payoffs: []
 status: stub

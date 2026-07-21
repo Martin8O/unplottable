@@ -4,7 +4,7 @@ part: II
 title: Eval Log
 pov: none
 date_in_story: 2033-07-05
-target_words: 800
+target_words: 650
 plants: [P-T2-2, P-T4-2]
 payoffs: []
 status: stub

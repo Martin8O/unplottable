@@ -1,5 +1,15 @@
 # dev_history.md — changelog & decisions
 
+## 2026-07-21 — S6: Form rescale — 151k → ~118k (300–400 printed A5 pages)
+
+- **Martin corrected the brief's unit:** the original "300 pages" always meant *book* pages, not A4; restated as **300–400 printed A5 pages**. At a realistic 300–330 words per A5 page that is ~100–130k words — the gridded 151k would have been **460–500 pages**, roughly half a book too long. Caught one prompt before W1, with zero prose written.
+- **New budget ~118k** (114,500 chapters + 3,350 interludes). Every card scaled by a flat **0.78** (interludes 0.80), rounded to 50, by a scripted rewrite of the grid rather than by hand — so S3's *relative* weights survive untouched: the set-pieces (ch15/16/17 reveal run, ch33/34 the vial and the vote) are still the longest cards at 3,500; the breath chapters (ch09/10/12/24/36) still the shortest at 2,950. Per-part: I 22,250 · II 24,850 · III 22,500 · IV 22,400 · V 22,500. Page projection: **357–393 pages** at 300–330 w/p.
+- **Nothing structural moved.** 41 cards, 5 parts, 15 sequences, 18 ledger rows, POV 20/16 = 55.6/44.4, every beat, twist, date, site and cast budget stands exactly as S2/S3 locked them. The rescale is 41 numbers and four band constants, not a re-plot.
+- **Why this lever:** the reduction is spent on prose density, not on architecture. Cutting chapters or a B-plot would have bought the same pages by damaging precisely what S2/S3 exist to protect; shortening every chapter by ~22% instead tightens a rule the style guide already had ("enter late, leave early; every scene changes a value"). The craft consequence is recorded in style-guide §3: the floor exists to stop skeletal chapters, not to be hit, and the 4,000 ceiling leaves ~15% headroom for a card that genuinely needs it without a grid edit.
+- Bands moved with the cards: target **2,900–3,700**, hard **2,500–4,000**, interludes **500–1,000** — style-guide §3 + §9, `gate.py` `THRESHOLDS`, and all 41 stub front-matters regenerated from the rewritten grid. `build.ps1` now sets an **A5 book block** (1.8 cm margins, 10 pt) instead of A4 — the geometry the word budget assumes; E4 still owns final typesetting.
+- Verification: `gate.py` GREEN · `--cards` GREEN (36+5, POV 55.6/44.4, 114,500 + 3,350 = 117,850, every card inside the new target band) · `--selftest` GREEN, all 18 checks still fire.
+- **→ ADR-003a** (form rescale; ADR-003's ~148k superseded).
+
 ## 2026-07-21 — S5: Tooling — scaffold + quality gate + build
 
 - **`manuscript/` scaffolded**: 41 stub files (`part-1..5/chNN-slug.md` + `iN-slug.md`), front-matter generated **verbatim from the S3 cards** by a throwaway generator that imports the gate's own card parser — so the scaffold and the gate can never disagree about what a card says. Stub bodies carry a **pointer** to their card, never a copy: duplicating goal/friction/turn into 41 files would guarantee drift at the first WPn grid edit, and the grid is the single source of truth (ADR-004).

@@ -4,7 +4,7 @@ part: I
 title: Assessment Ongoing
 pov: Orla
 date_in_story: 2033-03-29
-target_words: 4000
+target_words: 3100
 plants: [P-T5-4]
 payoffs: []
 status: stub

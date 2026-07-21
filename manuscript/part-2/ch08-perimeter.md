@@ -4,7 +4,7 @@ part: II
 title: Perimeter
 pov: Adam
 date_in_story: 2033-05-06
-target_words: 4000
+target_words: 3100
 plants: []
 payoffs: []
 status: stub

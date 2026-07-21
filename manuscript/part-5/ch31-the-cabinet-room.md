@@ -4,7 +4,7 @@ part: V
 title: The Cabinet Room
 pov: Adam
 date_in_story: 2033-12-08
-target_words: 3900
+target_words: 3050
 plants: []
 payoffs: []
 status: stub

@@ -4,7 +4,7 @@ part: V
 title: Tranche
 pov: Adam
 date_in_story: 2033-12-15
-target_words: 4000
+target_words: 3100
 plants: []
 payoffs: []
 status: stub

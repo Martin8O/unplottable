@@ -4,7 +4,7 @@ part: III
 title: Buried Mathematics
 pov: Adam
 date_in_story: 2033-08-26
-target_words: 3900
+target_words: 3050
 plants: [P-T5-2]
 payoffs: []
 status: stub

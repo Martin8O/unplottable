@@ -4,7 +4,7 @@ part: I
 title: Muggle-Worthy
 pov: Orla
 date_in_story: 2033-03-25
-target_words: 3900
+target_words: 3050
 plants: []
 payoffs: []
 status: stub

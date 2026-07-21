@@ -4,7 +4,7 @@ part: V
 title: Section Thirteen
 pov: Orla
 date_in_story: 2033-12-05
-target_words: 4000
+target_words: 3100
 plants: []
 payoffs: []
 status: stub

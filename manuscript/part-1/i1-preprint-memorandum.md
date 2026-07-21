@@ -4,7 +4,7 @@ part: I
 title: Preprint / Memorandum
 pov: none
 date_in_story: 2033-03
-target_words: 900
+target_words: 700
 plants: [P-T1-2]
 payoffs: []
 status: stub

@@ -4,7 +4,7 @@ part: II
 title: Keeping Score
 pov: Orla
 date_in_story: 2033-06-17
-target_words: 3900
+target_words: 3050
 plants: []
 payoffs: []
 status: stub

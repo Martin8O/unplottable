@@ -4,7 +4,7 @@ part: III
 title: The Option List
 pov: Orla
 date_in_story: 2033-08-19
-target_words: 3900
+target_words: 3050
 plants: []
 payoffs: []
 status: stub

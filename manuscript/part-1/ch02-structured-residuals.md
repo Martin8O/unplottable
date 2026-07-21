@@ -4,7 +4,7 @@ part: I
 title: Structured Residuals
 pov: Adam
 date_in_story: 2033-03-21
-target_words: 4300
+target_words: 3350
 plants: []
 payoffs: []
 status: stub

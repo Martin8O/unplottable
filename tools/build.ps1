@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    Unplottable - build EPUB and A4 PDF from the manuscript (S5).
+    Unplottable - build EPUB and A5 (book-size) PDF from the manuscript (S5).
 
 .DESCRIPTION
     Assembles manuscript/part-*/ into one book-shaped markdown file via
@@ -113,12 +113,15 @@ if ($Format -in @('pdf', 'both')) {
     }
     else {
         $pdf = Join-Path $out "$stem.pdf"
-        Write-Host "pandoc -> PDF (A4, $engine) ..." -ForegroundColor Cyan
+        # A5 book block: the target is 300-400 printed pages (S6 rescale), which
+        # this geometry delivers at roughly 300-330 words per page. E4 owns the
+        # final typesetting; these are the defaults the word budget assumes.
+        Write-Host "pandoc -> PDF (A5 book, $engine) ..." -ForegroundColor Cyan
         & $pandoc $combined @common `
             "--pdf-engine=$engine" `
-            '-V' 'papersize=a4' `
-            '-V' 'geometry:margin=2.5cm' `
-            '-V' 'fontsize=11pt' `
+            '-V' 'papersize=a5' `
+            '-V' 'geometry:margin=1.8cm' `
+            '-V' 'fontsize=10pt' `
             '-V' 'linkcolor=black' `
             '--output' $pdf
         if ($LASTEXITCODE -eq 0) { $built += $pdf }

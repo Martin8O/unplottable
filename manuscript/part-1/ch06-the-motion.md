@@ -4,7 +4,7 @@ part: I
 title: The Motion
 pov: Orla
 date_in_story: 2033-04-08
-target_words: 3900
+target_words: 3050
 plants: [P-T5-1]
 payoffs: []
 status: stub

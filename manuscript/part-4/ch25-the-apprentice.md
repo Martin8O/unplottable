@@ -4,7 +4,7 @@ part: IV
 title: The Apprentice
 pov: Orla
 date_in_story: 2033-10-21
-target_words: 4400
+target_words: 3450
 plants: []
 payoffs: [P-T3-1, P-T3-2, P-T3-3, P-T3-4]
 status: stub

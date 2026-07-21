@@ -4,7 +4,7 @@ part: IV
 title: Severance
 pov: Orla
 date_in_story: 2033-10-28
-target_words: 3900
+target_words: 3050
 plants: []
 payoffs: []
 status: stub

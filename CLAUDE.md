@@ -1,6 +1,6 @@
 # CLAUDE.md — The Anomaly Engine (working title)
 
-An original ~148k-word sci-fi novel set in the Harry Potter universe (fan fiction, English prose), built one prompt at a time. Gift for a trope-savvy HP-fanfic veteran reader; the quality bar is HERS. Martin (the user) knows no HP canon — **never ask him content questions**; content decisions are the assistant's, process/scope/vibes are his.
+An original ~118k-word sci-fi novel (300–400 printed A5 pages) set in the Harry Potter universe (fan fiction, English prose), built one prompt at a time. Gift for a trope-savvy HP-fanfic veteran reader; the quality bar is HERS. Martin (the user) knows no HP canon — **never ask him content questions**; content decisions are the assistant's, process/scope/vibes are his.
 
 ## Read first, every session
 1. `Local/bootstrap.md` (current state, next step) → then the relevant `bible/` + `Local/Wiki/` sections for the prompt at hand.
@@ -20,7 +20,7 @@ An original ~148k-word sci-fi novel set in the Harry Potter universe (fan fictio
 - Docs (`dev_history.md`, ADRs, bootstrap) change only at wrap-up, never mid-prompt.
 
 ## Conventions
-- Chapters: `manuscript/part-N/chNN-slug.md` with YAML front-matter `chapter, part, title, pov, date_in_story, target_words, plants, payoffs, status`. Bands: target 3.8–4.6k, hard 3.2–5.2k words.
+- Chapters: `manuscript/part-N/chNN-slug.md` with YAML front-matter `chapter, part, title, pov, date_in_story, target_words, plants, payoffs, status`. Bands: target 2.9–3.7k, hard 2.5–4.0k words (S6 rescale).
 - POV: close 3rd past, one head per scene, dual leads; registers per `bible/style-guide.md` (until S4: `Local/Wiki/05-craft-standards.md`).
 - Prose probes/experiments → `Local/scratch/` only, never committed, never reused verbatim.
 

@@ -45,6 +45,9 @@ Muggle-Worthy Excuse (the Committee's product — capitalised per the committee'
 ## Common-usage words (lint-acknowledged — ordinary English, not terms; listed so the glossary lint stays a real alarm)
 Monday · Tuesday · Wednesday · Thursday · Friday · Saturday · Sunday · Boxing Day
 
+## Muggle place names (lint-acknowledged — ordinary geography, not terms; added W5)
+Zurich · Toronto · Leipzig · Shropshire
+
 ## Our terms (invented — each with invented-canon.md id)
 **the Cartographer** [INV-020] — working-group codename for the steering agent (coined ch15–16; "the revenant" from ch17, Rose's coinage; "the Pandora fragment" formal post-identity) · **pattern Horcrux** [INV-021] — the group's later technical term; in-prose arrives via Hermione/Rose in Part III, never earlier · **pattern-anchor** [INV-021] — the rite's binding target (non-local; recurs where data matches its key) · **the Second Seclusion** [INV-022] — the national-Fidelius movement (capital S both words; members "Seclusionists"; never "Retreat" in prose — that is our structural label only) · **the census** [INV-020] — the fragment's ask: the wizard-side registry it cannot compile itself · **provenance quarantine** [INV-021/B3] — treaty-mandated exclusion of unverified corpora from training (lower case) · **soul-assay** [INV-023] — the joint magic×tech instrument standard (hyphenated noun) · **the Kessler Anomalies** [C3/§3b] — what the sites get called publicly before the treaty renames them (his cost: the name comes off)
 

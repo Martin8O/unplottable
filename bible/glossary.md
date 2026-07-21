@@ -14,5 +14,12 @@ Accidental Magic Reversal Squad · *A History of Magic* (Bathilda Bagshot) · Ar
 ## Incantations (italicized in prose)
 *Obliviate* · *Homenum Revelio* · *Expecto Patronum* · *Fidelius* (charm, not incantation) · *Flagrate* · *Legilimens* · (grow as used)
 
+## Muggle-tech terms (R4 — canonical spellings & usage for muggle chapters; gate lints)
+> One canonical form each; British English. Prose uses these EXACTLY — no synonym drift between chapters. Terms are 2026-real or straight-line extrapolations (world-rules Part C); explain-by-context on first use, never lecture.
+
+anomaly map (lower case; "the map" after first use) · AR glasses (never "smart glasses" in Adam's register) · arXiv (lower a, capital X) · benchmark · calibration audit · checkpoint · cross-modal · datacentre (one word, BrE) · dead zone (two words) · eval / evals (noun, informal register only; formal = evaluation) · exhaust (as in location/sensor exhaust) · Figure 1 (capital F when naming the artefact) · fine-tune (hyphenated verb) · footfall data · foundation model · frontier model / frontier lab · GNSS (formal) vs GPS (colloquial — POV-dependent, both allowed) · GPU cluster · holdout · loss curve · open weights (noun) / open-weight (adj.) · overfitting · preprint (never "pre-print") · prediction error · red-team (verb, hyphenated) / red-teaming · residual / residual atlas (Adam's term for the artefact) · revisit cadence · SAR (expand once: synthetic-aperture radar) · sensing fabric · system card · training run · world model (two words, never hyphenated)
+
+**Institution names (fictional analogues — final names locked in S1; these are placeholders, do NOT use in prose yet):** the Institute (AISI-analogue) · Adam's university group (TBD S1) · his funder programme (ARIA-analogue, TBD S1).
+
 ## Our terms (invented — each with invented-canon.md id)
 (pending)

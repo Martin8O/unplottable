@@ -164,6 +164,7 @@ narration; POV characters may be wrong, the narration may not cheat.
   preferred in narration (learnt, spelt, burnt, leapt, dreamt) · "towards", "among", "focused".
   "Whilst" only in dialogue of committee-register speakers (Ernie class).
 - "Gotten" banned (no American character exists to license it — S1 created none).
+- **Canon capitalisation wins in prose:** *Muggle*, *Muggle-born*, *Muggle-Repelling Charm*, *Seer*, *Ministry* (W1 decision — the books capitalise throughout, and a fanfic-veteran reader clocks lower-case *muggle* as a fandom tell). Bible notes written before W1 keep their lower-case usage; the manuscript does not follow them.
 - Dialogue tags: **said/asked default**; anything else earns its place; action beats preferred
   over tag variety; said-bookism watch list in §8.
 - Adverb budget: **≤4 per 1k words** (-ly adverbs outside dialogue; gate counts).

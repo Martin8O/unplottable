@@ -9,7 +9,7 @@ Twist register (engineered in S2 — full dossiers in `bible/plot-architecture.m
 - **T4** — prophecy record ↔ eval log convergence (canonical text in plot-architecture §2/T4) · pays **ch33**
 - **T5** — three refusals, one move (fragment / Second Seclusion / muggle burial vs the bridge) · pays **ch33–35**
 
-> Chapter numbers are S2 sequence anchors, **provisional until the S3 grid**; S3 may shift within a sequence (never across a part boundary) and must update this table in the same prompt. Interlude positions: I-1 after ch7 · I-2 after ch15 · I-3 after ch22 · I-4 after ch29 · I-5 after ch36 (payoff-only by design — WP5 note; no plant lives there).
+> Chapter numbers **FINAL per the S3 grid** (`bible/chapter-grid.md`, 2026-07-21): every S2 anchor confirmed except one in-sequence move — **P-T5-4 ch5→ch4** (the plant is Orla's cover-docket artefact; ch4 is her POV filing scene; move stays inside Seq 1.2). Post-S3, plant/payoff chapters change only via a grid edit at a part boundary (WPn), ledger-checked. Interlude positions: I-1 after ch7 · I-2 after ch15 · I-3 after ch22 · I-4 after ch29 · I-5 after ch36 (payoff-only by design — WP5 note; no plant lives there).
 
 | plant-id | serves | ch. planted | surface reading | true reading | payoff ch. | status |
 |---|---|---|---|---|---|---|
@@ -30,4 +30,4 @@ Twist register (engineered in S2 — full dossiers in `bible/plot-architecture.m
 | P-T5-1 | T5 | ch6 | Ernie's Second Seclusion motion — political obstacle of the week | the same self-Kiss at national scale; first of the three refusals | ch34 | planned |
 | P-T5-2 | T5 | ch19 | the muggle burial offer; crypto-burial precedent invoked — thriller pressure | the muggle Retreat; second of the three, rhyming the first | ch34 | planned |
 | P-T5-3 | T5 | I-4 | the fragment's intercepted "salvation" tract — villain manifesto | its cadences rhyme Ernie's speech AND the burial memo: three faces, one refusal | ch35 | planned |
-| P-T5-4 | T5 | ch5 | Orla's cover story drafted like a Muggle-Worthy Excuse — spy-craft comedy | everyone in this book runs a small Statute; love is the one that ends | ch36 | planned |
+| P-T5-4 | T5 | ch4 | Orla's cover story drafted like a Muggle-Worthy Excuse — spy-craft comedy | everyone in this book runs a small Statute; love is the one that ends | ch36 | planned |

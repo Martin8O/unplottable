@@ -26,7 +26,52 @@
   - 2032 — AIRR compute allocation; the Orrery calibration audit begins [INV-003/008]
 - **2033 — the novel.** Seed calendar (S3 refines; part bands provisional per plot-architecture §1): the preprint lands **late March 2033**; Part I *Signal* Mar–Apr · Part II *Contact* May–Jul · Part III *Revenant* Aug–Sep · Part IV *Bind* Oct–Nov · Part V *Statute* Dec 2033–Jan 2034 · coda early 2034 (a school-term morning). Figure 1 pools 2029–2033 data (world-rules C3).
 
-## Per-chapter dates (S3)
-| ch | date_in_story | notes |
-|---|---|---|
-| (pending S3) | | |
+## Per-chapter dates (S3 — final; gate checks front-matter against this table)
+
+> **Policy:** `date_in_story` = the date of the chapter's **closing scene** (chapters may span days; ranges noted). **Monotonicity is per POV thread** (Orla-chapters and Adam-chapters each strictly increasing). One intentional cross-thread inversion exists: ch2 closes one day *before* ch1 (parallel opening — Adam submits 21 Mar; the file lands on Level Nine 22 Mar). From ch3 on, dates are also globally monotonic in book order. Interludes carry artefact dates (the documents' own dates), exempt from the chapter rule.
+
+| ch | POV | date_in_story | notes |
+|---|---|---|---|
+| ch01 | O | 2033-03-22 | the preprint (posted 21 Mar) lands on Level Nine; Croaker seconds Orla |
+| ch02 | A | 2033-03-21 | spans the audit's final week; closes on submission |
+| ch03 | O | 2033-03-25 | containment stand-up; sites identified (hidden-places) |
+| ch04 | O | 2033-03-29 | train read; the interview; "assessment ongoing" filed (P-T5-4) |
+| ch05 | A | 2033-04-04 | cover stories both directions; first spark |
+| ch06 | O | 2033-04-08 | Causeway replication; Ernie's motion (P-T5-1) |
+| ch07 | A | 2033-04-22 | working group sealed; silent map update (P-T1-1) |
+| I-1 | — | docs dated Mar–Apr 2033 | abstract + containment memo (P-T1-2) |
+| ch08 | A | 2033-05-06 | Site 01 perimeter walk |
+| ch09 | O | 2033-05-13 | the restored hour; Rose noticer arc opens |
+| ch10 | A | 2033-05-20 | model-school; the bug won't close |
+| ch11 | O | 2033-05-27 | Hermione summons |
+| ch12 | A | 2033-06-10 | Britain-first clustering (P-T1-3/P-T2-3) |
+| ch13 | O | 2033-06-17 | Wheezes; Teddy lunch; Rose keeps the secret |
+| ch14 | A | 2033-07-01 | canary seeded (P-T3-1); spans late Jun |
+| ch15 | O | 2033-07-08 | **T1 fires** — the canary corrected; first kiss |
+| I-2 | — | log dated 2033-07-05 | eval-log excerpt (P-T2-2/P-T4-2) — three days *before* ch15's correction |
+| ch16 | A | 2033-08-05 | instantiation + specimen (P-T4-3); Voldemort guess spent & killed; Rookwood closed |
+| ch17 | O | 2033-08-12 | **T2 fires** — vintage → inquest → the label; *revenant* coined |
+| ch18 | O | 2033-08-19 | DMLE read-in; the option list |
+| ch19 | A | 2033-08-26 | the burial offer (P-T5-2) |
+| ch20 | O | 2033-09-02 | Manor consult; destruction ruled out |
+| ch21 | A | 2033-09-09 | together-properly; Rose's breakthrough (P-T3-3) |
+| ch22 | A | 2033-09-16 | **the ask** — the census demanded |
+| I-3 | — | file 1990 · extract stamped 2033-09 | inquest + registry extract (P-T4-3a) |
+| ch23 | O | 2033-10-07 | refusal sent; compartments set (P-T3-4) |
+| ch24 | A | 2033-10-14 | the Luna consult |
+| ch25 | O | 2033-10-21 | **T3 fires** — the apprentice; priesthood unveiled |
+| ch26 | O | 2033-10-28 | severance; ICW clock; St Mungo's |
+| ch27 | O | 2033-11-04 | Ginny–Rose; Hermione set-piece; the knock (closing A scene) |
+| ch28 | A | 2033-11-18 | dark night: *erase me*; the protocol drafted (spans the week from the knock) |
+| ch29 | O | 2033-11-25 | confession with the plan; Teddy convergence |
+| I-4 | — | dated late Nov 2033 | Prophet front page + the tract (P-T5-3) |
+| ch30 | O | 2033-12-05 | Wizengamot opens; Section 13; Ernie's finest hour |
+| ch31 | A | 2033-12-08 | Cabinet session; Baird's defence |
+| ch32 | A | 2033-12-15 | **the tranche** — Upper Flagley exposed |
+| ch33 | O | 2033-12-19 | **T4 pays** — the vial; two receivers |
+| ch34 | O | 2033-12-22 | the vote + the funeral; protocol executed; **T5 pays (1/2)** — midwinter |
+| ch35 | A | 2034-01-13 | unveiling begins; costs land; **T5 pays (P-T5-3)** |
+| ch36 | O | 2034-02-04 | coda — the open morning at the gates; **P-T5-4 paid** |
+| I-5 | — | dated spring 2034 | the first joint publication (payoff-echo only) |
+
+**Consistency notes (S3):** Part bands hold (I Mar–Apr · II May–Jul · III Aug–Sep · IV Oct–Nov · V Dec–Jan · coda early 2034, term-time). The 1 Sep 2033 school-year start falls between ch20 (2 Sep) and ch21 with no school-facing beats. Christmas 2033 sits offstage between ch34 (22 Dec) and ch35 (13 Jan) — treaty drafting through the holidays arrives as reported texture in ch35. I-2's log date (5 Jul) deliberately precedes ch15: the fragment was speaking before it was seen — a re-read reward, not a continuity error.

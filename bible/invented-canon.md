@@ -50,6 +50,12 @@
 ## Tier-2 adoptions (S2)
 - **The name "Pandora" for Luna's mother** (WizardingWorld/JKR site material; the person, her experimenting, and her death are Tier-1 — OotP ch.38, DH ch.20–21). **Verify the T2 source at first prose use**; fallback if unpinnable: name her once as our logged invention (the sheet flags this). First use: S2 antagonist entry.
 
+## Tier-2 adoptions (S3 — hidden-places register; pin each at first prose use)
+- **Hogwarts is in Scotland** (JKR interviews/Pottermore; Tier-1 gives the castle, the Express north from King's Cross, Highlands-consistent texture — never a named country on-page). First use: S3 `hidden-places.md` Site 01.
+- **Azkaban is a North Sea island fortress** (Pottermore "Azkaban" piece; Tier-1 gives an island fortress, sea unspecified). First use: S3 `hidden-places.md` Site 21.
+- **Isle of Drear, off north Scotland — made Unplottable; Quintaped habitat** (FB textbook). First use: S3 `hidden-places.md` Site 22 (mention-tier in prose).
+- **Hebridean Black dragon reserve under MacFusty clan custodianship** (FB textbook). First use: S3 `hidden-places.md` Site 23 (mention-tier in prose).
+
 ## Inventions
 | id | fact | why needed | canon seams touched | logged in prompt |
 |---|---|---|---|---|
@@ -78,3 +84,4 @@
 | INV-023 | **DoM contained dementor specimens:** when the Kiss-era guard was removed from Azkaban [T2, R1], a small number of dementors were retained under Department containment for study ("what does the Kiss take?" — A7 gap); the ch16 thesis-image uses one; the treaty-era **soul-assay standard** (ch33–35) derives from this programme | the wizard-side instrument the thesis-image and the ending both need | dementor destruction canon-unknown (A7) — containment, not killing; blind soul-sensing is Tier-1 (PoA ch.19) | S2 |
 | INV-024 | **Augustus Rookwood died in Azkaban, 2011** (imprisoned post-1998; file closed) | retires the veteran reader's default DoM-insider guess on-page (ch16) | his post-1998 fate canon-silent | S2 |
 | INV-025 | **The sealed 1990 inquest file** (Accidental Magic Reversal Squad + DoM referral) on Pandora's death: verdict accidental, experiment unnamed, file sealed for the family — honest and wrong about what it couldn't see | the ch17 identity hinge + I-3 artefact; explains why no tradition learned the rite existed | Ministry inquest machinery canon-silent (A2 apparatus extended); the accident verdict is TRUE as far as it goes | S2 |
+| INV-026 | **The anomaly-map site concordance** (`bible/hidden-places.md`): Figure-1 labels Site 01–23 mapped to canon places (Hogwarts/Hogsmeade = the Highlands blob; the London pinprick cluster incl. sub-threshold Platform 9¾; the DH ch.16 villages incl. **Upper Flagley as the ch32 tranche site**; Azkaban/Drear/Hebrides as the offshore marks); the fen-edge hamlet named-never; the Radnorshire canary site fictional-in-fiction; remaining ~two dozen sites permanently anonymous | ADR-008 site discipline — prose may not name a map site without a register row; C3's "site list must never outrun the bible" made enforceable | every listed place is canon/T2 (warrants in the register); the CONCORDANCE, the labels, and the tranche-target choice are ours; the Statute's site inventory is canon-silent (A5/A7) | S3 |

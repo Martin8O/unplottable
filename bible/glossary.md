@@ -43,7 +43,7 @@ Level Three (Department of Magical Accidents and Catastrophes — Accidental Mag
 Muggle-Worthy Excuse (the Committee's product — capitalised per the committee's Tier-1 name; the Level Three lift inventory **quoted verbatim in ch3 prose and hereby pinned**: "Level Three, Department of Magical Accidents and Catastrophes, incorporating the Accidental Magic Reversal Squad, Obliviator Headquarters and Muggle-Worthy Excuse Committee", OotP ch.7) · the Squad (short form of Accidental Magic Reversal Squad, capital S in Level Three usage) · the Committee (short form of Muggle-Worthy Excuse Committee, capital C in Level Three usage) · King's Cross (PS ch.6) · Healer (job title, capital H; lime-green robes, OotP ch.22)
 
 ## Common-usage words (lint-acknowledged — ordinary English, not terms; listed so the glossary lint stays a real alarm)
-Monday · Tuesday · Wednesday · Thursday · Friday · Saturday · Sunday · Boxing Day
+Monday · Tuesday · Tuesdays · Wednesday · Thursday · Thursdays · Friday · Fridays · Saturday · Sunday · Boxing Day
 
 ## Muggle place names (lint-acknowledged — ordinary geography, not terms; added W5)
 Zurich · Toronto · Leipzig · Shropshire

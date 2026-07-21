@@ -24,9 +24,9 @@ An original ~148k-word sci-fi novel set in the Harry Potter universe (fan fictio
 - POV: close 3rd past, one head per scene, dual leads; registers per `bible/style-guide.md` (until S4: `Local/Wiki/05-craft-standards.md`).
 - Prose probes/experiments → `Local/scratch/` only, never committed, never reused verbatim.
 
-## Run commands (after S5 lands)
-- Quality gate: `python tools\gate.py` (green required before any commit)
-- Build EPUB/PDF: `powershell tools\build.ps1`
+## Run commands
+- Quality gate: `python tools\gate.py` (green required before any commit) · `--cards` audits the grid · `--selftest` re-proves all 18 checks fire
+- Build EPUB/PDF: `powershell tools\build.ps1` (pandoc not installed yet — deferred to E4)
 
 ## Workflow
 "let's start «X»" → just-in-time refine + plan-mode OK → execute with verification DURING → "«X» is done" → lean wrap-up (gate, ADR, changelog, bootstrap head ≤5×5, model-fit line, scoped commit+push). Announce every next prompt with its tier + `▶ Spustit na: <model> · <effort>`. Details: `docs/writing-workflow.md`.

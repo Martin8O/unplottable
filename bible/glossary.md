@@ -33,6 +33,9 @@ Ernie Macmillan (canonical spelling — two n's in Macmillan per books) · Xenop
 ## Canon names & terms added in S3 (hidden-places register + grid)
 Hogsmeade · Godric's Hollow · Ottery St Catchpole · Tinworth · Upper Flagley · Knockturn Alley · platform nine and three-quarters (prose spelling; "Platform 9¾" in labels/artefacts only) · Muggle-Repelling Charm · Isle of Drear [T2] · Quintaped [T2] · Hebridean Black [T2] · MacFusty (clan) [T2]
 
+## Canon terms added in S5 (gate-driven — the glossary lint caught these in use)
+Level Two (Department of Magical Law Enforcement floor) · Level Nine (Department of Mysteries) · Level Eight (the Atrium) — Ministry floor names, capital L + spelled-out numeral, per the lift's announcements (OotP ch.7 [pin exact wording at first prose use]); "Level Nine" is already the bible's working spelling throughout the grid.
+
 ## Our terms (invented — each with invented-canon.md id)
 **the Cartographer** [INV-020] — working-group codename for the steering agent (coined ch15–16; "the revenant" from ch17, Rose's coinage; "the Pandora fragment" formal post-identity) · **pattern Horcrux** [INV-021] — the group's later technical term; in-prose arrives via Hermione/Rose in Part III, never earlier · **pattern-anchor** [INV-021] — the rite's binding target (non-local; recurs where data matches its key) · **the Second Seclusion** [INV-022] — the national-Fidelius movement (capital S both words; members "Seclusionists"; never "Retreat" in prose — that is our structural label only) · **the census** [INV-020] — the fragment's ask: the wizard-side registry it cannot compile itself · **provenance quarantine** [INV-021/B3] — treaty-mandated exclusion of unverified corpora from training (lower case) · **soul-assay** [INV-023] — the joint magic×tech instrument standard (hyphenated noun) · **the Kessler Anomalies** [C3/§3b] — what the sites get called publicly before the treaty renames them (his cost: the name comes off)
 

@@ -350,11 +350,38 @@ the blond man
 - Front-matter: all nine keys, right types, `plants`/`payoffs` ⊆ ledger ids, grid mirror exact.
 - Glossary: recurring capitalised terms (≥3 uses) must exist in `bible/glossary.md`.
 - British English: americanisms list + American spellings above.
-- S5 refinements queued from S4's probe lint: said-bookisms should match **tag position**
-  (after a closing quote) — "breathed on her fingers" is an action, not a tag; artefact spans
-  (blockquotes, in-prose labels/memos) are excluded from the emphasis-italics budget;
-  filter-words stay report-only under the earned-survivor doctrine (each hit defended in the
-  chapter report or cut).
+- S5 refinements queued from S4's probe lint — **all implemented in `tools/gate.py`**:
+  said-bookisms match **tag position** only (a hit after a closing quotation mark, same
+  sentence — "breathed on her fingers" is an action, not a tag); artefact spans are excluded
+  from the emphasis-italics budget; filter-words stay report-only under the earned-survivor
+  doctrine (each hit defended in the chapter report or cut).
+
+### 9a. As implemented by S5 (`python tools\gate.py` — run it, don't re-derive it)
+
+The gate parses §8 **from this file at run time**: extending a list here extends the gate,
+with no code change. §9's numbers live in `THRESHOLDS` at the top of `gate.py`. Scoping and
+severity, decided in S5 and binding for W:
+
+- **Scoping.** Markdown blockquote lines are *artefact* spans (memos, logs, labels, whole
+  interludes). *Narration* = prose − dialogue − artefacts. Hard blacklists run on everything;
+  register thresholds (adverbs, filter-words, epithets, italics) run on narration only.
+  Emphasis italics exclude: bible-legal italics (incantations, publication titles), label
+  glyphs with no letters, and quoted document text (spans over six words).
+- **`status: stub`** files are exempt from word bands and every prose lint — the gate runs
+  green on an unwritten scaffold. Front-matter, card-mirror, ledger, timeline and scaffold
+  checks apply to stubs regardless. `status: probe` is exempt from word bands only.
+- **Hard (exit 1):** front-matter schema · card mirror (grid is the contract) · word bands ·
+  banned-phrases / fanon-terms / americanisms / American spellings · manner adverbs >6/1k ·
+  ledger cross-check · timeline (front-matter = `timeline.md`; per-POV-thread strictly
+  increasing; book order monotonic from ch3, ch1/ch2 inversion licensed) · site labels absent
+  from `hidden-places.md` · scaffold completeness.
+  **Report-only (warn):** target-band drift · fanon-watch · filter-words · said-bookisms ·
+  epithets · similes · emphasis italics · glossary lint (recurring capitalised term, ≥3 uses,
+  unknown to `glossary.md`/`characters.md`/`hidden-places.md`) — each warning is defended in
+  the chapter report or fixed; warnings never block a commit on their own.
+- **Modes.** `--cards` audits the grid itself (fields, ledger both ways, dates vs timeline,
+  POV split, word budget) · `--selftest` proves all 18 checks still fire on a seeded bad
+  fixture — run it after any edit to §8/§9 or to the gate.
 
 ## 10. Sensitivity & tone rails (binding at review)
 

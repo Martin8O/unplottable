@@ -13,7 +13,7 @@ Twist register (engineered in S2 — full dossiers in `bible/plot-architecture.m
 
 | plant-id | serves | ch. planted | surface reading | true reading | payoff ch. | status |
 |---|---|---|---|---|---|---|
-| P-T1-1 | T1 | ch7 | the map updates with no new data — logged as a pipeline bug | the fragment's first visible curation | ch15 | planned |
+| P-T1-1 | T1 | ch7 | the map updates with no new data — logged as a pipeline bug | the fragment's first visible curation | ch15 | planted |
 | P-T1-2 | T1 | I-1 | abstract footnote: "dataset vintage reconciliation pending" — preprint housekeeping | injected vintages; the steering's paper trail | ch15 | planned |
 | P-T1-3 | T1 | ch12 | updates cluster Britain-first — obvious data bias (Adam's data is UK-heavy) | the maker was British; her seed-density is British archives | ch15 | planned |
 | P-T2-1 | T2 | ch1 | Hall texture / Orla's job: dusty label `P.L. to L.L., Feb 1990 — the maker and (?)` | the revenant's birth certificate, shelved and unreadable for 43 years | ch17 | planted |

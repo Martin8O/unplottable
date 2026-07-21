@@ -2,13 +2,51 @@
 
 > R1 fills canon dossiers (cited); S1 designs originals. Every load-bearing fact carries a citation (book ch. / Tier-2 source / "invented" flag → invented-canon.md).
 
-## Original leads (S1)
-### Orla ______ (working name) — POV A
-Muggleborn Unspeakable, b. ~2006, Hogwarts ~2017–2024. (Full sheet: S1.)
-### Adam Kessler (working name) — POV B
-Muggle ML researcher, b. ~2001. Institution: per R4 option table → S1 decision. (Full sheet: S1.)
+## Original leads (S1 — LOCKED)
+
+### Orla Quinn — POV A — 27 in 2033
+- **Vitals:** born 9 March 2006, Belfast `[invented — INV-001]`. Muggle-born. Hogwarts 2017–2024 — the epilogue-platform intake: she is one of the unnoticed muggleborn first-years on the platform on 1 Sep 2017, same year as Rose Weasley and Albus Potter. **Hufflepuff** (the patient house; nobody expects the Department of Mysteries to hire for patience). Wand: cedar, unicorn hair, 12¼", slightly yielding `[invented]`. Patronus: **starling** `[invented]` — a murmuration is a pattern made of individuals; she has never said this aloud because it would sound rehearsed.
+- **Family (all invented — INV-001):** father Colm Quinn, electrician (the muggleborn whose da wires houses for a living, in a world that breaks electricity); mother Sinéad, primary-school teacher; older brother Ciarán (b. 2001), data analyst at a Manchester insurer — the family's "computers one", her low-friction channel into the muggle internet every summer; grandmother Bríd, who remembers checkpoints. Belfast counts its peace from 1998; Orla was eleven before she learned the wizards count theirs from the same year. **Both peaces are thirty-five years old in 2033; both look permanent; one is about to be renegotiated.** (Texture rail: the Troubles resonance is one or two quiet beats, never an allegory; community specifics stay soft.)
+- **History:** first full smartphone generation through Hogwarts — the phone lived in a biscuit tin at her parents' during term, per the rules; the rules never quite took `[invented]` · N.E.W.T.s in Arithmancy, Ancient Runes, Charms and Defence — the pattern subjects · recruited 2024: the Department reads the N.E.W.T. Arithmancy scripts for a certain kind of mind `[invented — INV-002]` · junior rotation 2024–27 · **Assistant Keeper of the Hall of Prophecy** from 2027 `[invented — INV-002]`: registry work, provenance, labels, uncertainty flags (world-rules A3) — the wizarding world's own anomaly archive, and she is its junior archivist. The one person on Level Nine who knows what a satellite is for.
+- **The double vision (why her):** old enough to remember a childhood made of screens, young enough to have been fully formed by the wizarding world; she loves both and belongs wholly to neither, which is the book's competence in one person. Her professional gift is not brilliance (Rose has that) but **refusal to stop looking** — she reads the anomaly paper on the train and understands, not the maths, but what an archive is, what absence means, and that this time the dam does not hold.
+- **Appearance seed:** small, dark, quick; ink on her fingers from the registry; robes with muggle pockets sewn in `[invented, craft]`.
+- **Voice (register per Wiki 05 §2):** warm, fast, wry; Belfast carried in rhythm and word order, never phonetics; lists things when nervous; institutional comedy relished from the inside; muggle idiom straying into wizarding syntax when tired ("the Floo's buffering again"). Under real pressure: faster and funnier, then suddenly, completely plain — the register drop is the tell.
+
+### Adam Kessler — POV B — 31 in 2033 (32 on 14 Nov)
+- **Vitals:** born 14 November 2001, Sheffield `[invented — INV-003]`. Muggle. BSc Mathematics (Manchester, 2023 — background texture only); PhD machine learning (2027), postdoc, then **Lecturer in Machine Learning, World Model Reliability Group, University of Lothian**, Edinburgh, from 2031 `[invented — INV-003/INV-004]`.
+- **Family (invented — INV-003):** the Kesslers reached Britain from Leipzig in 1938–39; four generations on, the inheritance is a brass doorplate and an instinct — his great-grandmother counted exits, his grandfather kept every passport current, his father calls it "being sensible". **Adam knows in his bones what lists do to hidden people.** Load-bearing for Parts IV–V (why he refuses the map-as-weapon; why he understands the wizards' terror before he can name it). Tone rail (Wiki 05 §7): surfaces as inherited instinct in single beats, never as history lecture.
+- **Position (R4 C4 option table — OPTION D LOCKED):** university researcher with a state-adjacent grant: **Meridian Programme** award for world-model reliability, 2031 `[INV-005]`; **AIRR national-compute allocation**, 2032 (Part C, C1); sat five days on an Institute red-team in 2030 — eval-culture fluency, one named contact, no clearance `[INV-006]`. Academic precarity is real: the calibration audit is his career bet, and everyone in the group knows it.
+- **The work:** calibration audit of the open-weight **Orrery** family of Earth-system world models `[INV-008]` (artefact spec: world-rules C3); PhD student and second author **Priya Nair** `[INV-009]`. His contribution is temperamental before it is technical: labs auto-filed the residual as sensor noise for years — **Adam is the man who refused the auto-explanation** (C1).
+- **Appearance seed:** tall, stooping early, climber's forearms; climbs Scottish crags badly but persistently; tea pedant (his one inheritance he'd admit to) `[invented, craft]`.
+- **Voice (register per Wiki 05 §2):** precise, understated, dry; thinks in error bars and speaks in qualified claims; deadpan lives in the parentheses; allergic to overclaiming — the preprint's modesty IS his character on the page. Under stress he goes quieter and more exact — the inverse of Orla, which the prose exploits.
+
+### Minor original characters (S1 — the full OC budget; no further original cast without an ADR)
+#### Priya Nair — PhD student, World Model Reliability Group `[invented — INV-009]`
+26 in 2033. Second author on the preprint; built the ablation battery and the broker-suppression-list control (C3 §5). Sharp, career-anxious, loyal; treats Adam's stubbornness as a lab hazard to be managed. Plot function: the second person who knows — the Ministry's containment assessment must cover her too (Act I stakes). Cap: recurring-minor.
+#### Dr Ewan Baird — programme director, Meridian `[invented — INV-005]`
+Late 50s. Ex-satellite industry (Clyde-built smallsats), blunt, kindly, budget-scarred; funded Adam's "world-model reliability" bid when two panels passed. Plot function: the sympathetic funder who must choose whether to defend Adam when the state leans (Act II; C6). Cap: recurring-minor.
 
 ## Canon cast in 2033 (R1)
+
+### Screen-time budget (S1 — binding for S3 grid; W-prompts may not exceed without a grid edit)
+> **Standing rule (the complementarity discipline, R3):** the canon cast never solves the leads' problems. Every canon-cast scene is witnessed through Orla's or Adam's POV (Wiki 05 §1) and ends with the leads owning the next move. Budgets are on-page speaking scenes; mentions are free.
+
+| character | 2033 role (log id) | budget | discipline note |
+|---|---|---|---|
+| Hermione | Head of DMLE (INV-011) | 4–5 scenes, ≤8 chapters | set-pieces only; both-worlds fluency at maximum effect; the DH ch.6 scar used once |
+| Harry | Head of Auror Office (INV-012) | 3–4 scenes | otherwise an institutional presence (memos, others quoting him) |
+| Ron | Wheezes co-manager (R1/T2) | 1–2 scenes | warmth + one load-bearing loyalty beat |
+| Ginny | Prophet senior corr. (INV-017) | 1–2 scenes | the trusted byline — Act V press lever |
+| Luna | naturalist (R1/T2) | 1–2 scenes | the soul-ladder truth-teller; Parts IV–V |
+| Neville | Deputy Head, Herbology (INV-016) | 0–2 cameos | Hogwarts-facing warmth |
+| McGonagall | emerita (R1) | 0–1 cameo | asperity undiminished |
+| Draco | Manor alchemy scholar (R1/T2) | 1–2 scenes | revenant-era research resource (S2 option) |
+| Kingsley | retired; ICW envoy option (INV-010) | 0–1 scene | Act V gravitas if needed |
+| Susan Bones | Minister (INV-010) | recurring (Ministry thread) | POV-adjacent through Orla; never head-hopped |
+| Croaker | Head of DoM (INV-015) | recurring-minor | Orla's chain of command |
+| Teddy | senior Obliviator (INV-014) | 2–3 scenes | the institutional counterpart — warm dread |
+| Rose | Unspeakable, thought section (INV-013) | recurring supporting | largest canon-cast presence; never POV |
+| next-gen others | mention-tier (INV-018/019) | ≤1 each | Scorpius stays [open], earmarked for Draco-adjacent use only |
 
 > Citation key: `DH ch.25` = book+chapter (Tier-1, binding) · `[T2: source]` = Pottermore/Wizarding World/JKR interview (logged in invented-canon.md) · `[inferred]` = derived from canon, not stated · `[invented]/[open]` = ours/undecided. Cursed Child = Tier-3, never used; known CC contaminations listed at the end of each group.
 
@@ -18,14 +56,14 @@ Muggle ML researcher, b. ~2001. Institution: per R4 option table → S1 decision
 - **Vitals:** middle name Jean (DH ch.7, Dumbledore's will; JKR's earlier website statements said "Jane", retconned to avoid matching Umbridge [T2] — Jean is final). Born 19 Sept 1979 (day/month [T2: JKR birthday calendar]; year from Tier-1 arithmetic). Muggle-born, dentists' daughter (PS ch.6). Gryffindor 1991–98; the only one of the trio who returned for N.E.W.T.s 1998–99 [T2: JKR 2007 chat]. Wand: vine, dragon heartstring, 10¾" [T2: Pottermore — NOT book canon]. Patronus: otter (OotP ch.27).
 - **Key history:** troll friendship (PS ch.10) · solved basilisk from hospital wing (CoS ch.16) · Time-Turner year — firsthand knowledge time magic exists & is controlled (PoA ch.21) · S.P.E.W. (GoF ch.14) · DA architect, enchanted Galleons (OotP ch.16–17) · **Obliviated her parents to Australia** (DH ch.6), restored post-war [T2] — permanent conscience scar, load-bearing for a story about memory · tortured by Bellatrix, "Mudblood" cut (DH ch.23) · the trio's planner (DH ch.9, 14, 26).
 - **Family 2033:** Ron (DH ep.); Rose ~27, Hugo ~25.
-- **Career:** Magical Creatures dept → DMLE [T2: JKR 2007]; Deputy Head of DMLE as of 2014 [T2: Pottermore QWC 2014]. **"Minister for Magic" traces ONLY to Cursed Child → not sourced fact.** Minister-in/by-2033 = S1 decision, logged `[invented]` when made.
+- **Career:** Magical Creatures dept → DMLE [T2: JKR 2007]; Deputy Head of DMLE as of 2014 [T2: Pottermore QWC 2014]. **"Minister for Magic" traces ONLY to Cursed Child → not sourced fact.** **S1 DECISION `[invented — INV-011]`: Head of the DMLE from ~2021, still in post 2033** — the natural continuation of the sourced trajectory, deliberately NOT the CC Minister track (fresher, and it keeps her hands-on: the Statute crisis lands on her desk operationally, not ceremonially). She has twice declined to stand for Minister `[invented texture]`. S2 note: DH ch.6 (she obliviated her own parents) makes her the commander of assess-and-obliviate machinery who has personally paid its price — use once, at maximum effect.
 - **Voice:** precision-first, cites sources, corrects reflexively; long logically-chained sentences when explaining, clipped and frosty when angry ("Ronald" as warning); "Honestly!", volleys of rhetorical questions. At 53: lecture instinct mellowed into courtroom economy — fewer words, same certainty [craft, invented]. Quotes: "We could all have been killed — or worse, expelled." (PS ch.9) · "Books! And cleverness! There are more important things — friendship and bravery." (PS ch.16) · "…you've got the emotional range of a teaspoon." (OotP ch.21)
 
 #### Harry James Potter — 53 in 2033
 - **Vitals:** middle name James (OotP ch.8). Born 31 July 1980 (PS ch.3–4; year via CoS ch.8 Deathday arithmetic). Half-blood. Gryffindor 1991–97; no seventh year, straight to Aurors [T2: JKR 2007]. Wand: holly, phoenix feather, 11" (PS ch.5); snapped (DH ch.17), repaired with Elder Wand, Elder Wand renounced (DH ch.36). Patronus: stag (PoA ch.21).
 - **Key history:** orphaned 1981, cupboard under the stairs (PS ch.1–2) — neglect carried quietly · watched Cedric die, duelled reborn Voldemort at 14 (GoF ch.32–34) · Ministry smear year + Sirius's death (OotP) — **his template for distrusting official narratives** · DA teacher — field leader, not bureaucrat (OotP ch.18) · walked to his death willingly, finished it with Expelliarmus (DH ch.34–36) · godfather to Teddy (DH ch.25) · lost Parseltongue [T2] · **"the scar had not pained Harry for nineteen years" (DH ep.) — any 2033 scar-twinge is a five-alarm signal to a canon-literate reader; use with extreme care or never.**
 - **Family 2033:** Ginny; James ~29, Albus ~27, Lily ~25.
-- **Career:** Auror at 17/18 without N.E.W.T.s; **Head of Auror Office from 2007** [T2: JKR 2007], still in post 2014 [T2: Pottermore QWC]. **"Head of DMLE" is Cursed-Child-only → not sourced.** 2033 role = S1 decision `[invented]` (option: refused the desk job, 26-year Head Auror — arguably more in-character).
+- **Career:** Auror at 17/18 without N.E.W.T.s; **Head of Auror Office from 2007** [T2: JKR 2007], still in post 2014 [T2: Pottermore QWC]. **"Head of DMLE" is Cursed-Child-only → not sourced.** **S1 DECISION `[invented — INV-012]`: still Head of the Auror Office in 2033 — a 26-year field-facing tenure; he has refused DMLE Head (and worse, a Ministerial sounding-out) at least twice** — the man allergic to speeches kept the job with no speeches in it. Reports to Hermione: the Head of DMLE is his best friend, which the Ministry considers either its greatest strength or its worst compliance problem `[invented texture]`.
 - **Voice:** plain, concrete, understated; short declaratives; dry deadpan under provocation; anger fast and monosyllabic-to-shouting; "it's fine" as load-bearing lie; asks direct questions others find rude. At 53: temper banked into flat quiet authority; still allergic to speeches [craft, invented]. Quotes: "There's no need to call me 'sir', Professor." (HBP ch.9) · "I won't blast people out of my way just because they're there." (DH ch.5) · "Try for some remorse…" (DH ch.36)
 
 #### Ronald Bilius Weasley — 53 in 2033
@@ -39,7 +77,7 @@ Muggle ML researcher, b. ~2001. Institution: per R4 option table → S1 decision
 - **Vitals:** "Ginevra" Tier-1 (DH ch.8, Auntie Muriel); "Molly" [T2]. Born 11 Aug 1981 [T2: JKR calendar; year from Tier-1]. Pure-blood. Gryffindor 1992–99; whether she formally sat N.E.W.T.s is canon-silent [open]. **Wand: no specs at any tier — genuinely open (log any spec as invention).** Patronus: horse [T2: film/Pottermore only].
 - **Key history:** **possessed by Riddle's diary at 11** (CoS ch.17–18) — the only protagonist-adjacent character who has had Voldemort in her head for months; hard experience, zero self-pity (OotP ch.23 — snaps Harry out of his possession spiral). Gold for a revenant plot. · self-taught flying from the broom shed [T2] · DoM, Tower, Battle of Hogwarts (OotP/HBP/DH) · **ran the re-formed DA inside occupied Hogwarts** with Neville & Luna (DH ch.15, 25) — resistance-cell leadership · Bat-Bogey Hex (OotP ch.33) · watched Fred die and Harry "dead" within hours (DH ch.31–36).
 - **Family 2033:** Harry; three kids. Molly & Arthur early 80s (alive as of canon end; after that = invention).
-- **Career:** Holyhead Harpies pro, then **senior Quidditch correspondent, Daily Prophet** [T2: JKR 2007; covering QWC 2014 per Pottermore]. "Editor" is an upgrade canon doesn't give — by-2033 promotion = `[invented]` if used.
+- **Career:** Holyhead Harpies pro, then **senior Quidditch correspondent, Daily Prophet** [T2: JKR 2007; covering QWC 2014 per Pottermore]. "Editor" is an upgrade canon doesn't give. **S1 DECISION `[invented — INV-017]`: still the Prophet's senior Quidditch correspondent in 2033, plus one of the paper's most trusted general bylines (an occasional column readers actually believe)** — no editorship claimed; her plot value is press-culture access and a byline the leads can trust in Act V.
 - **Voice:** blunt, economical, fearless — says the unsayable to Harry without flinching (OotP ch.23); dry one-liners over monologues, mockery as affection; temper like Molly's but colder-burning — threats delivered quietly and meant. At 52: deadline-sharp journalist's bluntness; tenderness sideways, through action and jokes [craft, invented]. Quotes: "…anything's possible if you've got enough nerve." (OotP ch.29) · "There's the silver lining I've been looking for." (DH ch.7)
 
 **Cursed Child contamination filter (trio — facts that DO NOT exist for this project):** Hermione as Minister for Magic (sourced) · Harry as Head of DMLE (sourced) — both usable only as OUR logged inventions, decided in S1.
@@ -50,33 +88,32 @@ Muggle ML researcher, b. ~2001. Institution: per R4 option table → S1 decision
 - **Vitals:** Ted "Teddy" Lupin, named for grandfather Ted Tonks (DH ch.25). Born April 1998 (DH ch.25). Parents Remus Lupin & Nymphadora Tonks, both killed 2 May 1998 (DH ch.33). Half-blood. **Metamorphmagus** — hair changed colour within an hour of birth (DH ch.25); turquoise-haired young man in epilogue (DH ep.). Harry is godfather (DH ch.25). ("Edward Remus" is wiki convention, weakly attested — use "Teddy Lupin" only.)
 - **Canon:** raised by grandmother Andromeda with Harry actively present [T2: Bloomsbury chat 30 Jul 2007]; at 19 caught kissing Victoire on Platform 9¾; eats at the Potters' ~4 nights a week (DH ep.).
 - **T2:** Hufflepuff, Head Boy 2015–16 [T2: JKR tweet 1 Sep 2015].
-- **2033 [open]:** career wholly unattested; Victoire relationship outcome unattested. Free space for S1.
-- **Voice:** no canon dialogue — S1 designs.
+- **S1 DECISION `[invented — INV-014]`:** **senior field Obliviator, Obliviator Headquarters; liaison to the Muggle-Worthy Excuse Committee.** The Statute's immune system with a face we love — Harry's godson on the institutional far side of Orla's treason (warm dread; he is good at the job and believes in it, which is the point). Married **Victoire** in 2025; no children yet — family stakes for when his loyalty is tested. Budget: 2–3 scenes.
+- **Voice (S1 design):** easy, likeable, professionally soothing — an Obliviator's bedside manner leaks into everything; jokes that de-escalate; goes formal only when he's working, which is how you know he's working. Hair colour betrays what the manner hides `[metamorphosis tell — craft]`.
 
 #### Victoire Weasley — ~33 in 2033
 - **Vitals:** born 2 May [T2: A Year in the Life 2007], year ~2000 [inferred: likely seventh-year in 2017 epilogue]. Eldest child of Bill & Fleur [T2: Today Show Jul 2007]; siblings Dominique & Louis [T2: AYitL family tree]. One-eighth Veela.
 - **Canon:** single scene — kissed by Teddy in the epilogue; never speaks on-page (DH ep.).
-- **2033 [open]:** house, wand, career, personality — zero canon.
-- **Voice:** no canon voice — S1 designs.
+- **S1 DECISION `[invented — INV-014]`:** **Healer, St Mungo's**; married Teddy 2025. Mention-to-cameo tier (≤1 scene); texture and Teddy-stakes, not plot.
 
 #### James Sirius Potter — ~29 in 2033
 - **Vitals:** "James Potter" in text; middle name Sirius [T2: AYitL family tree]. Born Sept 2003–Aug 2004 [inferred: sorted Sept 2015]. Parents Harry & Ginny (DH ep.). Half-blood.
 - **Canon:** teases Albus about Slytherin until Ginny stops him; gleefully reports the Teddy/Victoire kiss; corrects Harry that at school Neville is "Professor Longbottom" (DH ep.).
 - **T2:** Gryffindor, sorted Sept 2015 "to nobody's surprise" [T2: JKR tweet 1 Sep 2015].
-- **2033 [open]:** adult life unattested. Canon seed: confident, extroverted, affectionate needler.
+- **S1 DECISION `[invented — INV-019, mention-tier only]`:** product developer at Weasleys' Wizard Wheezes under Ron & George — the Marauders' heir gainfully employed in mischief. Used only in passing unless S2 promotes.
 - **Voice seed:** rapid, gleeful, hyperbolic reporting; sibling needling that stays warm (DH ep.).
 
 #### Albus Severus Potter — ~27 in 2033
 - **Vitals:** full name in text (DH ep.). Born Sept 2005–Aug 2006 [inferred: first year 2017]. Only Potter child with Lily Evans's green eyes (DH ep.). Half-blood.
-- **Canon:** dreads Slytherin; asks Harry quietly what happens if it comes true; Harry: named for two headmasters, one a Slytherin, "the bravest man I ever knew"; the Hat takes choice into account (DH ep.). **His actual sorting is never shown in any binding tier — house is OUR decision if used (log it).**
-- **2033 [open]:** house, career, wand, adult temperament — blank.
+- **Canon:** dreads Slytherin; asks Harry quietly what happens if it comes true; Harry: named for two headmasters, one a Slytherin, "the bravest man I ever knew"; the Hat takes choice into account (DH ep.). **His actual sorting is never shown in any binding tier.**
+- **S1 DECISION `[invented — INV-018, applies only if he appears]`:** **Hufflepuff** — the un-dramatic answer nobody writes: the Hat listened, and he chose the house with no ghosts in it (neither the CC Slytherin retread nor the safe Gryffindor default). Mention-tier by default; S2 may promote within the next-gen B-plot budget.
 - **Voice seed:** quiet, earnest, half-whisper reserved for his father; asks the real question straight: "What if I'm in Slytherin?" (DH ep.).
 
 #### Rose Weasley — ~27 in 2033
 - **Vitals:** "Rose"/"Rosie" in text; surname Weasley [inferred + T2: AYitL family tree]. **Never "Granger-Weasley" (CC-only).** Born Sept 2005–Aug 2006 [inferred: first year 2017]. Parents Ron & Hermione (DH ep.). Half-blood. Younger brother Hugo (DH ep.).
 - **Canon:** inherited "her mother's brains" per Ron; told to beat Scorpius in every test; joke-warned off marrying a pure-blood; never speaks on-page (DH ep.).
-- **2033 [open]:** everything — house, voice, career. Canon pulls: the brains expectation + the ironic Scorpius-rivalry seed. (Project candidate: Unspeakable colleague of protagonist — S1 decides.)
-- **Voice:** no canon voice — S1 designs.
+- **S1 DECISION `[invented — INV-013]`:** **Ravenclaw** (2017–24, Orla's intake — the "her mother's brains" seed honoured sideways, and the CC-house discourse dodged entirely); **Unspeakable, thought section (Brain Room)**, working on memory — the daughter of the woman who obliviated her own parents, quietly studying what memory charms actually do (generational payoff; she does not advertise the connection). **Orla's closest friend inside the wizarding world** — same Hogwarts year, same DoM intake (2024). Plot function: wizard-side confidante; the family channel to the Head of DMLE; the person best placed to eventually NOTICE Orla's treason (S2's business). Largest canon-cast presence in the book (recurring supporting; never POV).
+- **Voice (S1 design):** Hermione's engine in Ron's chassis — precise thinking delivered with deadpan mischief; asks the question everyone else is too polite to ask, then apologises without meaning it; affection via competition (she keeps score, aloud, of who was right). Never a Hermione clone on the page: where her mother lectures, Rose bets.
 
 #### Scorpius Malfoy — ~27 in 2033
 - **Vitals:** "Scorpius Malfoy" (DH ep.); middle name Hyperion weakly attested [T2: JKR site — avoid or flag per-use]. Born Sept 2005–Aug 2006 [inferred: Rose's year]. Parents Draco & Astoria (née Greengrass) [T2: AYitL tree + Pottermore Draco piece 2014]. Pure-blood. Resembles Draco as strongly as Albus resembles Harry (DH ep.).
@@ -87,9 +124,8 @@ Muggle ML researcher, b. ~2001. Institution: per R4 option table → S1 decision
 
 #### Lily Luna Potter — ~26 in 2033
 - **Vitals:** "Lily Potter" in text; middle name Luna [T2: AYitL family tree]. Born Sept 2007–Aug 2008 [inferred: starts Hogwarts 2019]. Parents Harry & Ginny (DH ep.). Half-blood. Not green-eyed (Albus is the only one, DH ep.).
-- **Canon:** too young for Hogwarts in 2017 and vocally impatient; debates future houses with Hugo; hopes Teddy marries Victoire "so he'd really be family" (DH ep.).
-- **2033 [open]:** house, wand, career, adult personality — blank. Seed: eager, romantic-minded youngest.
-- **Voice:** child register only (eager, warm, wistful); adult voice — S1 designs.
+- **Canon:** too young for Hogwarts in 2017 and vocally impatient; debates future houses with Hugo; hopes Teddy marries Victoire "so he'd really be family" (DH ep.). (Her hope came true: INV-014.)
+- **S1 DECISION `[invented — INV-019, mention-tier only]`:** Chaser, Holyhead Harpies — her mother's club, second Potter on the team sheet in thirty years. Used only in passing unless S2 promotes.
 
 **Cursed Child contamination filter (next-gen — facts that DO NOT exist for this project):** "Rose Granger-Weasley" surname · Albus sorted Slytherin · Albus–Scorpius friendship · Astoria's blood malediction & 2019 death (her health/lifespan is open) · "Scorpius is Voldemort's heir" rumour · any CC characterisation of James/Lily.
 
@@ -122,12 +158,24 @@ Muggle ML researcher, b. ~2001. Institution: per R4 option table → S1 decision
 - **Career to 2033:** Headmistress post-battle [T2 + HBP acting]; **retired before the 2017 epilogue** — "McGonagall was really getting on a bit", unnamed successor [T2: PotterCast Dec 2007]. (CC keeps her Head into 2020–21 — discarded, contradicts the T2 anyway.) **Successor = our free invention.** Alive at 97: comfortably canon-plausible (Dumbledore ~115; Marchbanks examined Dumbledore and still working 1995, OotP; Bathilda 130+). 2033 `[invented]`: Headmistress Emerita, undiminished asperity.
 - **Voice:** crisp, complete, grammatically exact; Scottish cadence; never wastes a word; dry understatement as sharpest weapon — the flatter the delivery, the deeper the cut; emotion via physical tells (thinned lips, flared nostrils, tartan handkerchief), so explicit sentiment is rare and devastating; formal address always, even mid-battle. Quote: "Have a biscuit, Potter." (OotP ch.12)
 
-#### Kingsley Shacklebolt & the Ministry to 2033 (institutional note)
+#### Kingsley Shacklebolt & the Ministry to 2033 (institutional note — S1 RESOLVED)
 - Tier-1: senior Auror, Order member (OotP ch.3); bodyguard to the Muggle PM (HBP ch.1); lynx Patronus, "The Ministry has fallen…" (DH ch.8); fought in the last duel; **named temporary Minister immediately post-battle** (DH ch.36).
 - T2: became permanent Minister; de-corrupted the Ministry, eradicated latent discrimination, removed Dementors from Azkaban; recruited Harry to head the Aurors; Umbridge imprisoned [T2: Bloomsbury chat + PotterCast 2007].
-- **Tenure end: NO source outside Cursed Child.** "Until 2019, succeeded by Hermione" = CC → discarded. Our 2033 Ministry leadership is a free invention slot (S1 decides; whatever we pick gets logged `[invented]`). The de-corrupted, Dementor-free Ministry is the stable institutional backdrop.
+- **Tenure end: NO source outside Cursed Child** ("until 2019, succeeded by Hermione" = CC → discarded). **S1 DECISION `[invented — INV-010]`: Minister 1998–2024 (26 years — the great post-war rebuilder; multi-decade tenures have T2 precedent, e.g. Faris Spavin), then retired; available as elder statesman, candidate ICW special envoy in Act V (0–1 scenes).** Succeeded by **Susan Bones** (entry below). The de-corrupted, Dementor-free Ministry is the stable institutional backdrop.
+
+#### Susan Bones — Minister for Magic 2024– — ~53 in 2033
+- **Canon:** Hufflepuff — "'Bones, Susan!' … scuttled off to the Hufflepuff table" (PS ch.7); Harry's year; DA member (OotP ch.16 Hog's Head list); **niece of Amelia Bones**, Head of the DMLE (OotP ch.8; niece line attested in OotP — pin exact chapter at first prose use), murdered by Voldemort himself (HBP ch.1); the Bones family among the first war's famous dead — Hagrid names "the Boneses" (PS ch.4).
+- **S1 DECISION `[invented — INV-010]`:** Minister since 2024, via Magical Law and International Magical Cooperation career `[invented]`. **Design: the swing vote of the book.** Her family history argues Retreat — the Boneses died for being visible; her decency and her Hufflepuff spine argue the bridge. She is neither obstacle nor ally by type: a genuinely good Minister of the pre-information generation, calibrated to a world that no longer exists (the institution's tragedy in one person). No-bashing rail applies in full: she keeps her agency and intelligence to the last page — Act V turns on her choosing well, at cost.
+- **Voice (S1 design):** quiet, deliberate, Hufflepuff-plain; asks the practical question after everyone else's rhetoric; carries her aunt's portrait-stare into Wizengamot sessions without knowing she does it.
+
+#### Saul Croaker — Head of the Department of Mysteries — 2033
+- **Canon:** named Unspeakable — "Bode and Croaker… Unspeakables" (Arthur, GoF ch.7). **T2 (logged S1):** first name Saul; career spent in the DoM studying time-magic [T2: Pottermore Time-Turner piece, in-world byline].
+- **S1 DECISION `[invented — INV-015]`:** Head of the DoM in 2033 (late 70s — wizard-normal, Marchbanks precedent); Orla's ultimate superior; the man who lends her to the containment taskforce because she is the only person on Level Nine who can read Figure 1. Design: dry, ancient-curious, institutionally untouchable; treats the Statute crisis as the most interesting thing to happen to the Department since the Veil was installed. Recurring-minor.
+
+#### Hogwarts leadership 2033 (institutional note — S1 RESOLVED)
+- McGonagall retired before the 2017 epilogue, successor unnamed [T2: PotterCast 2007 — logged R1]. **S1 DECISION `[invented — INV-016]`: Headmistress Padma Patil** (Ravenclaw, GoF ch.22 [pin exact line at first prose use]; Harry's year) since the mid-2020s — the interval after McGonagall is deliberately left unnamed (seam space). **Neville: Deputy Head alongside Herbology** (R1-cleared invention, same log id). Hogwarts matters as the map's largest site; its Head appears in council scenes at most (0–2).
 
 **Cursed Child contamination filter (supporting):** Astoria's malediction & death · McGonagall Headmistress into the 2020s · Kingsley's 2019 end / Hermione succession · CC's adult-Draco characterisation. **Wiki caution:** fandom wiki AND Lexicon timelines silently blend CC dates — strip them when citing.
 
 ## Antagonist / revenant
-Identity decided in S2 (twist-bearing — do not sketch here before then; shortlist lives in S1 decision memo, `Local/` side).
+Identity decided in S2 (twist-bearing — do not sketch here before then). **S1 shortlist written → `Local/S1-premise-lock.md` §12** (four candidates, ranked, with the default-guess audit). Final identity + canon-era anchor: S2, with the ledger.

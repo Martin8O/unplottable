@@ -229,7 +229,7 @@
 | **C. State evaluator** (AISI-analogue / GCHQ-adjacent; fictional institute) | Pre-deployment model access, Inspect-style harness, DSIT parent (AISI 2026 remit) | Security-state texture from page 1; access unimpeachable | Publishing = offence under National Security Act 2023-descendant — the preprint becomes a *leak*, Adam a fugitive, tone darkens past ADR-002's rails; also inverts theme (we want institutions *reacting* to openness, not Adam fleeing them) |
 | **D. RECOMMENDED — hybrid: university researcher with a state-adjacent grant** | Lecturer/senior postdoc in a fictional Scottish university group, AIRR compute award + an ARIA-style programme grant for "world-model reliability"; has *sat on* an AISI-analogue red-team once (texture, contacts, no clearance) | Keeps the legal, open arXiv path (C5) AND gives him eval-culture fluency, a named state contact for Act II, and a funding paper-trail the Ministry/GCHQ can crawl; academic precarity = personal stakes (this paper is his career bet); Scotland proximity | Requires one paragraph of setup (grant, compute award) early in W1; slightly more furniture to establish |
 
-*S1 decides; R4's recommendation is D (with A as fallback if S1 wants him purer-outsider). B and C are legitimately better thrillers but the wrong* ***novel*** *— they break either Act I's timing or the constructive-institutions theme.*
+*S1 DECISION: **OPTION D LOCKED** (INV-003…006 — University of Lothian, World Model Reliability Group, Meridian Programme, the Institute; sheets in `characters.md`). B and C were legitimately better thrillers but the wrong* ***novel*** *— they break either Act I's timing or the constructive-institutions theme.*
 
 ### C5 — Preprint & disclosure norms (how the paper detonates)
 

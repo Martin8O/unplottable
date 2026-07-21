@@ -43,7 +43,29 @@
 - WWN programme texture: *Witching Hour*, presenter Glenda Chittock (Pottermore). Noted R2 world-rules A4; use in prose = per-instance log.
 - ICW delegates/assembly imagery (FB films — pre-approved Grindelwald-era adoption). Noted R2 world-rules A5; T1 gives only chairmanship+members+Statute.
 
+## Tier-2 adoptions (S1)
+- **Saul Croaker**: first name + career spent in the DoM studying time-magic (Pottermore Time-Turner piece, in-world byline). Surname/Unspeakable status is Tier-1 (GoF ch.7). First use: S1 characters.md entry.
+- **Faris Spavin multi-decade Ministerial tenure** (Pottermore Ministers list) — cited only as plausibility support for Kingsley's 26-year term (INV-010), not used in prose.
+
 ## Inventions
 | id | fact | why needed | canon seams touched | logged in prompt |
 |---|---|---|---|---|
-| (starts empty — R/S/W fill) | | | | |
+| INV-001 | **Orla Quinn** — POV A: b. 9 Mar 2006 Belfast, muggle-born; Hufflepuff 2017–24; wand cedar/unicorn 12¼"; Patronus starling; family Colm (electrician), Sinéad (teacher), brother Ciarán (b. 2001, insurance data analyst), grandmother Bríd | protagonist | Hogwarts intake includes NI (canon-consistent, Seamus precedent); all personal facts new | S1 |
+| INV-002 | Orla's DoM career: recruited 2024 (the Department reads N.E.W.T. Arithmancy scripts for a certain kind of mind); junior rotation 2024–27; **Assistant Keeper of the Hall of Prophecy** 2027– | her access, her competence, her home turf | Unspeakable recruitment/roles canon-silent (A6/A7); Hall of Prophecy record-keeping canon-silent (A3/A7 — the *recording agent* mystery stays untouched here) | S1 |
+| INV-003 | **Adam Kessler** — POV B: b. 14 Nov 2001 Sheffield, muggle; BSc maths Manchester 2023; PhD ML 2027 + lectureship 2031 at Lothian; family reached Britain from Leipzig 1938–39 (inherited instinct re: lists and hidden people) | protagonist | none (muggle side); tone rail Wiki 05 §7 applies | S1 |
+| INV-004 | **University of Lothian** + **World Model Reliability Group** (Edinburgh; fictional analogue per ADR-008) | Adam's employer (option D, R4 C4) | none | S1 |
+| INV-005 | **Meridian Programme** (ARIA-analogue funder) + PD **Dr Ewan Baird** (minor OC) | Adam's grant line; Act-II defender-or-not | none | S1 |
+| INV-006 | **National Institute for Model Evaluation** — "the Institute" (AISI-analogue); Adam's 5-day red-team week there, 2030 | eval-culture fluency + named state contact slot; C4-D texture | none | S1 |
+| INV-007 | **Causeway** — fictional London frontier lab (Knowledge Quarter); performs the companion replication (C3) | the lab actor Act I needs; ADR-008 requires fictional analogue | none | S1 |
+| INV-008 | **Orrery** family — open-weight Earth-system world models (Orrery-2, Orrery-3…) Adam audits | the anomaly engine needs a name with a lab, a cost, failure modes (C1/C3) | none | S1 |
+| INV-009 | **Priya Nair** — PhD student, second author on the preprint (minor OC) | lab texture; the second person who knows (Act I stakes) | none | S1 |
+| INV-010 | Ministry leadership: **Kingsley Minister 1998–2024, retired** (ICW-envoy option); **Susan Bones Minister for Magic 2024–** via Magical Law/IMC career | Minister-2033 free slot resolved; the swing-vote Minister the plot needs | Kingsley tenure-end unsourced (R1); Susan's adult life canon-silent | S1 |
+| INV-011 | **Hermione: Head of the DMLE ~2021–2033**; twice declined to stand for Minister | keeps her hands-on for the Statute crisis; refuses the CC Minister track | extends T2 trajectory (Deputy Head 2014); CC contamination avoided by design | S1 |
+| INV-012 | **Harry: still Head of the Auror Office 2033**; refused DMLE Head and a Ministerial sounding-out | in-character (field man, no speeches); clean org chart under Hermione | extends T2 (Head from 2007, in post 2014) | S1 |
+| INV-013 | **Rose Weasley: Ravenclaw 2017–24; Unspeakable, thought section (Brain Room), memory research; Orla's closest friend, same intake** | wizard-side confidante; DMLE family channel; treason-noticer (S2) | Rose 2033 all-open (R1); Brain Room texture beyond OotP ch.34–35 = ours | S1 |
+| INV-014 | **Teddy: senior field Obliviator, MWEC liaison; married Victoire 2025, no children; Victoire: Healer, St Mungo's** | the Statute's immune system with a beloved face; his loyalty test needs stakes | Teddy/Victoire 2033 wholly unattested (R1) | S1 |
+| INV-015 | **Saul Croaker: Head of the Department of Mysteries, 2033** | Orla's chain of command; who seconds her to containment | DoM leadership canon-silent; name+specialty = T2 adoption above | S1 |
+| INV-016 | Hogwarts 2033: **Headmistress Padma Patil** (since mid-2020s; post-McGonagall interval left unnamed); **Neville Deputy Head** | the map's largest site needs a Head for council scenes; R1 free slots | successor explicitly free (T2 PotterCast 2007); Neville Deputy = R1-cleared | S1 |
+| INV-017 | Ginny 2033: still senior Quidditch correspondent + trusted occasional column (no editorship) | Act-V press lever at minimal invention | modest extension of T2 (2014 ceiling) | S1 |
+| INV-018 | **Albus Severus: Hufflepuff** (binding only if he appears on-page) | stabilises S2/S3 planning; dodges CC-Slytherin and default-Gryffindor | sorting unattested at binding tiers (R1) | S1 |
+| INV-019 | Mention-tier next-gen: **James Sirius — Wheezes product developer; Lily Luna — Chaser, Holyhead Harpies** (binding only if used) | family texture in dialogue without new cast | both adult lives unattested (R1) | S1 |

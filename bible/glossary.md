@@ -19,7 +19,13 @@ Accidental Magic Reversal Squad · *A History of Magic* (Bathilda Bagshot) · Ar
 
 anomaly map (lower case; "the map" after first use) · AR glasses (never "smart glasses" in Adam's register) · arXiv (lower a, capital X) · benchmark · calibration audit · checkpoint · cross-modal · datacentre (one word, BrE) · dead zone (two words) · eval / evals (noun, informal register only; formal = evaluation) · exhaust (as in location/sensor exhaust) · Figure 1 (capital F when naming the artefact) · fine-tune (hyphenated verb) · footfall data · foundation model · frontier model / frontier lab · GNSS (formal) vs GPS (colloquial — POV-dependent, both allowed) · GPU cluster · holdout · loss curve · open weights (noun) / open-weight (adj.) · overfitting · preprint (never "pre-print") · prediction error · red-team (verb, hyphenated) / red-teaming · residual / residual atlas (Adam's term for the artefact) · revisit cadence · SAR (expand once: synthetic-aperture radar) · sensing fabric · system card · training run · world model (two words, never hyphenated)
 
-**Institution names (fictional analogues — final names locked in S1; these are placeholders, do NOT use in prose yet):** the Institute (AISI-analogue) · Adam's university group (TBD S1) · his funder programme (ARIA-analogue, TBD S1).
+**Institution & artefact names (fictional analogues — LOCKED S1; canonical spellings):** **University of Lothian** [INV-004] · **World Model Reliability Group** ("the group"/"the lab" after first use; no hyphen in the Group's name) [INV-004] · **Meridian Programme** ("Meridian" after first use) [INV-005] · **National Institute for Model Evaluation** ("the Institute" after first use; acronym never used in prose) [INV-006] · **Causeway** (frontier lab, London — no "Labs" suffix) [INV-007] · **Orrery** (model family: Orrery-2, Orrery-3 — hyphenated version numbers) [INV-008].
+
+## Names added in S1 (canonical spellings)
+Orla Quinn (Quinns as family plural) · Adam Kessler · Priya Nair · Ewan Baird (Dr Baird in muggle prose) · Ciarán, Colm, Sinéad, Bríd Quinn (fadas always) · Susan Bones · Saul Croaker · Padma Patil · Assistant Keeper of the Hall of Prophecy (Orla's post; "the Keeper's office" lower-case k for the room)
+
+## Canon terms added in S1
+Unplottable (capital U, GoF ch.11 [pin exact line at first prose use]) — also the novel's title
 
 ## Our terms (invented — each with invented-canon.md id)
-(pending)
+(pending — S2 fills novum vocabulary)

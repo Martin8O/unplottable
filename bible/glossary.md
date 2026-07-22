@@ -42,6 +42,9 @@ Level Three (Department of Magical Accidents and Catastrophes — Accidental Mag
 ## Canon terms added in W3
 Muggle-Worthy Excuse (the Committee's product — capitalised per the committee's Tier-1 name; the Level Three lift inventory **quoted verbatim in ch3 prose and hereby pinned**: "Level Three, Department of Magical Accidents and Catastrophes, incorporating the Accidental Magic Reversal Squad, Obliviator Headquarters and Muggle-Worthy Excuse Committee", OotP ch.7) · the Squad (short form of Accidental Magic Reversal Squad, capital S in Level Three usage) · the Committee (short form of Muggle-Worthy Excuse Committee, capital C in Level Three usage) · King's Cross (PS ch.6) · Healer (job title, capital H; lime-green robes, OotP ch.22)
 
+## Canon terms added in W11
+Level Two (Department of Magical Law Enforcement — the lift's inventory **quoted verbatim in ch11 prose and hereby pinned**: "Level Two, Department of Magical Law Enforcement, including the Improper Use of Magic Office, Auror Headquarters and Wizengamot Administration Services", OotP ch.7) · Magical Maintenance (the crew that decides the Ministry windows' weather, OotP ch.7 — ch11 references "the Maintenance crew" glancingly)
+
 ## Common-usage words (lint-acknowledged — ordinary English, not terms; listed so the glossary lint stays a real alarm)
 Monday · Tuesday · Tuesdays · Wednesday · Thursday · Thursdays · Friday · Fridays · Saturday · Sunday · Boxing Day
 

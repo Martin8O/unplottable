@@ -45,13 +45,18 @@ Muggle-Worthy Excuse (the Committee's product — capitalised per the committee'
 ## Canon terms added in W11
 Level Two (Department of Magical Law Enforcement — the lift's inventory **quoted verbatim in ch11 prose and hereby pinned**: "Level Two, Department of Magical Law Enforcement, including the Improper Use of Magic Office, Auror Headquarters and Wizengamot Administration Services", OotP ch.7) · Magical Maintenance (the crew that decides the Ministry windows' weather, OotP ch.7 — ch11 references "the Maintenance crew" glancingly)
 
+## Canon terms added in W12+W13
+Shield Hat (Weasleys' Wizard Wheezes product line; the Ministry bought five hundred for its support staff — HBP ch.6; 2033 "Shield line" extension logged INV-041) · Pygmy Puff (HBP ch.6) · Decoy Detonator (HBP ch.6) · Patented Daydream Charm (HBP ch.6) · number ninety-three, Diagon Alley (the shop's address, OotP ch.29)
+
 ## Common-usage words (lint-acknowledged — ordinary English, not terms; listed so the glossary lint stays a real alarm)
-Monday · Tuesday · Tuesdays · Wednesday · Thursday · Thursdays · Friday · Fridays · Saturday · Sunday · Boxing Day
+Monday · Tuesday · Tuesdays · Wednesday · Thursday · Thursdays · Friday · Fridays · Saturday · Sunday · Boxing Day · Easter · Lammas
 
 ## Muggle place names (lint-acknowledged — ordinary geography, not terms; added W5)
-Zurich · Toronto · Leipzig · Shropshire
+Zurich · Toronto · Leipzig · Shropshire · St James's Park · Benelux · the Channel
 
 ## Our terms (invented — each with invented-canon.md id)
 **the Cartographer** [INV-020] — working-group codename for the steering agent (coined ch15–16; "the revenant" from ch17, Rose's coinage; "the Pandora fragment" formal post-identity) · **pattern Horcrux** [INV-021] — the group's later technical term; in-prose arrives via Hermione/Rose in Part III, never earlier · **pattern-anchor** [INV-021] — the rite's binding target (non-local; recurs where data matches its key) · **the Second Seclusion** [INV-022] — the national-Fidelius movement (capital S both words; members "Seclusionists"; never "Retreat" in prose — that is our structural label only) · **the census** [INV-020] — the fragment's ask: the wizard-side registry it cannot compile itself · **provenance quarantine** [INV-021/B3] — treaty-mandated exclusion of unverified corpora from training (lower case) · **soul-assay** [INV-023] — the joint magic×tech instrument standard (hyphenated noun) · **the Kessler Anomalies** [C3/§3b] — what the sites get called publicly before the treaty renames them (his cost: the name comes off)
+
+**W12+W13 additions:** **the Punter's Friend** [INV-041] — Wheezes self-totting book of wagers (capital P, capital F; "the book" after first use) · **PIPE-455 / PIPE-461** [INV-034/038/040] — the group's pipeline ticket ids (artefact register; narration uses them sparingly) · **home bias** [INV-040] — Priya's term for the licence's UK weighting (lower case; also ch12's title)
 
 **S3 additions:** **the rig** [grid/INV-026 context] — the DoM's air-gapped analysis rig, Level Nine (lower-case r; "the rig room") · **the tranche** [grid ch32] — the fragment's forcing-move exposure of Site 12 (lower-case; "a tranche" only in its own postscript) · **Site NN** [INV-026] — Figure-1 label format (capital S + two digits: Site 01…); wizard dialogue uses true names except as register-bleed device · **the canary** [grid ch14–15] — the group's fabricated Radnorshire site (lower-case; also the ch23 compartment-canary by extension) · **open morning** [grid ch36] — the first sanctioned muggle-family visit to Hogwarts (lower-case; Padma's office coins nothing grander — that is the point)

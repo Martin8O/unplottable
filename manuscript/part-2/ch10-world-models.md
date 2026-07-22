@@ -90,7 +90,7 @@ He looked at the screen, and at the woman who had just cross-examined thirty yea
 
 Friday's stand-up had an agenda item with a birthday.
 
-"PIPE-455," Priya said, laptop on forearm, in the voice she kept for items that had stopped being funny. "Dataset vintage reconciliation. Opened the eighth of April, when I was being a good citizen about the v2 erratum. I have now spent six weeks trying to reconcile the broker's vintage history, and the vintage history has won. Put that on my headstone."
+"PIPE-455," Priya said, laptop on forearm, in the voice she kept for items that had stopped being funny. "Dataset vintage reconciliation. Opened the eighth of April, when I was being a good citizen about the v2 erratum. It ate PIPE-461 in May — one ticket per mystery, house rules. I have now spent six weeks trying to reconcile the broker's vintage history, and the vintage history has won. Put that on my headstone."
 
 "Define won."
 

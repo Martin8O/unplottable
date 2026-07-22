@@ -93,6 +93,11 @@ Voice sheets in `bible/characters.md` are binding; the one-line keys:
   or wrong on purpose. The leads' balanced-antithesis wit is THEIR register, not the room's;
   when everyone speaks in struck epigrams the reader hears the author (Sorkin convergence —
   flagged independently by two WP1 panellists; full prune of narration tics deferred to E2a).
+  **WP3 sharpening (all four panellists, W23 on):** the polished EXIT line is a privilege of
+  licensed voices only (leads · Croaker · Hermione · Rose · Baird · Draco); incidental and
+  one-scene speakers (deputies, liaisons, watchwizards, keepers, tradesmen) end on plain
+  functional speech unless the line is doing procedural work. Roughly one exchange in three
+  should end unshaped. Corpus-wide de-polish of already-written parts stays an E2a item.
 
 ### 2.4 The fragment's register (Part II on; W-phase discipline)
 - It **writes**; it never speaks (world-rules F3). On-page presence = artefacts, console

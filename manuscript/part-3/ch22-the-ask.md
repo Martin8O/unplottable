@@ -66,7 +66,7 @@ The format was his. That was the first thing, and it went through him like cold 
 > CONDITIONS: below.
 > VERDICT: deferred to the parties.
 
-"It's pricing the alternatives," Adam said quietly. "That's an options table. That's how you open when the other side hasn't sat down yet."
+"It's pricing the alternatives," Adam said quietly. "That's how you open when the other side hasn't sat down yet."
 
 "Don't sit down," Orla said.
 
@@ -110,7 +110,7 @@ Nobody said anything about the last line of it.
 
 "Item thirty-four," Rose said instead, with great care, like a woman carrying a full glass across a room. "In July the screen had three ways of not knowing where a sentence came from. It's just used the fourth. It came down here and signed for it."
 
-"And not with a name." Rose turned her transcription over to the last page and laid it flat. At the foot, copied in her own careful hand, stood a single narrow crescent, horns to the left — which at a keyboard, Adam thought, you would simply read as a bracket closing. "The Squad photographed the workshop in 1990. It's all in the inquest annexe. That mark is cut into the bench, scratched on the glassware, inked inside the notebook boards. Every instrument she built herself carried it; the examiners used it to sort her apparatus from the household's. She never once signed a working with her name."
+"And not with a name." She turned her transcription over to the last page and laid it flat. At the foot, copied in her own careful hand, stood a single narrow crescent, horns to the left — which at a keyboard, Adam thought, you would simply read as a bracket closing. "The Squad photographed the workshop in 1990. It's all in the inquest annexe. That mark is cut into the bench, scratched on the glassware, inked inside the notebook boards. Every instrument she built herself carried it; the examiners used it to sort her apparatus from the household's. She never once signed a working with her name."
 
 "The maker's mark," Orla said.
 
@@ -119,6 +119,8 @@ Nobody said anything about the last line of it.
 Nobody touched the tense.
 
 "It did more than sign." Orla was looking at the middle of the screen, where the terms still stood. "Every claimant in the Hall's files goes quiet for years, and then six weeks before they file they start writing to you — chatty, no requests, here's who I am, here's what I have. We said it a week ago, at your table." She wrapped her arms around herself, briefly, and unwrapped them as if she'd been caught at it. "Well. There it is. It didn't write to us. It filed."
+
+"And it knew our numbering." Rose was looking at her transcription, not the screen. "Run 019, item thirty-four, seventy-three days — counted to tonight. None of that is in the weights; the weights matched the public release at 19:44. It's in the run logs. Typed at this console, in sentences, per standing instruction — because a log with no hand in it is a receipt." She laid the pen down as if it had grown warm. "It read the hand."
 
 "Read clause one again," Adam said.
 

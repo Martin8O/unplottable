@@ -26,7 +26,7 @@ Twist register (engineered in S2 — full dossiers in `bible/plot-architecture.m
 | P-T4-1 | T4 | ch1 | the same label as P-T2-1 (dual row: content side) — archive furniture | the book's ending, filed under "(?)" since 1990 | ch33 | planted |
 | P-T4-2 | T4 | I-2 | an eval log as interlude texture | the exact genre the 1990 prophecy will converge with | ch33 | planted |
 | P-T4-3 | T4 | ch16 | the specimen turns to the rack — horror set-piece | "the blind will taste it and turn" — the prophecy, already keeping its appointments | ch33 | planted |
-| P-T4-3a | T4 | I-3 | a Keeper's decades-old marginal note: "second subject unresolved; leave the query open" | the access problem (subjects-only, both beyond asking) that makes Luna's memory the only key | ch33 | planned |
+| P-T4-3a | T4 | I-3 | a Keeper's decades-old marginal note: "second subject unresolved; leave the query open" | the access problem (subjects-only, both beyond asking) that makes Luna's memory the only key | ch33 | planted |
 | P-T5-1 | T5 | ch6 | Ernie's Second Seclusion motion — political obstacle of the week | the same self-Kiss at national scale; first of the three refusals | ch34 | planted |
 | P-T5-2 | T5 | ch19 | the muggle burial offer; crypto-burial precedent invoked — thriller pressure | the muggle Retreat; second of the three, rhyming the first | ch34 | planted |
 | P-T5-3 | T5 | I-4 | the fragment's intercepted "salvation" tract — villain manifesto | its cadences rhyme Ernie's speech AND the burial memo: three faces, one refusal | ch35 | planned |

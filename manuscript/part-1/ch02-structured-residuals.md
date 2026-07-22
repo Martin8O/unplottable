@@ -28,7 +28,7 @@ A structured residual was the profession's phrase for a particular species of ba
 
 For the better part of two years the audit had returned exactly what it promised: a reliability atlas of the national sensing fabric, cell by dutiful cell — miscalibration over tidal flats, a bias the width of a motorway where the traffic feeds double-counted, the ordinary honest disorder of a country being measured. And, standing up out of that disorder like nail-heads out of sanded wood, a scatter of clusters that were not disorder at all.
 
-Overnight the last two jobs of the kill battery had come home. A full re-score on the winter's fresh data — new quarter, new satellite vintages, the rebuilt ingest — and the final covariate register Priya had managed to buy, beg or licence: utilities corridors, this round, and the last of the licensed-jammer lists. Sixteen months ago, either might have ended it. He opened the map.
+Overnight the last two jobs of the kill battery had come home. A full re-score on the winter's fresh data — new quarter, new satellite vintages, the rebuilt ingest — and the final covariate register Priya had managed to buy, beg or license: utilities corridors, this round, and the last of the licensed-jammer lists. Sixteen months ago, either might have ended it. He opened the map.
 
 The map came back the same. It always came back the same now. There had been a time when that sentence would have been the happiest of his career.
 

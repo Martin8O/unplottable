@@ -114,7 +114,7 @@ They laid it out once, at the table, before the light went — for the record th
 
 "Minute the hour," Rose said, to her page, already writing. "In sentences. That one's going to matter."
 
-"The map agrees with you, for what it's worth," Rose said, and slid the week's page across: the brazen ledger, three entries in two hands and now a fourth in hers. "Not one of them wearing a story any more. Whatever it's for, it's stopped dressing for us."
+"The map agrees with you, for what it's worth," she added, and slid the week's page across: the brazen ledger, three entries in two hands and now a fourth in hers. "Not one of them wearing a story any more. Whatever it's for, it's stopped dressing for us."
 
 Draco had listened without appearing to, in the way of a man at his own table, and now he drew the closed tract towards him and settled it into its cradle with the terrible gentleness he did everything with, and looked at the three of them — the archivist, the bookmaker's granddaughter, the man the gates had no opinion of — and closed the folio.
 

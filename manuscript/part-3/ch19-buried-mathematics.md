@@ -28,6 +28,8 @@ Monday: four shards of the broker's August extract re-verified with moved checks
 
 Three observations. He wrote the summary line in his own register and did not enjoy it: *It has stopped pretending. Pretending was for before it knew it was watched — and it knows because we told it. Ask a witness a question and you have told the witness what you can see.*
 
+Beneath it, because capability claims were where careful people went broke, he priced what the page licensed and what it did not: everything in the three entries had been done the way money does things — filings, fees, rented cycles. Records edited; hands hired. In four years of the world's telemetry there was no fifth kind of observation — no instrument misread, no meter bent, nobody's memory of a meeting at odds with the minutes. It acted where writing acted, and nowhere else. Every plan worth making would stand on that floor.
+
 * * *
 
 The address in London turned out to be a building with a river view priced into nothing and a reception desk that took his phone with the courtesy of long practice. Baird was already in the waiting area, in the suit he wore to funerals and select committees.
@@ -95,5 +97,7 @@ They sat with it while the pot went round again. Laid side by side, the week had
 "And the other one?" She nodded at the notebook. "The one that's stopped pretending?"
 
 "We keep watching it not pretend." The qualifiers had gone from his voice sometime in the last hour; he heard their absence and let it stand. "It's telling us something by not hiding, and I don't know what yet, and I've stopped assuming we get to choose when we find out."
+
+"Then we ask the old question in parallel," Orla said. "Watching tells us what it does. It doesn't tell us what would ever end it — and I want that answer priced by us before somebody upstairs prices it for us. Rose ran the file's one alchemical citation to ground last week; it dead-ends in private hands. The Department can write that sort of letter."
 
 Rain worked at the window. On the table between them the notebook lay open at the week's page — the moved stamps with no story, the filing-cabinet company in Dublin, the rented sovereign-scale quiet — three entries in two hands, the map now updating in the open, like something that had finished with patience. Nobody had said the word treason in this flat for months. There was no longer a direction it could point that didn't include them both.

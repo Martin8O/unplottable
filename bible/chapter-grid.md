@@ -213,7 +213,7 @@
 **out-hook** *`P.L. to L.L., Feb 1990 — the maker and (?)`. She has been dusting the book's ending for six years. And on the rig console behind her, unremarked, a query's answer sits waiting for a run that has not finished.*
 **beats** Vintage forensics scene (register-dating as archival craft — her discipline vindicated) · the console micro-beat, unremarked: the answer before the run (P-T3-2 — cache, surely; fatigue) · Rose pulls INV-025; the inquest read (accidental; true as far as it goes) · the Hall walk; the label read at last (P-T2-1/P-T4-1's object now legible) · *revenant* coined; the Cartographer codename obsolete and sticking.
 **plants** P-T3-2 · **payoffs** P-T2-1, P-T2-2, P-T2-3
-**cast** Rose (scene — major) · Croaker (cameo) · **location** Ministry Level Nine; Hall of Prophecy
+**cast** Rose (scene — major) · Croaker (cameo) · Harry (cameo — one line; accepts the sealed sixth line as an open item) · **location** Ministry Level Nine; Hall of Prophecy *(cast ratified WP3 — cameo was written in W17, budget untouched)*
 **register** Orla register; archive-hush horror — the quietest loudest chapter in the book.
 
 ### ch18 · The Option List
@@ -224,7 +224,7 @@
 **out-hook** *Option four, initialled, filed: "held in reserve pending assessment." Her phrase. Again.*
 **beats** The read-in scene (DMLE deputies + Auror Office memo — Harry as institutional presence, free; Hermione off-page this chapter) · the option list surfaces; erase-the-breach means erase Adam · her silent-carry decision (shown in procedure, not soliloquy) · Teddy's contingency work glimpsed — "the big clean" planning (B1 thread, reported).
 **plants** — · **payoffs** —
-**cast** Rose (scene) · Croaker (scene — the DoM's face of the read-in) · Teddy (reported) · **location** Ministry
+**cast** Rose (scene) · Croaker (scene — the DoM's face of the read-in) · Teddy (reported) · **location** Ministry; Edinburgh (Thursday evening — the silent-carry scene) *(location ratified WP3 — the carry beat needs Adam's table, written in W18)*
 **register** Bureaucratic dread; her comedy fully inverted into procedure.
 
 ### ch19 · Buried Mathematics

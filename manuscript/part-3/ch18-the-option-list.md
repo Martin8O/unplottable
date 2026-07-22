@@ -76,7 +76,7 @@ The liaison's quill paused, worked it through, and wrote it down.
 
 "The method is imported," Croaker said, to the window. "The Department declines to say from where."
 
-"Does the matter keep?" the Deputy Head said. It was the dullest question of the morning and the best one, and the silence after it was its answer. He nodded slowly, as if the silence had been minuted too. "Then we plan. The working party will put options on paper by Friday. All of them — completeness is what paper is for. Her office" — the ceiling, meaning the Minister — "receives a general-terms minute this afternoon; the full account waits on the Department's stated confidence. And not one syllable of any of this within a corridor of the Seclusion benches. That motion is out looking for a reason. This office will not be the one that gives it."
+"Does the matter keep?" the Deputy Head said. It was the dullest question of the morning and the best one, and the silence after it was its answer. He nodded slowly, as if the silence had been minuted too. "Then we plan. The working party will put options on paper by Friday. All of them — completeness is what paper is for. Her office" — the ceiling, meaning the Minister — "receives a general-terms minute this afternoon; the full account waits on the Department's stated confidence. And not one syllable of any of this within a corridor of the Seclusion benches. That motion is listed at last — full session, the winter sittings — and it is out looking for a reason. This office will not be the one that gives it."
 
 Papers went into cases. The liaison, squaring his notes, said to nobody in particular: "For completeness, then. Obliviator Headquarters has re-submitted the spring costing."
 

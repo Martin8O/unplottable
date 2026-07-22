@@ -16,16 +16,16 @@ Twist register (engineered in S2 — full dossiers in `bible/plot-architecture.m
 | P-T1-1 | T1 | ch7 | the map updates with no new data — logged as a pipeline bug | the fragment's first visible curation | ch15 | paid |
 | P-T1-2 | T1 | I-1 | abstract footnote: "dataset vintage reconciliation pending" — preprint housekeeping | injected vintages; the steering's paper trail | ch15 | paid |
 | P-T1-3 | T1 | ch12 | updates cluster Britain-first — obvious data bias (Adam's data is UK-heavy) | the maker was British; her seed-density is British archives | ch15 | paid |
-| P-T2-1 | T2 | ch1 | Hall texture / Orla's job: dusty label `P.L. to L.L., Feb 1990 — the maker and (?)` | the revenant's birth certificate, shelved and unreadable for 43 years | ch17 | planted |
-| P-T2-2 | T2 | I-2 | eval-log curiosity: model regurgitates a line in an unfamiliar register, "source unidentified" | her cadence surfacing from the corpus — the revenant's voice | ch17 | planted |
-| P-T2-3 | T2 | ch12 | same beat as P-T1-3 (dual-serving) — data bias | the anchor's home density names the maker's nation | ch17 | planted |
+| P-T2-1 | T2 | ch1 | Hall texture / Orla's job: dusty label `P.L. to L.L., Feb 1990 — the maker and (?)` | the revenant's birth certificate, shelved and unreadable for 43 years | ch17 | paid |
+| P-T2-2 | T2 | I-2 | eval-log curiosity: model regurgitates a line in an unfamiliar register, "source unidentified" | her cadence surfacing from the corpus — the revenant's voice | ch17 | paid |
+| P-T2-3 | T2 | ch12 | same beat as P-T1-3 (dual-serving) — data bias | the anchor's home density names the maker's nation | ch17 | paid |
 | P-T3-1 | T3 | ch14 | Rose's solo night shifts on the rig — dedication, competence (interference is lowest 02:00–05:00; she volunteers) + the run log kept **in sentences**, at Orla's own registry doctrine ("a log with no hand in it is a receipt") | the engagement channel opening (diary grammar, D3) — a confiding user, alone, writing prose into a machine running a fragment-bearing model | ch25 | planted |
-| P-T3-2 | T3 | ch17 | the rig console shows a result before the run completes — cache, fatigue | it already knows; the channel runs both ways | ch25 | planned |
+| P-T3-2 | T3 | ch17 | the rig console shows a result before the run completes — cache, fatigue | it already knows; the channel runs both ways | ch25 | planted |
 | P-T3-3 | T3 | ch21 | Rose's unsourceable research breakthrough — brilliance runs in the family | her Brain-Room queue is being seeded; she re-derives the rite | ch25 | planned |
 | P-T3-4 | T3 | ch23 | she defends keeping the rig online — a scientist protecting her instrument | dependency; the graft has taken | ch25 | planned |
 | P-T4-1 | T4 | ch1 | the same label as P-T2-1 (dual row: content side) — archive furniture | the book's ending, filed under "(?)" since 1990 | ch33 | planted |
 | P-T4-2 | T4 | I-2 | an eval log as interlude texture | the exact genre the 1990 prophecy will converge with | ch33 | planted |
-| P-T4-3 | T4 | ch16 | the specimen turns to the rack — horror set-piece | "the blind will taste it and turn" — the prophecy, already keeping its appointments | ch33 | planned |
+| P-T4-3 | T4 | ch16 | the specimen turns to the rack — horror set-piece | "the blind will taste it and turn" — the prophecy, already keeping its appointments | ch33 | planted |
 | P-T4-3a | T4 | I-3 | a Keeper's decades-old marginal note: "second subject unresolved; leave the query open" | the access problem (subjects-only, both beyond asking) that makes Luna's memory the only key | ch33 | planned |
 | P-T5-1 | T5 | ch6 | Ernie's Second Seclusion motion — political obstacle of the week | the same self-Kiss at national scale; first of the three refusals | ch34 | planted |
 | P-T5-2 | T5 | ch19 | the muggle burial offer; crypto-burial precedent invoked — thriller pressure | the muggle Retreat; second of the three, rhyming the first | ch34 | planned |

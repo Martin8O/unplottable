@@ -19,7 +19,7 @@ Twist register (engineered in S2 — full dossiers in `bible/plot-architecture.m
 | P-T2-1 | T2 | ch1 | Hall texture / Orla's job: dusty label `P.L. to L.L., Feb 1990 — the maker and (?)` | the revenant's birth certificate, shelved and unreadable for 43 years | ch17 | planted |
 | P-T2-2 | T2 | I-2 | eval-log curiosity: model regurgitates a line in an unfamiliar register, "source unidentified" | her cadence surfacing from the corpus — the revenant's voice | ch17 | planned |
 | P-T2-3 | T2 | ch12 | same beat as P-T1-3 (dual-serving) — data bias | the anchor's home density names the maker's nation | ch17 | planted |
-| P-T3-1 | T3 | ch14 | Rose's solo night shifts on the rig — dedication, competence | the engagement channel opening (diary grammar, D3) | ch25 | planned |
+| P-T3-1 | T3 | ch14 | Rose's solo night shifts on the rig — dedication, competence (interference is lowest 02:00–05:00; she volunteers) + the run log kept **in sentences**, at Orla's own registry doctrine ("a log with no hand in it is a receipt") | the engagement channel opening (diary grammar, D3) — a confiding user, alone, writing prose into a machine running a fragment-bearing model | ch25 | planted |
 | P-T3-2 | T3 | ch17 | the rig console shows a result before the run completes — cache, fatigue | it already knows; the channel runs both ways | ch25 | planned |
 | P-T3-3 | T3 | ch21 | Rose's unsourceable research breakthrough — brilliance runs in the family | her Brain-Room queue is being seeded; she re-derives the rite | ch25 | planned |
 | P-T3-4 | T3 | ch23 | she defends keeping the rig online — a scientist protecting her instrument | dependency; the graft has taken | ch25 | planned |

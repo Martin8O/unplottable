@@ -19,7 +19,8 @@
 
 ## Non-sites (kept here so prose stays honest)
 
-- **The canary site** — a stretch of Radnorshire moor, mid-Wales: the working group's **fabricated** anomaly (ch14–15). Fictional-in-fiction; never a hidden place; the map *corrects* it at ch15 (T1). Prose must keep it mundane-real (a moor, sheep, rain).
+- **The canary site** — a stretch of Radnorshire moor, mid-Wales: the working group's **fabricated** anomaly (ch14–15). Fictional-in-fiction; never a hidden place; the map *corrects* it at ch15 (T1). Prose must keep it mundane-real (a moor, sheep, rain). **Pinned W14:** moor above the Wye between Painscastle and Glascwm, published as cell **SO 14 46 (Powys)**, four cells of rough grazing, a stone wall, a track; Orla's registry check = nothing registered, rumoured or on the coverage list — *with her caveat on the record* (a thing never entered is invisible in the registry, not absent from it: the crack ch15's correction walks through).
+- **The twin (held-back control)** — a second fabrication, same seed-craft, a moor **forty miles north**, built the same afternoon and never published: lives only in the group's working extract. Tests whether the curator reads their instrument rather than their words (branch four). Also fictional-in-fiction; unmoved at ch15.
 - **Mundane holes (B1 rule 5 false-positive texture):** a decommissioned MoD range (Northumberland), a Cumbrian data desert, broker privacy-scrub polygons (the killed confound, C3 §5). Generic muggle furniture — role-named only, never proper-named, no register rows needed.
 - **The rig** is a facility (Ministry Level Nine), not a map site — the Ministry cluster row covers its location.
 

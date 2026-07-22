@@ -5,7 +5,7 @@
 ## Spine (canon-fixed → our era)
 - 1689 — International Statute of Secrecy **signed** ("Upon the signature of… in 1689" — *A History of Magic* excerpt, DH ch.16; Tier-1)
 - 1692 — Statute in force [T2: Fantastic Beasts textbook 2001; Pottermore concurs — logged R2]
-- **Feb 1990 — Pandora Lovegood's trance-prophecy; first hearer Luna, aged nine** [INV-020 — SPOILER; Hall record label dated Feb 1990]
+- **Feb 1990 — Pandora Lovegood's trance-prophecy; first hearer Luna, aged eight** (she turns nine on 13 Feb 1990; the Hall register reads *aged eight years*, so the record precedes her birthday — INV-046f/INV-052f, ch17 and I-3 on the page) [INV-020 — SPOILER; Hall record label dated Feb 1990]
 - **autumn 1990 — the pattern-extraction rite; Pandora dies** (canon: "her own experimental spell", when Luna was nine — OotP ch.38); sealed inquest follows, verdict accidental [INV-020/021/025]
 - 1990–~2029 — the fragment dormant (substrate density below threshold; world-rules B3)
 - 2 May 1998 — Battle of Hogwarts

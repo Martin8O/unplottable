@@ -30,3 +30,4 @@ An original ~118k-word sci-fi novel (300–400 printed A5 pages) set in the Harr
 
 ## Workflow
 "let's start «X»" → just-in-time refine + plan-mode OK → execute with verification DURING → "«X» is done" → lean wrap-up (gate, ADR, changelog, bootstrap head ≤5×5, model-fit line, scoped commit+push). Announce every next prompt with its tier + `▶ Spustit na: <model> · <effort>`. Details: `docs/writing-workflow.md`.
+- **Model recs name a tier, not a family:** `frontier · <effort>` (frontier = strongest generally available Claude; family = Martin's call per run). **If a run reviews as not a fit, re-run it at a higher effort/model — never patch weak prose in place** (high → extra → max, then the stronger family); card/plants/bible survive, only the prose is redrafted. Full rule: `Local/Prompts requirements.md` §4.

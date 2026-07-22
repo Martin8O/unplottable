@@ -49,7 +49,7 @@ Level Two (Department of Magical Law Enforcement — the lift's inventory **quot
 Shield Hat (Weasleys' Wizard Wheezes product line; the Ministry bought five hundred for its support staff — HBP ch.6; 2033 "Shield line" extension logged INV-041) · Pygmy Puff (HBP ch.6) · Decoy Detonator (HBP ch.6) · Patented Daydream Charm (HBP ch.6) · number ninety-three, Diagon Alley (the shop's address, OotP ch.29)
 
 ## Common-usage words (lint-acknowledged — ordinary English, not terms; listed so the glossary lint stays a real alarm)
-Monday · Tuesday · Tuesdays · Wednesday · Thursday · Thursdays · Friday · Fridays · Saturday · Sunday · Boxing Day · Easter · Lammas
+Monday · Tuesday · Tuesdays · Wednesday · Thursday · Thursdays · Friday · Fridays · Saturday · Sunday · Boxing Day · Easter · Lammas · January · February · March · April · May · June · July · August · September · October · November · December *(month names — added W21, when a chapter first crossed the lint's three-use threshold on two of them)*
 
 ## Muggle place names (lint-acknowledged — ordinary geography, not terms; added W5)
 Zurich · Toronto · Leipzig · Shropshire · St James's Park · Benelux · the Channel
@@ -64,6 +64,9 @@ Zurich · Toronto · Leipzig · Shropshire · St James's Park · Benelux · the 
 **W12+W13 additions:** **the Punter's Friend** [INV-041] — Wheezes self-totting book of wagers (capital P, capital F; "the book" after first use) · **PIPE-455 / PIPE-461** [INV-034/038/040] — the group's pipeline ticket ids (artefact register; narration uses them sparingly) · **home bias** [INV-040] — Priya's term for the licence's UK weighting (lower case; also ch12's title)
 
 **S3 additions:** **the rig** [grid/INV-026 context] — the DoM's air-gapped analysis rig, Level Nine (lower-case r; "the rig room") · **the tranche** [grid ch32] — the fragment's forcing-move exposure of Site 12 (lower-case; "a tranche" only in its own postscript) · **Site NN** [INV-026] — Figure-1 label format (capital S + two digits: Site 01…); wizard dialogue uses true names except as register-bleed device · **the canary** [grid ch14–15] — the group's fabricated Radnorshire site (lower-case; also the ch23 compartment-canary by extension) · **open morning** [grid ch36] — the first sanctioned muggle-family visit to Hogwarts (lower-case; Padma's office coins nothing grander — that is the point)
+
+## Terms added in W21
+**the order rule** [INV-050] — the group's name for Rose's result (lower case; never "the Weasley rule" in prose — the section signs nothing, which is the point): *content does not source; order does* · **the queue** [INV-050] — the thought section's unsigned standing list of open questions, running since the 1920s (lower case; "her queue" in speech) · **the joins** [INV-050] — the section's term for what fitting a new acquisition to an existing mind leaves behind (lower case; readable for order, never for content) · **the reading list** [INV-050] — the group's staggered family of four canaries, one per archive per date, designed so that the revenant's next act dates its own reading (lower case; extends *canary*, INV-042)
 
 ## Terms added in W19+W20
 the Prague school · the Florentines · the Englishwoman (her tract; never named) — the three hands of the Manor's soul-anchoring corpus (invented alchemical literature, INV-049; period vocabulary only: "vessel", "fixing of spirit", "the mending-limit", "cursed fire", "the serpent-king's venom") · Latin (ordinary language name — the Englishwoman's is bad; no lore claimed) · the brazen ledger (lower-case in prose preferred; the two-heads notebook's Aug–Sep page of open-curation observations, INV-048)

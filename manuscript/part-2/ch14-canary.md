@@ -161,7 +161,7 @@ She went home at six. He added Appendix A at eleven.
 > A2.3 — SO 14 46 (Powys): exhaust + GNSS integrity; excess 3.61σ; coherence 0.061; n = 1,461. Provisional.
 > A2.4 — SD 66 51 (Lancashire): imagery only; excess 2.6σ; consistent with land-use change.
 
-It took nine minutes to write and read like every appendix he had ever read, which was the part he would think about later, at intervals, for years: that the thing he had spent twenty-two years being — a man whose numbers could be trusted because he would rather be dull than wrong — could be put down in nine minutes, in a table, in his own house style, and that nobody would ever be able to tell from the prose. He had ended a postdoc's career in 2029 for less. He had been right to.
+It took nine minutes to write and read like every appendix he had ever read, which was the part he would think about later, at intervals, for years: that the thing he had spent his whole working life being — a man whose numbers could be trusted because he would rather be dull than wrong — could be put down in nine minutes, in a table, in his own house style, and that nobody would ever be able to tell from the prose. He had seen a referee's report end a postdoc's career in 2029 for less. He had been right to.
 
 He checked the twin one last time before he closed the machine: forty miles north, same seed, same craftsmanship, sitting in the working extract where only their own pipeline could see it, and in no sentence anywhere in the world.
 

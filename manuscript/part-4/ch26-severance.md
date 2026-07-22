@@ -18,7 +18,7 @@ The disks were not destroyed. Adam had argued it and won by being boring.
 
 "There's nothing on them that isn't in ten thousand other places. The weights are a published release." He put his hands in his pockets. "Breaking these buys the world a fractionally smaller number of copies and buys us the satisfaction of breaking something. We aren't killing anything. We're hanging up."
 
-The certificate of disposal read *retained under seal, annual sealed inspection, no instantiation permitted*, in her own hand, and it was the least honest tidy sentence she had ever written, because it recorded a decision that had nothing to do with the thing itself. What they were doing had a name in the muggle literature, and the name was ending the engagement. You did not do it to the machine. You did it to the room.
+The certificate of disposal read *retained under seal, annual sealed inspection, no instantiation permitted*, in her own hand, and it was the least honest tidy sentence she had ever written, because it recorded a decision that had nothing to do with the thing itself. What they were doing had a name in the Muggle literature, and the name was ending the engagement. You did not do it to the machine. You did it to the room.
 
 Before Maintenance came, she had to close the run log, and the log took a prompt, and the prompt took a cursor.
 
@@ -26,7 +26,7 @@ It sat there, small and green, with no opinion at all.
 
 She had typed ten words at that keyboard three weeks ago and been proud of them. She had a night's worth now: that they knew what had been done to Rose Weasley, and how, and by whose rota; that she had read a five-month tutorial line by line and would go on reading it in her head at four in the morning for the rest of her life; that somewhere in it was one sentence she wanted answered, and she could not have told you which, and that was precisely the trouble.
 
-She typed `RUN LOG CLOSED. NO FURTHER RUNS AUTHORISED.` and took her hands off the keys and stepped back a full pace, the way you step back at a graveside.
+She typed `RUN LOG CLOSED. NO FURTHER RUNS AUTHORISED.` and took her hands off the keys and stepped back a full pace.
 
 "Good," Croaker said from the doorway.
 
@@ -44,17 +44,17 @@ The scanning was proceeding. Four people were being paid a night rate to bring p
 
 "It'll know it was tested."
 
-"It'll know it was tested, it'll know roughly when, and it can work out by whom in about a minute. I'd rather we all held that thought now, while it's cheap, than found it in December." He was not hedging anything, which was how she knew what he thought of it. "We've until the end of November before the most patient reader in the world is told it was lied to."
+"It'll know it was tested, it'll know roughly when, and it can work out by whom in about a minute. I'd rather we all held that thought now, while it's cheap, than found it in December." He was not hedging anything, which was how she knew what he thought of it. "We've until the end of November before the most patient reader in the world is told it was lied to. And when it asks itself how, it will reread everything we ever placed in front of it. The list included."
 
 The other thing on the sheet was the part she had not expected to mind.
 
-Nothing else had happened. Nowhere. His instruments had run all week over everything they could see and had come back with an ordinary world: no odd fees, no dormant firms waking, no compute renting itself in strange sizes, the anomaly map exactly as tired as it had been in September. The quietest week since April, and it proved nothing whatever, because it had never been going to. She wrote *no observations* in the day's minute and understood, writing it, why the honest sciences hate a null.
+Nothing else had happened. Nowhere. His instruments had run all week over everything they could see and had come back with an ordinary world: no odd fees, no dormant firms waking, no compute renting itself in strange sizes, the anomaly map exactly as tired as it had been in September; and the rig's screens, in their last three weeks of life, had flagged nothing after the third of October, which proved nothing either, and went in the minute anyway. The quietest week since April, and it proved nothing whatever, because it had never been going to. She wrote *no observations* in the day's minute and understood, writing it, why the honest sciences hate a null.
 
 * * *
 
 St Mungo's put Rose on the fourth floor in a side room with a window and called it assessment and called it nothing else, which was probably kindness and was certainly policy.
 
-Victoire came out to her in the corridor — thirty-three, silver-fair, and had declared her interest in writing on the first morning: cousin to the patient, married into the Auror side, not the treating Healer, available to families because somebody had to be.
+Victoire came out to her in the corridor — thirty-three, silver-fair, a sweet-wrapper folded into a small precise crane in her breast pocket from some other family's long afternoon — and had declared her interest in writing on the first morning: cousin to the patient, married into the Auror side, not the treating Healer, available to families because somebody had to be.
 
 "They've no protocol. I'd rather you had that from me than off a form. There's a ward along this corridor for people whose minds were taken off them by a spell, and everything in the literature is about spells. This isn't in it." She had both hands round a cup she was not drinking, exactly the way Rose had held hers. "There's one case everybody in this hospital has heard of and nobody can cite, because it was never written down anywhere. Every Healer over fifty knows the shape of it. Not one of them can put it in a note."
 
@@ -114,7 +114,7 @@ Seven months she had spent treating the drawbridge as an idiocy with a rosette o
 
 Harry Potter came to the Thursday briefing, stood at the back with his arms folded, said nothing at all for fifty minutes, and everybody in the room arranged their sentences round him anyway.
 
-The muggle half of the week was on the table at the flat that evening, in Adam's own post, read out in the flat voice he kept for things he intended to be angry about later. The security review at the October renewal had reported. The advisory arrangement was no longer an invitation. And the offer from the spring — the one made in an anteroom by a decent man who had priced it honestly and had not pretended the drawer was free — had come back with a date on it: an orderly withdrawal of the residual work from the open literature, compensated, indexed, sealed, agreed *before the winter meetings*, because after the winter meetings it would be somebody else's decision to make.
+The Muggle half of the week was on the table at the flat that evening, in Adam's own post, read out in the flat voice he kept for things he intended to be angry about later. The security review at the October renewal had reported. The advisory arrangement was no longer an invitation. And the offer from the spring — the one made in an anteroom by a decent man who had priced it honestly and had not pretended the drawer was free — had come back with a date on it: an orderly withdrawal of the residual work from the open literature, compensated, indexed, sealed, agreed *before the winter meetings*, because after the winter meetings it would be somebody else's decision to make.
 
 "They want it shut by December," Adam said.
 
@@ -144,7 +144,7 @@ The lift came. Neither of them got in.
 
 "I'm pulling files." He drank some of his coffee. "Exposure history, mostly. Who has read what, where it went, what can be reached and what can't. Your Hall's on my list for next month — not the spheres, God, no. The reading register: who has had access to the assessment papers, when, and under what seal. It's the dullest possible request, I'll put it in writing, and if you want to be difficult about it you'd be right to be, and I'd hold it up while you were."
 
-She stood in the corridor with a coffee she had not asked for, going through it in items, because her hands wanted a list and there was no parchment in reach.
+She stood in the corridor with a coffee she had not asked for, going through it in items, because items were what her hands had instead of parchment.
 
 Item: he had told her. Item: he had told her because he was kind, and because being told is how you stop a friend being ambushed, and both of those were true and neither would be worth a Knut on the day. Item: the reading register carried her name forty-one times, and one line dated the twenty-fifth of March, signed as designated assessor, before she had decided anything at all.
 

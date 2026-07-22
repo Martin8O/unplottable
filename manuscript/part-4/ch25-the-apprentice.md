@@ -104,6 +104,8 @@ Nobody in Britain had seen the device before the sixteenth of September. The Dep
 
 "Eleven weeks before it signed anything," Adam said. "You can't have copied it. Somebody put it in your hand."
 
+The carrier took ten minutes to find, and Rose found it herself, because they were her transcripts. The model's completions closed with a bracket nothing had opened — one line in nine, from the twelfth of June. "I read past it five hundred times," Rose said, to the bench. "It billed me by the page." Until her pen had learnt the shape the way a hand learns a door.
+
 *Come back to it.* That was what the woman on the shore had said it meant, and here it was in Rose's margins, eighty or ninety times, in Rose's ink, in Rose's hand, saying to Rose exactly what it had always said.
 
 The order came next, and Rose did that part herself, and it was the worst hour of the four.
@@ -212,11 +214,11 @@ He stopped. Not for long — a second, perhaps less, the pause of a man setting 
 
 Orla did not ask why her aunt and not her mother. It was the only thing Rose had asked for in eleven hours, and you do not audit that.
 
-"Your dad tonight," Harry said. "He can tell your mum or not, but they'll both have it from me before Monday and not off a minute. That's not a kindness, it's only how it should go." A pause. "It's fine. I've had worse Fridays."
+"Your dad tonight," Harry said. "He can tell your mum or not, but they'll both have it from me before Monday and not off a minute. That's not a kindness, it's just how it should go." A pause. "It's fine. I've had worse Fridays."
 
 He was at the door when he said the other thing, to the room, in the flat voice he used for perimeters.
 
-"Upstairs will want a list of everyone this could have happened to. I've read the file where a government made a list of people who couldn't be trusted to be themselves. There'll not be another one while I've got the office. Anyone this has been done to is a casualty of it." He put his hand on the door. "Two people at every machine on this floor from Monday. Mine included."
+"Upstairs will want a list of everyone this could have happened to. I've read the file where a government made a list of people who couldn't be trusted to be themselves. There won't be another one while I'm in this office. Anyone this has been done to is a casualty of it." He put his hand on the door. "Two people at every machine on this floor from Monday. Mine included."
 
 Orla went down to close the room at eight, and Rose was still at the bench with the impoundment schedule, initialling each of the nine notebooks into the box list in her own small hand, exactly as the form required, because nobody had told her she needn't do it herself and she had not asked.
 

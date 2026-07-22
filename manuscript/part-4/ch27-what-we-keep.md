@@ -30,7 +30,7 @@ It was somewhere in the fourth hand, eyes on her cards, that Ginny said, "Sleepi
 
 "I'm not asking what they ask." The cards went round. "Three o'clock. What does it want you doing?"
 
-The pause was small, and it was not the pause of somebody deciding whether to answer. It was the pause of somebody who had waited eleven days for the question to arrive in units she recognised.
+The pause was small — the pause of somebody who had waited eleven days for the question to arrive in units she recognised.
 
 "Reading," Rose said. "There's no console in the building. So: reading."
 

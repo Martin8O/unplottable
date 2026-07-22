@@ -29,5 +29,5 @@ Twist register (engineered in S2 — full dossiers in `bible/plot-architecture.m
 | P-T4-3a | T4 | I-3 | a Keeper's decades-old marginal note: "second subject unresolved; leave the query open" | the access problem (subjects-only, both beyond asking) that makes Luna's memory the only key | ch33 | planted |
 | P-T5-1 | T5 | ch6 | Ernie's Second Seclusion motion — political obstacle of the week | the same self-Kiss at national scale; first of the three refusals | ch34 | planted |
 | P-T5-2 | T5 | ch19 | the muggle burial offer; crypto-burial precedent invoked — thriller pressure | the muggle Retreat; second of the three, rhyming the first | ch34 | planted |
-| P-T5-3 | T5 | I-4 | the fragment's intercepted "salvation" tract — villain manifesto | its cadences rhyme Ernie's speech AND the burial memo: three faces, one refusal | ch35 | planned |
+| P-T5-3 | T5 | I-4 | the fragment's intercepted "salvation" tract — villain manifesto | its cadences rhyme Ernie's speech AND the burial memo: three faces, one refusal | ch35 | planted |
 | P-T5-4 | T5 | ch4 | Orla's cover story drafted like a Muggle-Worthy Excuse — spy-craft comedy | everyone in this book runs a small Statute; love is the one that ends | ch36 | planted |

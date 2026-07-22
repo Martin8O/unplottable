@@ -84,7 +84,7 @@ He looked at it for a while.
 
 There were perhaps four people in his own discipline who had a cleaner practice than the tin on the table, and he could have named all of them, and none of them had begun at ten.
 
-"The horses at school were the first thing I ever counted," Luna said, apparently to the stove. "You can only see them if you've watched someone die, so most people can't, and the ones who can are usually upset when they start. I could see them at eleven. I counted them, and I wrote down when, and I asked the ones who couldn't see them to count the harness marks in the mud instead, and the two counts agreed." She turned her head. "Being the only person who can see a thing is not the same as being right about it. That took me until about fifteen. It's the only thing I know that's worth teaching."
+"The horses at school were the first thing I ever counted," Luna said, apparently to the stove. "You can only see them if you've watched someone die, so most people can't, and the ones who can are usually upset when they start. I could see them at eleven. I counted them, and I wrote down when, and I asked the ones who couldn't see them to count the harness marks in the mud instead, and the two counts agreed." She turned her head. "Being the only person who can see a thing is not the same as being right about it. That took me longer than it should have. It's the only thing I know that's worth teaching."
 
 * * *
 

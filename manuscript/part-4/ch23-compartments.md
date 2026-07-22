@@ -20,7 +20,7 @@ The fortnight in between was the Department deciding, in writing, what precisely
 
 So on the Monday evening Rose brought the rig up at twenty to eight for a run whose only purpose was a prompt, and Orla stood in front of a keyboard she had used perhaps four times in her life.
 
-"Two fingers is fine," Rose said. "Two fingers is how the entire muggle civil service does it."
+"Two fingers is fine," Rose said. "Two fingers is how the entire Muggle civil service does it."
 
 "It isn't the typing."
 

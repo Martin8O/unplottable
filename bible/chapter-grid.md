@@ -168,7 +168,7 @@
 **friction** Engineering a lie into data they are sworn to keep honest (the theme in miniature); DoM requisition comedy (the Department buying GPUs through the Muggle-Worthy machinery).
 **turn** The hypothesis space is formalised — if anything corrects the canary, it can read the real Britain *and its readers*; the test cannot be unasked.
 **out-hook** *The canary goes live at midnight. The map's next scheduled update is Friday.*
-**beats** Canary design (A-scene: the fabricated site, the injection path, the tell-tale only they could plant) · the rig stood up on Level Nine (O-scene: requisition comedy; **Rose takes the night shifts — dedication on-page**, P-T3-1) · go-live and the wait (A-scene).
+**beats** Canary design (A-scene: the fabricated site, the injection path, the tell-tale only they could plant) · the rig stood up on Level Nine (O-scene: requisition comedy; **Rose's induction terms recalled** — the Sunday sitting, Adam's consent, price = inclusion (INV-044b, WP2 fix); the rig's function stated — verification, not discovery; **Rose takes the night shifts — dedication on-page**, P-T3-1) · go-live and the wait (A-scene).
 **plants** P-T3-1 · **payoffs** —
 **cast** Rose (scene) · Priya (cameo — unwitting alibi) · **location** Edinburgh; Ministry Level Nine (the rig)
 **register** Heist-lightness over deep unease; one head per scene, majority Adam.

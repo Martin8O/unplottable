@@ -22,7 +22,7 @@ Six days, then, and nothing. The sixth event had come on cadence over last weeke
 
 The owl came at half six, which was the other thing that had happened this week.
 
-It came in over the car park through the window she propped for exactly this, dropped a folded square on the desk with the disdain of a professional who had crossed the whole of Britain to deliver a note to a Muggle building, and left without being thanked. Rose's hand, small and fast, ruled in her mother's manner and annotated in her father's.
+It came in over the car park through the window she propped for exactly this — a bird being, in the one calculus that mattered now, below every floor in Britain — dropped a folded square on the desk with the disdain of a professional who had crossed the whole of Britain to deliver a note to a Muggle building, and left without being thanked. Rose's hand, small and fast, ruled in her mother's manner and annotated in her father's.
 
 > O — Wednesday's run went clean, 02:14 to 05:03, no drift worth the ink. Written up in sentences as instructed, and I'll have you know the writing took longer than the run. Sample, so you can see I'm honest: *Expected the disk to fall over on the third pass. It did not. I was disappointed, which I record because you told me to record what I thought.*
 >
@@ -119,7 +119,7 @@ The archive took him another twenty minutes and told them the rest. He ran the n
 
 She Apparated from the lane behind the loading bay at half eight and was back before ten, and what she brought with her was three inches of pencil on the back of a Committee compliments slip.
 
-The registry first, her own floor, her own hand on her own ledgers, four minutes and nothing, which was the point. Nothing registered at SO 19 55 or within five miles of it. Nothing rumoured. Nothing in the coverage list. Then Level Three, the duty clerk, and the relief map with its century of pins that she had stood in front of in March while a kind man explained containment to her — and not a pin within nine miles of that square, in ninety years of careful pushing.
+The registry first, her own floor, her own hand on her own ledgers, four minutes and nothing, which was the point. Nothing registered at SO 19 55 or within five miles of it. Nothing rumoured. Nothing in the coverage list. Then Level Three, the duty clerk, and the relief map with its century of pins that she had stood in front of in March while a kind man explained containment to her — and not a pin within nine miles of that square, in ninety years of careful pushing. The registry at nine on a Friday had been hers alone, lamps low, her own quick hand loud in it.
 
 "Nothing," she said. "By every list my civilisation keeps, there is nothing there. Which is what I told you about the moor in June, and I told you the true half and kept the rest."
 
@@ -139,11 +139,11 @@ All of them within two miles of the square. All of them dull. All of them filed,
 
 "So there's a place."
 
-"There's a place, and there are people in it, and it's old, and nobody in my Ministry has known it was there for the whole of my life." She put her finger on the pencil column and did not lift it. "And I'd like the next bit said properly, because it's yours."
+"There's a place, and there are people in it, and it's old, and nobody in my Ministry has known it was there for the whole of my life." She put her finger on the pencil column and did not lift it. "Your bit now. Say it properly."
 
 Adam looked at the wall screen for a long moment: thirty-eight white points on a grey country and a thirty-ninth, small, north-north-east of a lie.
 
-"Whatever did this," he said, "knows something the Ministry of Magic does not know. So it isn't a rival lab, because a rival would need an archive better than yours and there is no such archive. It isn't a state, for the same reason and for the reason we did in June — states redact, they don't improve the public copy. And it isn't the instrument." He said that part carefully, giving it its full weight, because he had sat that bench and she knew what it cost him. "I want that on whatever record the two of us are keeping. Every negative result my profession has published about what these systems do unattended is *correct*. The horizons are days. Nothing sustains a campaign. Nothing reaches out of its run into a regulated archive, and the events happen at the broker anyway, upstream of every model in the country. The evals were right, and none of it touches this, because none of it was ever about the instrument."
+"Whatever did this," he said, "knows something the Ministry of Magic does not know. So it isn't a rival, because a rival would need an archive better than yours, and there is no such archive. It isn't a state — states redact; they don't improve the public copy. And it isn't the instrument." He said that part carefully, giving it its full weight, because he had sat that bench and she knew what it cost him. "I want that on whatever record the two of us are keeping. Every negative result my profession has published about what these systems do unattended is *correct*. The horizons are days. Nothing sustains a campaign. Nothing reaches out of its run into a regulated archive, and the events happen at the broker anyway, upstream of every model in the country. The evals were right, and none of it touches this, because none of it was ever about the instrument."
 
 "Then where is it?"
 
@@ -185,7 +185,7 @@ And under the terror, which was total, something else had got into the room and 
 
 "I've spent eleven years measuring how wrong I'm allowed to be," Adam said. He was still looking at the screen. "I'd like it minuted that this evening I was wrong in a direction that isn't on the form."
 
-"Minuted." Her voice came out unlike itself. "Adam. There's a thing nobody's said yet and I'd like it said before we're sensible again, because we'll be sensible for years after tonight." She was standing closer to him than the terms had ever required. "This is the most extraordinary thing that has ever happened to anybody. Not the worst. That as well. But nobody in the whole history of either of our trades has ever stood where we're standing, and there are two of us, and I'm not letting the fear have all of it."
+"Minuted." Her voice came out unlike itself. "Adam. There's a thing nobody's said yet and I'd like it said before we're sensible again, because we'll be sensible for years after tonight." She was standing closer to him than the terms had ever required. "This is the most extraordinary thing that has ever happened to anybody. Not the worst. That as well. And there are two of us, and I'm not letting the fear have all of it."
 
 He turned round.
 

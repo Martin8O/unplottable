@@ -84,13 +84,13 @@ Orla closed her notebook. For a moment she looked — not triumphant; settled, t
 
 He looked at the screen, and at the woman who had just cross-examined thirty years of satellite bookkeeping against a parchment warrant and found the world consistent, and understood, with the low clean click of a confidence interval closing, that he had stopped being able to imagine doing the work without her — either work, the licensed one or the real one. It was not an emotion, he told himself. It was a competence assessment.
 
-(It was both, and the assessment part was the part he said aloud.)
+(It was both, and he knew it, and the assessment was the half he would have said aloud.)
 
 * * *
 
 Friday's stand-up had an agenda item with a birthday.
 
-"PIPE-455," Priya said, laptop on forearm, in the voice she kept for items that had stopped being funny. "Dataset vintage reconciliation. Opened the eighth of April, when I was being a good citizen about the v2 erratum. I have now spent six weeks trying to reconcile the broker's vintage history, and I want it minuted that the vintage history has won."
+"PIPE-455," Priya said, laptop on forearm, in the voice she kept for items that had stopped being funny. "Dataset vintage reconciliation. Opened the eighth of April, when I was being a good citizen about the v2 erratum. I have now spent six weeks trying to reconcile the broker's vintage history, and the vintage history has won. Put that on my headstone."
 
 "Define won."
 

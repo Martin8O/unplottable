@@ -14,7 +14,7 @@ The fourth event came overnight on Sunday the fifth of June, and by every measur
 
 He gave the pipeline its due — PIPE-455, occurrence four, logged 07:19, monitor — and then did the other half of Monday: took out the notebook that had never met a network and entered the event in pencil, in the table Orla had ruled across two facing pages in a registry hand. Date. Shards. Sites touched. And a last column she had headed WHO BENEFITS, which he had taken for a joke until the first time he tried to fill it in.
 
-Four rows now. The twenty-first of April; the third of May; the twenty-fourth of May; the fifth of June. A fortnight's cadence, give or take. Weather did not keep office hours.
+Four rows now. The twenty-first of April; the third of May; the twenty-fourth of May; the fifth of June. A fortnight's cadence that had skipped one window in mid-May and picked its stride back up without apology, which he found he minded less than the stride itself: rhythms have causes, but a rhythm that can miss a beat and resume has a *queue*. Weather did not keep office hours.
 
 He sat with the table a minute before the lab filled, which had become part of the practice too. Taken one at a time, each event was nothing: a vendor re-issue, a housekeeping night, the modern data economy digesting. Taken as four rows in one column, they were a spring. Since April the map had been groomed the way a garden is groomed by someone you never see — never planted, never rearranged, only ever weeded — and every visit left the same signature, which was no signature, which was the thing he could not put in a ticket without becoming a different kind of scientist than the renewal could afford.
 
@@ -86,7 +86,7 @@ Orla was quiet for a moment. "Nobody holds that line," she said. "That's the dis
 
 Friday's stand-up closed the spring's longest-running item.
 
-"PIPE-455," Priya said, laptop on forearm, in the voice of a woman completing a marathon she had never entered. "Dataset vintage reconciliation, opened the eighth of April, nine weeks, four occurrences, and a root cause I can finally write down without perjury. Proposed resolution: vendor compliance re-tooling across the UK estate — explains the signatures, the backfilled lineage, the impossible tidiness, the lot. Apparent geographic clustering: licence coverage bias; our book is British, so our findings are. Home bias, fully argued, two pages, both arguments at strength. Downgrade to monitor, and I would like it minuted that I am happy."
+"PIPE-455," Priya said, laptop on forearm, in the voice of a woman completing a marathon she had never entered. "Dataset vintage reconciliation, opened the eighth of April, nine weeks, four occurrences, and a root cause I can finally write down without perjury. Proposed resolution: vendor compliance re-tooling across the UK estate — explains the signatures, the backfilled lineage, the impossible tidiness, the lot. Apparent geographic clustering: licence coverage bias; our book is British, so our findings are. Home bias, fully argued, two pages, both arguments at strength. Downgrade to monitor. Write me down as happy."
 
 "Are you?"
 

@@ -74,7 +74,7 @@ He set the pencil down with a click on the wood, and was quiet, and she let him 
 
 "You keep the wear," he said, not quite a question, not quite to her.
 
-"You keep the wear," she said. "Mend the break; keep the wear. It's the whole of my religion and there are days it's a cold one, and this is the first time in six years I've watched it warm somebody's kitchen." And then, because her voice had started performing and she could hear it, she stopped, and said the true thing plain. "My office takes hours. It's what we're for. Three hundred years, and kindly, and to order, and I've initialled the counts. Nobody has ever once asked us for an hour back. There's no procedure for it. I looked."
+"You keep the wear," she said. "Mend the break; keep the wear. It's the whole of my religion and there are days it's a cold one, and this is the first time in six years I've watched it warm somebody's kitchen." And then, because her voice had started performing and she could hear it, she stopped, and said the true thing plain. "My side takes hours. It's what we're for. Three hundred years, and kindly, and to order, and I've initialled the counts. Nobody has ever once asked us for an hour back. There's no procedure for it. I looked."
 
 "You looked."
 
@@ -114,7 +114,7 @@ The minute went in the tray for Level Three. Her hands wanted a list and she dec
 
 Friday afternoon the Hall was doing its winter as usual, and she was at the registry desk with the day ledger and a rack of new labels when Rose came down the row — no trolley, hands in pockets, which on Rose meant a working visit dressed as a stroll.
 
-"Settle a bet," Rose said, by way of hello. "The Time corridor says the muggle map's got forty-one sites. The front office says thirty-eight. There's four Sickles riding and you're the floor's designated authority, which is a sentence nobody's said aloud upstairs and everybody's learnt to act on."
+"Settle a bet," Rose said, by way of hello. "The Time corridor says the Muggle map's got forty-one sites. The front office says thirty-eight. There's four Sickles riding and you're the floor's designated authority, which is a sentence nobody's said aloud upstairs and everybody's learnt to act on."
 
 "Depends where they set the floor," said Orla, initialling a label. "Both numbers are true. Tell them to split it and read the caption."
 

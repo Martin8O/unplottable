@@ -25,7 +25,7 @@ The compiler had underlined "procedurally correct and factually wrong" and penci
 
 She stood with it a long time.
 
-Four years. The biggest reading engines on earth had been looking straight at the white sites for four years and filing them, every night, under broken glass — the same tidy verdict Adam had held open with one line and his own name — and now the biggest of the labs had checked its cellars and said so, in public, in numbered paragraphs. On Level Three there was a blackboard where a round grey witch had spent a fortnight hunting a better class of broken instrument. The Muggles' machines had been the better class of broken instrument. The excuse had been theirs, automatic, and free, and this morning they had retracted it, on the record, in their own words.
+Four years. The biggest reading engines on earth had been looking straight at the white sites for four years and filing them, every night, under broken glass — the same tidy verdict Adam had held open with one line and his own name — and now the largest of the labs had checked its cellars and said so, in public, in numbered paragraphs. On Level Three there was a blackboard where a round grey witch had spent a fortnight hunting a better class of broken instrument. The Muggles' machines had been the better class of broken instrument. The excuse had been theirs, automatic, and free, and this morning they had retracted it, on the record, in their own words.
 
 And the third paragraph. She read it again, slower, and the room got colder the way it did when the lift doors opened upstairs.
 

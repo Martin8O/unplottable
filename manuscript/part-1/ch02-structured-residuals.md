@@ -12,7 +12,7 @@ status: draft
 
 At 03:47 the pipeline had found it again, considered it for eleven milliseconds, and filed it under sensor noise.
 
-Adam read the ticket standing, coat still on, in the hour when the lab belonged to the heating pipes and the cleaners' radio two floors down. The nightly triage summary sat at the top of the queue where it sat every morning, worded the way it was worded every morning, with the serenity of automation that has never yet been contradicted by its owners and sees no reason to begin:
+Adam read the ticket standing, coat still on, in the hour when the lab belonged to the heating pipes and the cleaners' radio two floors down. The nightly triage summary sat at the top of the queue where it always sat, worded the way it was worded every morning, with the serenity of automation that has never yet been contradicted by its owners and sees no reason to begin:
 
 > ANOMALY-TRIAGE · nightly run · 2033-03-15 03:47:12
 > geo-clustered excess residual, GB grid: 41 clusters above floor

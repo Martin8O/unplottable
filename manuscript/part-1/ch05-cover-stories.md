@@ -31,7 +31,7 @@ Priya had been in the doorway at that moment, a monitor cable in both hands, on 
 
 "It's the misuse register," Adam said, before he had decided to say anything. "Foreseeable harms are a renewal criterion. It's the question I'd want asked." Which was true, and had been supplied to the room the way the pipeline supplied confidence intervals: instantly, and with no record anywhere of a person deciding. He went looking, later, for the moment he had chosen to answer for her, and found the log empty. The sentence had simply been there — warm, pre-drafted, waiting on its cue.
 
-Then he answered the question too, because it was the question he'd want asked: a few thousand pounds and a commercial tasking account for the imagery-rich sites; for the Highlands site, more patience than money; and nobody would know it had been done, which was the part worth minuting. She wrote it down in the small neat hand that never crossed anything out, thanked him, and moved on to scheduling as if the temperature of the question had been ordinary.
+Then he answered the question too: a few thousand pounds and a commercial tasking account for the imagery-rich sites; for the Highlands site, more patience than money; and nobody would know it had been done, which was the part worth minuting. She wrote it down in the small neat hand that never crossed anything out, thanked him, and moved on to scheduling as if the temperature of the question had been ordinary.
 
 She left at twenty to five for the London train. Priya watched her the whole way down the stair — which was becoming the lab's own minor tradition — and then came and stood in the office, cable still in hand.
 

@@ -12,7 +12,7 @@ status: draft
 
 By half past nine the Hall had told Orla Quinn one small lie, which for a Tuesday was about the going rate.
 
-The sphere at her shoulder said one thing and the registry ledger on her trolley said another. Its label — yellowed to the colour of weak tea, the ink browned down to almost nothing — gave the teller's initials one way; the ledger, in a clerk's hand a century dead, had them the other way about. Somewhere in 1911, somebody had been tired. That was all it would be, near enough certain: a transposition, the sort of error that bred in copying the way damp bred in stone. She could have mended it in one stroke of the quill. She wanted to, the way you want to pick at a scab.
+The sphere at her shoulder said one thing and the registry ledger on her trolley said another. Its label — yellowed to the colour of weak tea, the ink browned down to almost nothing — gave the teller's initials one way; the ledger, in a clerk's hand a century dead, had them the other way about. Somewhere in 1911, somebody had been tired. That was all it would be, near enough certain: a transposition, the sort of error that bred in the copying, like damp in stone. She could have mended it in one stroke of the quill. She wanted to, the way you want to pick at a scab.
 
 She dipped her quill and drew, in the query column, a small patient (?) instead.
 
@@ -107,7 +107,7 @@ Nobody looked satisfied now.
 
 "Then one corrects the author," the tall witch said, not unkindly, in the tone of a woman naming the obvious. "One always corrects the author."
 
-"The author worked from everyone's records. Any Muggle with the patience can run the same sums on the same archives and draw the same map — that's the point of the paper. It's most of why it's good." Wrong word. She watched wrong word land around the horseshoe like a dropped sphere. "Correcting him corrects nothing. You'd be adjusting the memory of a man whose memory isn't the problem."
+"The author worked from everyone's records. Any Muggle with the patience can run the same sums on the same archives and draw the same map — that's the point of the paper. It's most of why it's good." Wrong word. She watched wrong word land around the arc of them like a dropped sphere. "Correcting him corrects nothing. You'd be adjusting the memory of a man whose memory isn't the problem."
 
 The tall witch looked at her then — at her, not the folder — the way you'd look at an interpreter you'd just caught being fluent in the wrong direction. It lasted half a breath, and it was entirely fair.
 
@@ -175,7 +175,7 @@ Looked after. The re-inking. Row two hundred's damp coming with the spring. The 
 
 She came back down at the end of the day to hand over the trolley and sign the ledger out, because there was nobody yet to hand either to, and the forms did not know that.
 
-Cross-checks: nineteen. Re-inks listed: four. Queries raised: one; resolved: none. None today, none most days; the Hall was in no hurry. She signed her name under the day's honest little harvest, and the ledger's countersign charm thought about it for a long moment — buffering, she was too tired not to think — before it took her name with the usual dry flick of gold.
+Cross-checks: nineteen. Re-inks listed: four. Queries raised: one; resolved: none. None today, none most days. She signed her name under the day's honest little harvest, and the ledger's countersign charm thought about it for a long moment — buffering, she was too tired not to think — before it took her name with the usual dry flick of gold.
 
 The candles were doing their blue nothing the whole length of the room. Her breath went ahead of her up the aisle one last time.
 

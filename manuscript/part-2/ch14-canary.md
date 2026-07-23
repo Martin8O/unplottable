@@ -10,7 +10,7 @@ payoffs: []
 status: draft
 ---
 
-The fifth event came in on the Saturday night, as advertised, and being expected turned out to be worse than being surprised. Three shards re-verified between one and three in the morning, stamps unchanged, manifests in agreement, lineage signed all the way down; the Monday desk run drew the same map a shade cleaner, nine sites tightened, nothing added, nothing moved. PIPE-455 sat in the RESOLVED column and did not stir, a resolved ticket having no opinions. The only record in Britain that the night had happened at all was a line of pencil in a notebook that had never met a network, ruled in a registry hand, five rows deep.
+The fifth event came in on the Saturday night, as advertised, and being expected turned out to be worse than being surprised. Three shards re-verified between one and three in the morning, stamps unchanged, manifests in agreement, lineage signed all the way down; the Monday desk run drew the same map a shade cleaner, nine sites tightened, nothing added, nothing moved. PIPE-455 sat in the RESOLVED column, a resolved ticket having no opinions. The only record in Britain that the night had happened at all was a line of pencil in a notebook that had never met a network, ruled in a registry hand, five rows deep.
 
 Orla wrote the date in herself, in his office, before her coat was off, and then sat looking at what she had written with the quill capped.
 
@@ -20,7 +20,7 @@ Orla wrote the date in herself, in his office, before her coat was off, and then
 
 "So we stop looking," Orla said, "and ask it a question. Go on, then. You've the face on you."
 
-He had rehearsed the opening on the walk in and abandoned it, as usual, and went to the board instead. "In my other trade there's a thing called a canary. You plant a value that has no business existing — a fake credential, a record for a customer who was never born — and then you watch to see who turns up holding it. Coincidence can't reach it. You made it; you're the only source there is."
+He had rehearsed the opening and abandoned it, as usual, and went to the board instead. "In my other trade there's a thing called a canary. You plant a value that has no business existing — a fake credential, a record for a customer who was never born — and then you watch to see who turns up holding it. Coincidence can't reach it. You made it; you're the only source there is."
 
 "A trap street," said Orla.
 
@@ -30,7 +30,7 @@ He stopped. "You know it."
 
 "A site," Adam said. "One that isn't there."
 
-He laid out what he had built over three evenings, in order, because the order was the argument. First: the fabrication would not touch the world's data. He was not going to write into a regulated archive, both because it was a felony with a facilities budget and because it was the exact thing they were hunting; the lie would live in two places only, their own local extract and his own prose. Second: the site had to be checkable in both directions — a cell where he could show from the archive that there was nothing, and she could say from hers that there was nothing either, so that anything disagreeing with them about it would be the whole of the finding.
+He laid out what he had built over three evenings, in order, because the order was the argument. First: the fabrication would not touch the world's data. He was not going to write into a regulated archive — that was a felony, and the exact thing they were hunting; the lie would live in two places only, their own local extract and his own prose. Second: the site had to be checkable in both directions — a cell where he could show from the archive that there was nothing, and she could say from hers that there was nothing either, so that anything disagreeing with them about it would be the whole of the finding.
 
 Third, he wanted somewhere with nobody in it to hurt. He put the sheet on the desk: a stretch of moor above the Wye, between Painscastle and Glascwm, four cells of rough grazing, a stone wall going nowhere, sheep, rain, a track. Nine hundred metres of nothing, imaged four times a week since before he was born, and boring in every one of them.
 
@@ -52,7 +52,7 @@ Orla put her fingernail through the third row.
 
 He looked at the row a moment, at the coordinates, at the small speckled cell in a county he had driven through, and did not ask. Then he ruled it out and copied a fourth marginal up from the reserve list to keep the table at four, and heard himself say, in the mild voice he used for results he did not like: "We've just weeded the map."
 
-She did not answer that. She did not take it back either, and the sentence stayed on the desk between them for the rest of the morning like a thing neither of them was willing to file.
+She did not answer, and did not take it back, and the sentence stayed on the desk between them the rest of the morning, a thing neither of them would file.
 
 The mechanics took another hour. The synthetic residual had to be manufactured to a standard nobody would test and he would know: correct in its statistics, plausible in its per-modality split, generated from a seed nobody else on earth was carrying. He used sixty-one. It fell out of the arithmetic into three published figures — an excess of 3.61 sigma, a coherence term of 0.061, an effective sample of 1,461 — and any one of them surfacing anywhere he had not put it would mean the number had travelled, and there was exactly one road it could have travelled by.
 
@@ -90,17 +90,17 @@ Orla capped the quill.
 
 The Department of Mysteries acquired its first computer on a Thursday, through the front door, entirely legally, and it was the legality that kept Orla awake.
 
-The paperwork was beautiful. Her contribution to the Wizengamot brief — drafted at nine o'clock on the Monday, pauses brought as instructed — had carried one sentence engineered for exactly this — *the Department cannot advise on an instrument it has never watched work* — and Croaker had read it, and made the small noise he made when handed something that would annoy Level Two, and initialled the corner. After that it was procurement, and procurement was a solved problem: the containment section had been manufacturing plumbers and surveyors since March, and one of its legends, a partnership of land surveyors in Sydenham which had never surveyed anything, turned out to be entirely capable of buying forty-six thousand pounds of computing from a business park in Reading. Gringotts changed the money without a flicker.
+The paperwork was beautiful. Her contribution to the Wizengamot brief — drafted Monday, pauses brought as instructed — had carried one sentence engineered for exactly this — *the Department cannot advise on an instrument it has never watched work* — and Croaker read it, made the small noise he made at anything that would annoy Level Two, and initialled the corner. Procurement was a solved problem: the containment section had been manufacturing plumbers and surveyors since March, and one of its legends — a partnership of land surveyors in Sydenham that had never surveyed anything — bought forty-six thousand pounds of computing from a business park in Reading. Gringotts changed the money without a flicker.
 
 It came through the Atrium fireplaces after eleven at night, in eleven trips, in crates with a docket on top, and nobody looked twice, because in six years Orla had never once seen anyone in that building question two people carrying something heavy with a docket on it.
 
-They put it at the far end of the corridor, in a store that had held confiscated Muggle artefacts until somebody's grandfather stopped bothering: eight nodes in one rack, a shelf of disks, and the whole of Britain's expectations of itself sitting on four of them in a locked case. On the paperwork it was Apparatus, Analytical (Muggle-Manufactured), One, which was how the file came to be called *the Apparatus* by everybody who had not seen it and *the rig* by the three people who had.
+They put it at the far end of the corridor, in a store that had held confiscated Muggle artefacts until somebody's grandfather stopped bothering: eight nodes in one rack, a shelf of disks, and the whole of Britain's expectations of itself sitting on four of them in a locked case. On the paperwork it was Apparatus, Analytical (Muggle-Manufactured), One, which was how it became *the Apparatus* to everybody who had not seen it and *the rig* to the three who had.
 
-What the eight nodes did was, on the file, exactly what the brief had promised: run the Department's own copy of the published model against the published archive, so that Level Nine could watch the instrument work with nobody's hand on it but their own. Verification, not discovery — the country's full re-score still lived in a Friday queue in Edinburgh — but a question about any one square of Britain could now be asked in a stone corridor, off every network in the world, and answered by a machine that owed nothing to anyone's allocation.
+What the eight nodes did was, on the file, exactly what the brief promised: run the Department's own copy of the published model against the published archive, so Level Nine could watch the instrument work with nobody's hand on it but their own. Verification, not discovery — the full re-score of Britain still lived in a Friday queue in Edinburgh — but any one square of the country could now be asked in a stone corridor, off every network in the world, and answered by a machine that owed nothing to anyone's allocation.
 
 Rose had been given the whole of it on the Sunday before, at Orla's own table, in one sitting — the group, the terms, the rule that nothing was written — because the one thing Orla would not do was let her buy in blind. Her price had not moved since the shop: inclusion. Adam's consent had travelled north in a coat pocket, one question in a plain hand: *Does she understand that if this surfaces, "I didn't know" won't be available to her?* Rose had read it twice and written on the back: *Neither will "she didn't ask me." Tell him we're even.* That had been the whole ceremony — three people, two archives, no record.
 
-Power arrived on a trolley, pushed by a man from Magical Maintenance who would not give his name and did give, unasked, his opinion of Level Nine. The thing on the trolley was the size of a tea chest and appeared to be mostly brass, and it hummed, and Rose Weasley — who had been on the floor with a meter for two days and had cabled the whole run herself — asked him what was in it.
+Power arrived on a trolley, pushed by a man from Magical Maintenance who would not give his name and did give, unasked, his opinion of Level Nine. The thing was the size of a tea chest, mostly brass, and it hummed, and Rose Weasley — two days on the floor with a meter, the whole run cabled herself — asked him what was in it.
 
 "That does the electricity," he said.
 
@@ -110,7 +110,7 @@ Power arrived on a trolley, pushed by a man from Magical Maintenance who would n
 
 "I have a first-class degree," Rose said, to the ceiling. "I have published on thought-persistence. There is a box in my corridor doing physics at me and the answer is *Maintenance*." She wrote the voltage down anyway, and the way it wandered, and the size of the conditioner she would need between the brass and anything that cost money, and put a small pencilled damn beside it.
 
-The rest of the week she had spent doing something Orla had not asked for and could not stop thinking about. Rose had gone out into Muggle London with a purse of Galleons changed at the bank and come back with a hundred pounds of the cheapest tat in Britain — kitchen timers, torches, digital clocks, four disposable cameras, a radio — and put one of each in every room on the level she was cleared to enter, and left them six days, and written down what died.
+The rest of the week she had spent doing something Orla had not asked for and could not stop thinking about. Rose had gone out into Muggle London with Galleons changed at the bank and come back with a hundred pounds of the cheapest tat in Britain — kitchen timers, torches, digital clocks, four disposable cameras, a radio — and put one of each in every room on the level she was cleared to enter, and left them six days, and written down what died.
 
 The chart was on the store-room wall now, ruled in her mother's fashion and annotated in her father's. Near the deep chambers nothing survived an afternoon; the timers went first, the clocks lost minutes in clumps, the radio came back as weather. Along the outer corridor things lasted days. The gradient was smooth and steep and it had hours in it: worst at eleven in the morning and four in the afternoon, when the department was full of people doing what the department did; best between two and five, when it was not.
 
@@ -126,7 +126,7 @@ Orla stood in front of the chart with a cold hand on the back of her neck. Six d
 
 "Don't. I've done the sums twice and they come out the same twice, which you know is my only religion." She swung up onto the empty crate, heels not quite reaching the floor. "I've a section that thinks I'm cataloguing thought-residues, which I am, on Tuesdays. I've no children, no husband, and a flat with a leak in it. And what's on offer here is the only genuinely new fact my Department has met since the Veil, at two in the morning, with nobody in the building to tell me I'm holding it wrong." She produced the racing-green book from her robes, and it ruled itself a fresh page without being asked. "Four Sickles says I get more out of this rig in a month than my whole section gets out of the tank in a year. I'll take that from either of you. Nobody? Grand. It's written down now, so it happened."
 
-She was going to be there alone, in a stone corridor at the end of Level Nine, from two in the morning, for as long as this lasted. Orla made herself look at that, and then did the arithmetic she would be doing for the rest of her life: the alternative is telling her no, and the alternative to that is doing it myself, and I cannot, because at two in the morning I am the assessor of record and I sleep at an address the Ministry holds.
+She was going to be there alone, at the end of Level Nine, from two in the morning, for as long as this lasted. Orla made herself look at that, and then did the arithmetic she would be doing for the rest of her life: the alternative is telling her no, and the alternative to that is doing it myself, and I cannot, because at two in the morning I am the assessor of record and I sleep at an address the Ministry holds.
 
 "You'll log everything," Orla said. "Every run. Times, versions, what you did, what you thought while you did it."
 
@@ -142,7 +142,7 @@ Rose considered this with her head on one side, the way she considered a sum tha
 
 By Friday evening the note was eleven pages long and, up to page nine, entirely true.
 
-*Temporal stability of the anomalies reported in Kessler & Nair (2033): a re-analysis note.* Sole author, for Baird's reasons — a promise of a calibration appendix, Baird said, was a debt you serviced in small dull instalments for as long as you could. Pages one to nine reported that the thirty-eight published sites were stable across the whole archive, which they were; that no site had moved, appeared or gone since 2029, which was true of the sites; and that the group had no extension of the atlas planned, in preparation or in contemplation, which was true of the group. It gave the national evaluation picture nothing, at length, with figures.
+*Temporal stability of the anomalies reported in Kessler & Nair (2033): a re-analysis note.* Sole author, for Baird's reasons. Pages one to nine reported that the thirty-eight published sites were stable across the whole archive, which they were; that no site had moved, appeared or gone since 2029, which was true of the sites; and that the group had no extension of the atlas planned, in preparation or in contemplation, which was true of the group. It gave the national evaluation picture nothing, at length, with figures.
 
 Priya read it over lunch and pronounced it the most boring document ever produced by a British university, "and I include the ones that are legally required to be boring", and signed off on the analysis, and asked why her name was not on it.
 
@@ -161,10 +161,10 @@ She went home at six. He added Appendix A at eleven.
 > A2.3 — SO 14 46 (Powys): exhaust + GNSS integrity; excess 3.61σ; coherence 0.061; n = 1,461. Provisional.
 > A2.4 — SD 66 51 (Lancashire): imagery only; excess 2.6σ; consistent with land-use change.
 
-It took nine minutes to write and read like every appendix he had ever read, which was the part he would think about later, at intervals, for years: that the thing he had spent his whole working life being — a man whose numbers could be trusted because he would rather be dull than wrong — could be put down in nine minutes, in a table, in his own house style, and that nobody would ever be able to tell from the prose. He had seen a referee's report end a postdoc's career in 2029 for less. He had been right to.
+It took nine minutes to write and read like every appendix he had ever read, which was the part he would think about, at intervals, for years: that the thing he had spent his whole working life being — a man whose numbers could be trusted because he would rather be dull than wrong — could be put down in nine minutes, in a table, in his own house style, and that nobody would ever be able to tell from the prose. He had seen a referee's report end a postdoc's career in 2029 for less. He had been right to.
 
 He checked the twin one last time before he closed the machine: forty miles north, same seed, same craftsmanship, sitting in the working extract where only their own pipeline could see it, and in no sentence anywhere in the world.
 
-The submission form wanted a time. He set it for midnight, which was a needless piece of theatre, and did it anyway, and then stood at the window with the mended mug going cold in his hand while Edinburgh got on with a Friday. The canary would go up at twelve; the crawlers and the mirrors would have it by three; and the summer allocation had moved the group's booked pass to Friday nights, so the next full re-score of Britain — the one that would tell them what, if anything, had answered — was a week away, on Friday.
+The submission form wanted a time. He set it for midnight, a needless piece of theatre, and did it anyway, and then stood at the window with the mended mug going cold in his hand while Edinburgh got on with a Friday. The crawlers and the mirrors would have it by three; and the summer allocation had moved the group's booked pass to Friday nights, so the next full re-score of Britain — the one that would tell them what, if anything, had answered — was a week away, on Friday.
 
 Somewhere over Wales it was raining on nine hundred metres of nothing.

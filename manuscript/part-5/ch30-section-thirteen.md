@@ -56,7 +56,7 @@ They asked about the document. A grey-sleeved wizard from the well — the same,
 
 They called her head of department to speak to the assignment.
 
-Saul Croaker came down into the well the way very old men came down stairs they had used for fifty years, one hand not quite touching the rail, and he did not look at Orla, which was its own kind of kindness. He was asked whether the Department of Mysteries had known its assessor was in breach.
+Saul Croaker came down into the well the way very old men came down stairs they had used for fifty years, one hand not quite touching the rail. He did not look at Orla. It was a mercy, and a deliberate one. He was asked whether the Department of Mysteries had known its assessor was in breach.
 
 "No," he said.
 

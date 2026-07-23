@@ -14,7 +14,7 @@ The fifth event came in on the Saturday night, as advertised, and being expected
 
 Orla wrote the date in herself, in his office, before her coat was off, and then sat looking at what she had written with the quill capped.
 
-"I'd like it minuted that I was right," she said, "and that I'd rather have been wrong, and that those two facts are the whole of my emotional life at present."
+"I was right," she said, "and I'd rather have been wrong, and those two facts are the whole of my emotional life at present."
 
 "Noted. Fourteen days and eleven hours from the fourth." He had the interval on the board behind him and had not rubbed it out, because it was the most useful number they owned. "Which means the next window is the weekend after this one. And we can't watch it any harder than we've watched the last five."
 

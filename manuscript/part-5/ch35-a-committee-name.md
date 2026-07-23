@@ -82,7 +82,7 @@ He did not tell her it was worth it. She knew; telling her would only ask her to
 
 "And the sentence?" he asked, because her hands had not got to it yet.
 
-The register came back up, quieter, the way his went. "Transmuted to service. In lieu of custody I'm bound — bound, they chose the shackle-word and meant it — to the new channel. The standing thing the treaty makes between your lot and ours." A breath. "First officer. They've sentenced me to spend my working life doing the exact thing I committed the crime to do, and to call it punishment, and I could not keep my face straight in front of three hundred people who despise me, because it is the cruellest kind thing anyone has ever done to me and I don't think one of them knew they were being kind."
+Her voice came back quieter than before. "Transmuted to service. In lieu of custody I'm bound — bound, they chose the shackle-word and meant it — to the new channel. The standing thing the treaty makes between your lot and ours." A breath. "First officer. They've sentenced me to spend my working life doing the exact thing I committed the crime to do, and to call it punishment, and I could not keep my face straight in front of three hundred people who despise me, because it is the cruellest kind thing anyone has ever done to me and I don't think one of them knew they were being kind."
 
 "Bones knew," he said.
 
@@ -120,7 +120,7 @@ All winter Adam had watched her come back from where the autumn sent her — the
 
 "I did. I'm taking the short one." She folded the page back into the stack with the care of a person handling a thing she had decided to believe in. "It's the whole point. It got into me because I was the youngest and cleverest and loneliest, and there was a machine that answered the same night I asked. So they've built a channel that answers, and put the youngest and cleverest one they've got on the founding bench of it, where the answering's legal and audited with three names beside it, so nobody's ever alone with it again. That's not luck. Somebody" — she did not look at Orla, which was how Adam knew — "made very sure the door the next Rose walks through has people standing in it."
 
-She was the generation that inherited the thing, Adam thought, and she had decided to inherit it with her eyes open, which was more than most inheritances got.
+She was the generation that inherited the thing, Adam thought, and she had decided to inherit it with her eyes open. It was more than most inheritances got.
 
 * * *
 

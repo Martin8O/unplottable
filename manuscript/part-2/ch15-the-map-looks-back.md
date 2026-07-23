@@ -183,7 +183,7 @@ They did the sensible things: the pass output copied to a disk that had never me
 
 And under the terror, which was total, something else had got into the room and would not be sent home.
 
-"I've spent eleven years measuring how wrong I'm allowed to be," Adam said. He was still looking at the screen. "I'd like it minuted that this evening I was wrong in a direction that isn't on the form."
+"I've spent eleven years measuring how wrong I'm allowed to be," Adam said. He was still looking at the screen. "This evening I was wrong in a direction that isn't on the form."
 
 "Minuted." Her voice came out unlike itself. "Adam. There's a thing nobody's said yet and I'd like it said before we're sensible again, because we'll be sensible for years after tonight." She was standing closer to him than the terms had ever required. "This is the most extraordinary thing that has ever happened to anybody. Not the worst. That as well. And there are two of us, and I'm not letting the fear have all of it."
 

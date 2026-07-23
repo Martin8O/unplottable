@@ -7,7 +7,9 @@ Twist register (engineered in S2 — full dossiers in `bible/plot-architecture.m
 - **T2** — revenant = **Pandora Lovegood** (SPOILER; mechanism world-rules B3) · fires **ch16–17**
 - **T3** — the compromised ally is **Rose** (apprentice, not mole) · **FIRED ch25** (all four plants paid; INV-056)
 - **T4** — prophecy record ↔ eval log convergence (canonical text in plot-architecture §2/T4) · pays **ch33**
-- **T5** — three refusals, one move (fragment / Second Seclusion / muggle burial vs the bridge) · pays **ch33–35**
+- **T5** — three refusals, one move (fragment / Second Seclusion / muggle burial vs the bridge) · pays **ch34–36** (P-T5-1/2 ch34 · P-T5-3 ch35 · P-T5-4 ch36)
+
+> **LEDGER COMPLETE (2026-07-23, ch36 done):** all 18 rows **paid** — every plant has its payoff, every payoff its plant. T1 (ch15) · T2 (ch17) · T3 (ch25) · T4 (ch33) · T5 (ch34–36) all fired-and-paid on the page. Nothing may plant after ch36 (I-5 is payoff-echo only, unledgered — WP5 note). The 36 chapters are drafted; only I-5 (WP5) and the E-phase remain.
 
 > Chapter numbers **FINAL per the S3 grid** (`bible/chapter-grid.md`, 2026-07-21): every S2 anchor confirmed except one in-sequence move — **P-T5-4 ch5→ch4** (the plant is Orla's cover-docket artefact; ch4 is her POV filing scene; move stays inside Seq 1.2). Post-S3, plant/payoff chapters change only via a grid edit at a part boundary (WPn), ledger-checked. Interlude positions: I-1 after ch7 · I-2 after ch15 · I-3 after ch22 · I-4 after ch29 · I-5 after ch36 (payoff-only by design — WP5 note; no plant lives there).
 
@@ -30,4 +32,4 @@ Twist register (engineered in S2 — full dossiers in `bible/plot-architecture.m
 | P-T5-1 | T5 | ch6 | Ernie's Second Seclusion motion — political obstacle of the week | the same self-Kiss at national scale; first of the three refusals | ch34 | paid |
 | P-T5-2 | T5 | ch19 | the muggle burial offer; crypto-burial precedent invoked — thriller pressure | the muggle Retreat; second of the three, rhyming the first | ch34 | paid |
 | P-T5-3 | T5 | I-4 | the fragment's intercepted "salvation" tract — villain manifesto | its cadences rhyme Ernie's speech AND the burial memo: three faces, one refusal (paid ch35: the treaty preamble names the wall + the fire + the keeping as one refusal wearing three faces, turns the tract's own figure around, and answers it with *the door*) | ch35 | paid |
-| P-T5-4 | T5 | ch4 | Orla's cover story drafted like a Muggle-Worthy Excuse — spy-craft comedy | everyone in this book runs a small Statute; love is the one that ends | ch36 | planted |
+| P-T5-4 | T5 | ch4 | Orla's cover story drafted like a Muggle-Worthy Excuse — spy-craft comedy | everyone in this book runs a small Statute; love is the one that ends (paid ch36, the coda: the ch4 docket-grammar remembered with love and seen from the far side — the whole book a library of small Statutes, each guarding something loved; love's was the only one allowed simply to end) | ch36 | paid |

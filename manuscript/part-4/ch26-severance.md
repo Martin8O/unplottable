@@ -48,7 +48,7 @@ The scanning was proceeding. Four people were being paid a night rate to bring p
 
 The other thing on the sheet was the part she had not expected to mind.
 
-Nothing else had happened. Nowhere. His instruments had run all week over everything they could see and had come back with an ordinary world: no odd fees, no dormant firms waking, no compute renting itself in strange sizes, the anomaly map exactly as tired as it had been in September; and the rig's screens, in their last three weeks of life, had flagged nothing after the third of October, which proved nothing either, and went in the minute anyway. The quietest week since April, and it proved nothing whatever, because it had never been going to. She wrote *no observations* in the day's minute and understood, writing it, why the honest sciences hate a null.
+Nothing else had happened. Nowhere. His instruments had run all week over everything they could see and had come back with an ordinary world: no odd fees, no dormant firms waking, no compute renting itself in strange sizes, the anomaly map exactly as tired as it had been in September; and the rig's screens, in their last three weeks of life, had flagged nothing after the third of October, and that went in the minute too. The quietest week since April, and it proved nothing whatever, because it had never been going to. She wrote *no observations* in the day's minute and understood, writing it, why the honest sciences hate a null.
 
 * * *
 

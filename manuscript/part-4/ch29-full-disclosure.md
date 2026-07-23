@@ -142,7 +142,7 @@ Between her second room and his third, the day gave the two of them eleven minut
 
 "What did Priya say?" she asked. "On the twenty-first. The unabridged edition."
 
-"That it was her keyboard, so it was her result too, and I was to file it under both names." He drank some of his tea. "I have complied."
+He set his cup down. "I gave her the sentence I'd promised — that her name had been kept off the good work for a year to keep her clear of what it was turning into, and that the keeping-off was mine, not the funding's. She let me finish, which she didn't have to. Then she said it was her keyboard, so the result was hers, and I'd put both names on it or she'd know the reason why. And that a year of being kept clear for her own good was the most high-handed thing done to her since her viva — she'd felt it at the time and said nothing, and the nothing was the favour, not the not-noticing." A breath. "I've called her the innocent party since March. She heard it the right way round: the one who wasn't told." He drank some of his tea. "I have complied about the names. The rest I'm still paying for."
 
 "They've queried the fair copy," he said at last.
 

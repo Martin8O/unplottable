@@ -56,11 +56,11 @@ Once fixed, the tenancy was governed by one rule, which the Prague school stated
 
 Adam looked at the ruled page for longer than reading it required. "We keep one of these," he said. "Ways we are wrong. Thirty-one entries, all dead."
 
-"The Florentines called theirs the patience of the door," Draco said. "Same instrument, I imagine. Slower ink."
+"The Florentines called theirs the patience of the door," Draco said. "The same instrument. Theirs simply had longer to fill."
 
 "And the boundary case," Adam said. "A vessel the two classes can't reach. The corpus considers it?"
 
-"The corpus dreams about it." Draco's voice did not change, which was itself information. "The incorruptible vessel. Half the shelf's late period is the search for it — a container no venom bites, no fire finds whole, nothing damages past mending. The Englishwoman got closest. Her last tract proposes that the search be abandoned, and her reasoning is not that it would fail." He laid the tract open: brown ink, bad Latin, a hand that pressed hard. "Her reasoning is that it might succeed. *A spirit in such a vessel is beyond eviction. One does not build a door that opens from one side only, except in a prison or a reliquary, and we will not always be the ones deciding which is which.* The research stops there. The successors call her timid. The successors, you will notice, are not collected."
+"The corpus dreams about it." Draco's voice did not change, which was itself information. "The incorruptible vessel. Half the shelf's late period is the search for it — a container no venom bites, no fire finds whole, nothing damages past mending. The Englishwoman got closest. Her last tract proposes that the search be abandoned, and her reasoning is not that it would fail." He laid the tract open: brown ink, bad Latin, a hand that pressed hard. "Her reasoning is that it might succeed. *A spirit in such a vessel is beyond eviction. One does not build a door that opens from one side only, except in a prison or a reliquary, and we will not always be the ones deciding which is which.* The research stops there. The successors call her timid. The successors are not collected."
 
 "Say the rule in full, then," Orla said. "For a vessel that cannot be damaged past mending."
 
@@ -72,7 +72,7 @@ The library held its brown gold quiet. Somewhere above them the gallery clock di
 
 Draco looked at him for a long moment, and Orla watched a scholar and an heir divide the labour of one face: the scholar interested, the heir already pricing the estate.
 
-"Then you have found the Englishwoman's reliquary," he said. "Built, presumably, by someone who did not read her, because nobody reads her. A vessel renewed by copying does not approach the mending-limit; it *is* the mending-limit, ambulatory. Venom and fire are local, Mr Kessler. You are describing a vessel with no locality. The doctrine's answer is the one I gave you." He closed the tract with both gloved hands, gently, the way you close a door on a sleeping child. "There is no unmaking. Your question was answered before you asked it. Three hundred years before, in bad Latin."
+"Then you have found the Englishwoman's reliquary," he said. "Built, presumably, by someone who did not read her, because nobody reads her. A vessel renewed by copying does not approach the mending-limit; it *is* the mending-limit, ambulatory. Venom and fire are local, Mr Kessler. You are describing a vessel with no locality. The doctrine's answer is the one I gave you." He closed the tract with both gloved hands, gently, the way you close a door on a sleeping child. "There is no unmaking. The Englishwoman settled it in bad Latin, and nobody has had to write it since."
 
 She had come with nine strategies in her notebook, indexed, the way she went everywhere now. Somewhere in the last minute the index had become an obituary column. She stopped translating for herself and let the plain of it stand: nothing they owned, nothing either civilisation owned, killed it. The sentence did not frighten her the way it should have. It felt like the Hall: a query flag resolved at last — not the answer wanted, but an answer, filed, and the shelf's silence afterwards.
 

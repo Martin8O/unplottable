@@ -10,6 +10,8 @@ Twist register (engineered in S2 — full dossiers in `bible/plot-architecture.m
 - **T5** — three refusals, one move (fragment / Second Seclusion / muggle burial vs the bridge) · pays **ch34–36** (P-T5-1/2 ch34 · P-T5-3 ch35 · P-T5-4 ch36)
 
 > **LEDGER COMPLETE (2026-07-23, ch36 done):** all 18 rows **paid** — every plant has its payoff, every payoff its plant. T1 (ch15) · T2 (ch17) · T3 (ch25) · T4 (ch33) · T5 (ch34–36) all fired-and-paid on the page. Nothing may plant after ch36 (I-5 is payoff-echo only, unledgered — WP5 note). The 36 chapters are drafted; only I-5 (WP5) and the E-phase remain.
+>
+> **WP5 FINAL RECONCILIATION (2026-07-23):** convergence audit re-run against the finished draft — all 18 rows verified firing **on the page** (row-by-row cites in `Local/scratch/wp5-convergence-audit.md`); **0 orphaned guns, 0 consciously cut.** **I-5 written** (`i5-quinn-kessler-et-al.md`): payoff-echo of T4 (P.L. *cited* — the ch1 "(?)" label answered) and T5 (the door), no ledger row by design. Fair-play intact end to end; the endgame is shown *inherited* (ch33), not telegraphed. **The ledger is closed. Book drafted 41/41 files; only the E-phase remains.**
 
 > Chapter numbers **FINAL per the S3 grid** (`bible/chapter-grid.md`, 2026-07-21): every S2 anchor confirmed except one in-sequence move — **P-T5-4 ch5→ch4** (the plant is Orla's cover-docket artefact; ch4 is her POV filing scene; move stays inside Seq 1.2). Post-S3, plant/payoff chapters change only via a grid edit at a part boundary (WPn), ledger-checked. Interlude positions: I-1 after ch7 · I-2 after ch15 · I-3 after ch22 · I-4 after ch29 · I-5 after ch36 (payoff-only by design — WP5 note; no plant lives there).
 

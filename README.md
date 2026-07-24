@@ -14,6 +14,9 @@
 
 ---
 
+> [!WARNING]
+> **This repository spoils the whole book.** The [`bible/`](bible/), [`dev_history.md`](dev_history.md), and [`docs/adr.md`](docs/adr.md) lay out the full plot, every twist, and the ending — that's what makes it a "how it was made" record. If you'd rather read *Unplottable* first, read it before you browse. The sections below (the note, the logline, the stats) are spoiler-free.
+
 ## A note from Martin
 
 This book was, first of all, a gift for Sašenka — who once devoured fifteen *Harry Potter* fan-fics in a single month.
@@ -53,7 +56,7 @@ The map was never empty. Now it holds one more place — and that one is hers.
 
 ## How it was made
 
-The novel was written one prompt at a time by an **AI (Claude)**, working inside a frame that **Martin Svoboda** built and then let run. He set the *method*, not the plot: he conceived the project, decided how it would be made, and defined the constraints and the quality bar — but not what happened inside the story. The world, the canon, the characters, and the sentences were the model's to choose, because he does not know this world at all. Coherence across 118k words came not from holding the whole story in memory, but from **externalising its structure into checkable artefacts**:
+The novel was written one prompt at a time by an **AI (Claude)**, working inside a frame that **Martin** built and then let run. He set the *method*, not the plot: he conceived the project, decided how it would be made, and defined the constraints and the quality bar — but not what happened inside the story. The world, the canon, the characters, and the sentences were the model's to choose, because he does not know this world at all. Coherence across 118k words came not from holding the whole story in memory, but from **externalising its structure into checkable artefacts**:
 
 - **A bible** ([`bible/`](bible/)) — the single source of truth for characters, world-rules, plot architecture, and voice. No fact reached the prose without a home in the bible, logged in the same step; the manuscript therefore could never contradict its own world.
 - **A foreshadowing ledger** — 18 plants and payoffs tracked in a table and mirrored in every chapter's front-matter, so a setup in chapter 3 connects to its payoff in chapter 33 *by record, not by memory*.
@@ -85,7 +88,7 @@ The build wraps the manuscript in the `book/` front/back matter, embeds the cove
 
 ## Authorship & AI disclosure
 
-The **prose is AI-generated**: written by Claude (Anthropic) inside a method that **Martin Svoboda** designed and then let run. He conceived and commissioned the work and set its constraints and quality bar; the story, the canon, and the craft decisions were the model's, since he does not know this world. In short: **he built the frame; the AI wrote the book.** Per-prompt token consumption was not tracked in this repository — git records prose and decisions, not model usage.
+The **prose is AI-generated**: written by Claude (Anthropic) inside a method that **Martin** designed and then let run. He conceived and commissioned the work and set its constraints and quality bar; the story, the canon, and the craft decisions were the model's, since he does not know this world. In short: **he built the frame; the AI wrote the book.** Per-prompt token consumption was not tracked in this repository — git records prose and decisions, not model usage.
 
 ## Disclaimer
 

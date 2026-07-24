@@ -6,7 +6,7 @@
 
 **an ~118k-word science-fiction novel, set in the Harry Potter universe, written one prompt at a time**
 
-*working repo name: the-anomaly-engine*
+*developed under the codename **The Anomaly Engine***
 
 `complete draft` · `EPUB · MOBI · A5 PDF` · `124,642 words` · `36 chapters + 5 interludes` · `non-commercial fan work`
 
@@ -41,7 +41,7 @@ The map was never empty. Now it holds one more place — and that one is hers.
 
 </div>
 
-*Read straight from the git history and the manuscript. The image above is a snapshot — the **[live interactive dashboard →](https://martin8o.github.io/the-anomaly-engine/stats.html)** lets you hover any chapter and click a narrator to filter. Source: [`docs/stats.html`](docs/stats.html) · export: [PDF](docs/unplottable-stats.pdf).*
+*Read straight from the git history and the manuscript. The image above is a snapshot — the **[live interactive dashboard →](https://martin8o.github.io/unplottable/stats.html)** lets you hover any chapter and click a narrator to filter. Source: [`docs/stats.html`](docs/stats.html) · export: [PDF](docs/unplottable-stats.pdf).*
 
 | | | | |
 |---|--:|---|--:|

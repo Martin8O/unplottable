@@ -51,6 +51,10 @@
   .chartscroll{overflow-x:auto}
   svg{display:block; width:100%; height:auto}
   .barcap{font-family:var(--mono); font-variant-numeric:tabular-nums}
+  .bar{transition:opacity .12s} .bar:hover{opacity:.82; cursor:pointer} .bar.dim{opacity:.15}
+  #tip{position:fixed; pointer-events:none; z-index:20; background:var(--panel); border:1px solid var(--border); border-radius:8px; padding:8px 11px; font-size:13px; line-height:1.35; color:var(--text); box-shadow:0 8px 28px rgba(0,0,0,.4); opacity:0; transition:opacity .1s; max-width:250px}
+  #tip .tw{font-family:var(--mono); font-variant-numeric:tabular-nums; color:var(--muted)}
+  .key[data-filter]{cursor:pointer; user-select:none; transition:opacity .12s} .key[data-filter]:hover{color:var(--text)}
   .grid2{display:grid; grid-template-columns:1fr 1fr; gap:22px}
   @media (max-width:680px){.grid2{grid-template-columns:1fr}}
   .rowstat{display:flex; justify-content:space-between; gap:12px; padding:9px 0; border-bottom:1px solid var(--border); font-size:15px}
@@ -81,10 +85,11 @@
     <div class="card">
       <div class="chartscroll"><div id="chart"></div></div>
       <div class="legend">
-        <span class="key"><span class="sw" style="background:var(--orla)"></span>Orla Quinn &mdash; 20 chapters</span>
-        <span class="key"><span class="sw" style="background:var(--adam)"></span>Adam Kessler &mdash; 16 chapters</span>
+        <span class="key" data-filter="O"><span class="sw" style="background:var(--orla)"></span>Orla Quinn &mdash; 20 chapters</span>
+        <span class="key" data-filter="A"><span class="sw" style="background:var(--adam)"></span>Adam Kessler &mdash; 16 chapters</span>
         <span class="key"><span class="sw" style="background:var(--over);opacity:.9"></span>over the 3,700 target &mdash; the set-pieces</span>
         <span class="key" style="color:var(--faint)">dashed = target band 2,900&ndash;3,700</span>
+        <span class="key" style="color:var(--faint)"><i>hover a bar · click a name to filter</i></span>
       </div>
     </div>
     <div class="grid2" style="margin-top:22px">
@@ -196,12 +201,43 @@
     CH.forEach(function(d,k){
       var x=padL+k*(bw+gap), yy=y(d.w), hh=padT+ih-yy;
       var col=d.w>3700?c('--over'):(d.p==="O"?c('--orla'):c('--adam'));
-      s+='<g><title>ch'+d.i+' — '+esc(d.t)+' · '+(d.p==="O"?"Orla":"Adam")+' · '+d.w+' w</title>'+
-         '<rect x="'+x.toFixed(1)+'" y="'+yy.toFixed(1)+'" width="'+bw.toFixed(1)+'" height="'+hh.toFixed(1)+'" rx="2" fill="'+col+'"/></g>';
+      s+='<rect class="bar" data-i="'+d.i+'" data-t="'+esc(d.t)+'" data-p="'+d.p+'" data-w="'+d.w+'" '+
+         'x="'+x.toFixed(1)+'" y="'+yy.toFixed(1)+'" width="'+bw.toFixed(1)+'" height="'+hh.toFixed(1)+'" rx="2" fill="'+col+'"/>';
       if(d.i%3===1){s+='<text x="'+(x+bw/2).toFixed(1)+'" y="'+(H-12)+'" text-anchor="middle" font-family="'+c('--mono')+'" font-size="10" fill="'+c('--faint')+'">'+d.i+'</text>';}
     });
     s+='</svg>';
     el("chart").innerHTML=s;
+
+    // interactivity: hover tooltip + click-to-filter by POV
+    var tip=document.createElement('div'); tip.id='tip'; document.body.appendChild(tip);
+    var chart=el("chart");
+    chart.addEventListener('mouseover',function(e){
+      var b=e.target.closest?e.target.closest('.bar'):null; if(!b)return;
+      var pov=b.getAttribute('data-p')==='O'?'Orla':'Adam';
+      tip.innerHTML='<b>ch'+b.getAttribute('data-i')+' &mdash; '+b.getAttribute('data-t')+'</b><br><span class="tw">'+pov+' · '+Number(b.getAttribute('data-w')).toLocaleString('en')+' words</span>';
+      tip.style.opacity='1';
+    });
+    chart.addEventListener('mousemove',function(e){
+      var w=tip.offsetWidth||180, x=e.clientX+14;
+      if(x+w>window.innerWidth-8)x=e.clientX-14-w;
+      tip.style.left=x+'px'; tip.style.top=(e.clientY+16)+'px';
+    });
+    chart.addEventListener('mouseout',function(e){
+      if(e.target.closest&&e.target.closest('.bar'))tip.style.opacity='0';
+    });
+    var active=null;
+    document.querySelectorAll('.key[data-filter]').forEach(function(key){
+      key.addEventListener('click',function(){
+        var f=key.getAttribute('data-filter');
+        active=(active===f)?null:f;
+        document.querySelectorAll('.bar').forEach(function(b){
+          b.classList.toggle('dim', active!==null && b.getAttribute('data-p')!==active);
+        });
+        document.querySelectorAll('.key[data-filter]').forEach(function(k){
+          k.style.opacity=(active===null||k.getAttribute('data-filter')===active)?'1':'0.4';
+        });
+      });
+    });
   })();
 
   // ---- POV stacked bar ----

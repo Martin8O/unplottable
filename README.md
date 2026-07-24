@@ -41,7 +41,7 @@ The map was never empty. Now it holds one more place — and that one is hers.
 
 </div>
 
-*Read straight from the git history and the manuscript. The image above is the full dashboard. For the interactive version (hover for per-chapter detail), open [`docs/stats.html`](docs/stats.html) **in a browser** — GitHub shows the file's source, not the rendered page. Or grab the [PDF](docs/unplottable-stats.pdf).*
+*Read straight from the git history and the manuscript. The image above is a snapshot — the **[live interactive dashboard →](https://martin8o.github.io/the-anomaly-engine/stats.html)** lets you hover any chapter and click a narrator to filter. Source: [`docs/stats.html`](docs/stats.html) · export: [PDF](docs/unplottable-stats.pdf).*
 
 | | | | |
 |---|--:|---|--:|

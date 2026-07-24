@@ -15,7 +15,10 @@
 ---
 
 > [!WARNING]
-> **This repository spoils the whole book.** The [`bible/`](bible/), [`dev_history.md`](dev_history.md), and [`docs/adr.md`](docs/adr.md) lay out the full plot, every twist, and the ending — that's what makes it a "how it was made" record. If you'd rather read *Unplottable* first, read it before you browse. The sections below (the note, the logline, the stats) are spoiler-free.
+> **This repository spoils the whole book** — [`bible/`](bible/), [`dev_history.md`](dev_history.md), and [`docs/adr.md`](docs/adr.md) lay out the full plot, every twist, and the ending.
+>
+> ### 📖 Read *Unplottable* first — **[download the book · EPUB · MOBI · PDF →](https://github.com/Martin8O/unplottable/releases/latest)**
+> …or [read it here, chapter by chapter](manuscript/). The note, logline, and stats below are spoiler-free.
 
 ## A note from Martin
 

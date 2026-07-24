@@ -4,23 +4,24 @@
 
 # Colophon
 
-This book began as a gift. Martin Svoboda wanted to make something for his
-girlfriend — a devoted reader of *Harry Potter* fan fiction — and to make it
-for her from nothing. There was one catch: he does not know this world at all.
-He has never read the books.
+This book is a gift, and it comes with a small confession.
 
-So he built a frame instead of writing a story. He decided what the book should
-be, for whom, and how it would be made — he set the method and the standards —
-and handed the writing itself to an artificial intelligence: Claude, made by
-Anthropic, working one chapter at a time inside his rules.
+I wanted to make you something — you, who have read more *Harry Potter* fan
+fiction than anyone I know — and to make it for you from nothing. There was one
+catch: I don't know this world at all. I've never read the books.
+
+So I built a frame instead of writing a story. I decided what the book should
+be, and for whom, and how it should be made; I set the method and the
+standards. Then I handed the writing itself to an artificial intelligence —
+Claude, made by Anthropic — working one chapter at a time inside my rules.
 
 Those rules were strict. A *bible* held every fact of the world; a ledger
 tracked each planted clue to the page where it pays; an automatic check had to
-pass before any chapter was kept. What happened inside that frame — the world,
-the characters, the turns, the sentences — the machine chose. Human-directed,
-AI-written: the wish and the standards are his; the story is the model's.
+pass before I would keep a chapter. But what happened inside the frame — the
+world, the characters, the turns, the sentences — the machine chose, because I
+couldn't. The wish is mine; the story is the machine's.
 
-A few numbers, since the book is partly about counting:
+A few numbers, because the book is partly about counting:
 
 - **124,642 words** of prose — thirty-six chapters and five interludes, in
   five parts.

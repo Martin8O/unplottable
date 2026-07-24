@@ -13,7 +13,7 @@ catch: I don't know this world at all. I've never read the books.
 So I built a frame instead of writing a story. I decided what the book should
 be, and for whom, and how it should be made; I set the method and the
 standards. Then I handed the writing itself to an artificial intelligence —
-Claude, made by Anthropic — working one chapter at a time inside my rules.
+Claude Code — working one chapter at a time inside my rules.
 
 Those rules were strict. A *bible* held every fact of the world; a ledger
 tracked each planted clue to the page where it pays; an automatic check had to

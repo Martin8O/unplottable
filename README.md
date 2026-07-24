@@ -41,7 +41,7 @@ The map was never empty. Now it holds one more place — and that one is hers.
 
 </div>
 
-*Read straight from the git history and the manuscript. Interactive version: [`docs/stats.html`](docs/stats.html) · print/export: [`docs/unplottable-stats.pdf`](docs/unplottable-stats.pdf).*
+*Read straight from the git history and the manuscript. The image above is the full dashboard. For the interactive version (hover for per-chapter detail), open [`docs/stats.html`](docs/stats.html) **in a browser** — GitHub shows the file's source, not the rendered page. Or grab the [PDF](docs/unplottable-stats.pdf).*
 
 | | | | |
 |---|--:|---|--:|

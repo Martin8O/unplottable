@@ -8,11 +8,21 @@
 
 *working repo name: the-anomaly-engine*
 
-`complete draft` · `EPUB · MOBI · A5 PDF` · `124,642 words` · `36 chapters + 5 interludes` · `private (a gift)`
+`complete draft` · `EPUB · MOBI · A5 PDF` · `124,642 words` · `36 chapters + 5 interludes` · `non-commercial fan work`
 
 </div>
 
 ---
+
+## A note from Martin
+
+This book was, first of all, a gift for Sašenka — who once devoured fifteen *Harry Potter* fan-fics in a single month.
+
+I have never read the books. I never even finished the first film. But I wanted to give her the best I could — so instead of writing the story myself, I built a *system* for an AI to write one worthy of her.
+
+The system gave the AI a *bible* that held every fact of this world, a ledger that tracked each planted clue to the page where it pays, and a check that had to pass before any chapter was kept. Within that frame, everything else — the world, the characters, the turns, the very sentences — the AI chose, because I couldn't. The wish is mine; the story is the AI's.
+
+The map was never empty. Now it holds one more place — and that one is hers.
 
 ## The book
 

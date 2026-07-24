@@ -1,0 +1,277 @@
+<title>Unplottable — a build in numbers</title>
+<style>
+  :root{
+    --bg:#f4f1e8; --panel:#fbf9f2; --border:#e4ddca; --grid:#ece4d1;
+    --text:#20242b; --muted:#5b5340; --faint:#8b8168;
+    --accent:#a37c26; --orla:#a37c26; --adam:#37697a; --over:#b06a2e;
+    --serif:"Palatino Linotype",Palatino,"Book Antiqua",Georgia,"Times New Roman",serif;
+    --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    --mono:ui-monospace,"SF Mono","Consolas","IBM Plex Mono",Menlo,monospace;
+  }
+  @media (prefers-color-scheme:dark){:root{
+    --bg:#0b0f16; --panel:#121826; --border:#243146; --grid:#1b2740;
+    --text:#f0ebdd; --muted:#9aa7bd; --faint:#5f6d84;
+    --accent:#c8a24a; --orla:#c8a24a; --adam:#6fa4b6; --over:#d69a5a;
+  }}
+  :root[data-theme="dark"]{
+    --bg:#0b0f16; --panel:#121826; --border:#243146; --grid:#1b2740;
+    --text:#f0ebdd; --muted:#9aa7bd; --faint:#5f6d84;
+    --accent:#c8a24a; --orla:#c8a24a; --adam:#6fa4b6; --over:#d69a5a;
+  }
+  :root[data-theme="light"]{
+    --bg:#f4f1e8; --panel:#fbf9f2; --border:#e4ddca; --grid:#ece4d1;
+    --text:#20242b; --muted:#5b5340; --faint:#8b8168;
+    --accent:#a37c26; --orla:#a37c26; --adam:#37697a; --over:#b06a2e;
+  }
+  *{box-sizing:border-box}
+  body,.wrap{margin:0}
+  .wrap{
+    background:var(--bg); color:var(--text); font-family:var(--sans);
+    line-height:1.6; padding:clamp(20px,5vw,64px) clamp(16px,5vw,56px) 72px;
+    background-image:linear-gradient(var(--grid) 1px,transparent 1px),linear-gradient(90deg,var(--grid) 1px,transparent 1px);
+    background-size:44px 44px; background-position:-1px -1px;
+  }
+  .inner{max-width:960px; margin:0 auto}
+  .eyebrow{font-family:var(--mono); font-size:12px; letter-spacing:.28em; text-transform:uppercase; color:var(--faint); margin:0 0 14px}
+  h1{font-family:var(--serif); font-weight:600; font-size:clamp(44px,9vw,92px); line-height:.98; letter-spacing:.01em; margin:0; text-wrap:balance}
+  .sub{font-family:var(--serif); font-style:italic; font-size:clamp(17px,2.4vw,22px); color:var(--accent); margin:10px 0 0}
+  .lede{max-width:60ch; color:var(--muted); margin:20px 0 0; font-size:16px}
+  h2{font-family:var(--serif); font-weight:600; font-size:clamp(23px,3.4vw,30px); margin:0 0 4px; letter-spacing:.01em}
+  .sectnote{font-family:var(--mono); font-size:12px; letter-spacing:.14em; text-transform:uppercase; color:var(--faint); margin:0 0 22px}
+  section{margin-top:clamp(46px,7vw,80px)}
+  .tiles{display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:14px; margin-top:30px}
+  .tile{background:var(--panel); border:1px solid var(--border); border-radius:12px; padding:20px 22px}
+  .tile .n{font-family:var(--mono); font-variant-numeric:tabular-nums; font-size:clamp(26px,4vw,36px); font-weight:500; color:var(--text); letter-spacing:-.01em}
+  .tile .n small{font-size:.5em; color:var(--faint); font-weight:400}
+  .tile .l{font-size:13px; color:var(--muted); margin-top:6px}
+  .card{background:var(--panel); border:1px solid var(--border); border-radius:14px; padding:clamp(18px,3vw,28px)}
+  .legend{display:flex; flex-wrap:wrap; gap:18px; align-items:center; font-size:13px; color:var(--muted); margin-top:16px}
+  .key{display:inline-flex; align-items:center; gap:7px}
+  .sw{width:13px; height:13px; border-radius:3px; display:inline-block}
+  .chartscroll{overflow-x:auto}
+  svg{display:block; width:100%; height:auto}
+  .barcap{font-family:var(--mono); font-variant-numeric:tabular-nums}
+  .grid2{display:grid; grid-template-columns:1fr 1fr; gap:22px}
+  @media (max-width:680px){.grid2{grid-template-columns:1fr}}
+  .rowstat{display:flex; justify-content:space-between; gap:12px; padding:9px 0; border-bottom:1px solid var(--border); font-size:15px}
+  .rowstat:last-child{border-bottom:0}
+  .rowstat b{font-family:var(--mono); font-variant-numeric:tabular-nums; font-weight:500}
+  .ribbon{display:flex; flex-wrap:wrap; gap:10px; margin-top:8px}
+  .phase{flex:1 1 130px; background:var(--panel); border:1px solid var(--border); border-radius:11px; padding:14px 16px}
+  .phase .p{font-family:var(--mono); font-size:11px; letter-spacing:.16em; text-transform:uppercase; color:var(--accent)}
+  .phase .t{font-size:14px; margin-top:5px; color:var(--text)}
+  .phase .c{font-family:var(--mono); font-variant-numeric:tabular-nums; color:var(--muted); font-size:13px; margin-top:3px}
+  .foot{margin-top:60px; padding-top:22px; border-top:1px solid var(--border); font-size:13px; color:var(--faint); max-width:70ch}
+  .foot b{color:var(--muted); font-weight:500}
+  .redact{display:inline-block; background:var(--text); color:var(--text); border-radius:3px; padding:0 .35em; user-select:none}
+</style>
+
+<div class="wrap"><div class="inner">
+
+  <p class="eyebrow">Sheet I &middot; the build in numbers</p>
+  <h1>Unplottable</h1>
+  <p class="sub">an ~118k-word novel, assembled one prompt at a time</p>
+  <p class="lede">A ~124,600-word original science-fiction novel set in the Harry&nbsp;Potter universe, drafted chapter by chapter with a bible-first method and a quality gate that had to run green before every commit. Every figure below is read straight from the git history and the manuscript.</p>
+
+  <div class="tiles" id="tiles"></div>
+
+  <section>
+    <h2>The manuscript</h2>
+    <p class="sectnote">36 chapters &middot; word count &middot; coloured by point of view</p>
+    <div class="card">
+      <div class="chartscroll"><div id="chart"></div></div>
+      <div class="legend">
+        <span class="key"><span class="sw" style="background:var(--orla)"></span>Orla Quinn &mdash; 20 chapters</span>
+        <span class="key"><span class="sw" style="background:var(--adam)"></span>Adam Kessler &mdash; 16 chapters</span>
+        <span class="key"><span class="sw" style="background:var(--over);opacity:.9"></span>over the 3,700 target &mdash; the set-pieces</span>
+        <span class="key" style="color:var(--faint)">dashed = target band 2,900&ndash;3,700</span>
+      </div>
+    </div>
+    <div class="grid2" style="margin-top:22px">
+      <div class="card">
+        <div class="rowstat"><span>Average chapter</span><b>3,360 w</b></div>
+        <div class="rowstat"><span>Shortest &mdash; ch20 <em>The Manor</em></span><b>2,956 w</b></div>
+        <div class="rowstat"><span>Longest &mdash; ch25 <em>The Apprentice</em></span><b>3,824 w</b></div>
+        <div class="rowstat"><span>Inside the 2,900&ndash;3,700 target</span><b>29 / 36</b></div>
+        <div class="rowstat"><span>Outside the hard 2,500&ndash;4,000 band</span><b>0</b></div>
+      </div>
+      <div class="card">
+        <div class="rowstat"><span>5 interludes (in-world documents)</span><b>3,667 w</b></div>
+        <div class="rowstat"><span>Average interlude</span><b>733 w</b></div>
+        <div class="rowstat"><span>Chapters + interludes</span><b>41 files</b></div>
+        <div class="rowstat"><span>Foreshadowing plants &amp; payoffs</span><b>18 / 18</b></div>
+        <div class="rowstat"><span>Major twists tracked (T1&ndash;T5)</span><b>5</b></div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Two heads, one book</h2>
+    <p class="sectnote">dual point of view &middot; share of prose &middot; balance across the five parts</p>
+    <div class="grid2">
+      <div class="card">
+        <div id="pov"></div>
+      </div>
+      <div class="card">
+        <div id="parts"></div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>The build</h2>
+    <p class="sectnote">20&ndash;24 July 2026 &middot; ~3.6 days &middot; 52 commits</p>
+    <div class="card">
+      <div id="commits"></div>
+    </div>
+    <div class="ribbon" id="phases" style="margin-top:22px"></div>
+  </section>
+
+  <section>
+    <h2>The iceberg</h2>
+    <p class="sectnote">the visible novel &middot; and the world-bible beneath it</p>
+    <div class="card">
+      <div id="iceberg"></div>
+      <p style="color:var(--muted); font-size:15px; margin:18px 0 0; max-width:64ch">Behind the 124,642 words a reader sees sits another <b style="color:var(--text)">94,848 words</b> of bible and design docs &mdash; characters, world-rules, the plot architecture, the style guide, the foreshadowing ledger. Nothing reached the page without a home in that bible, logged in the same step.</p>
+    </div>
+  </section>
+
+  <p class="foot">
+    <b>On tokens.</b> Per-prompt token consumption was <b>not</b> tracked in the repository &mdash; git records prose and decisions, not model usage. As a floor, the 124,642 words of final prose ≈ <b>166k output tokens</b>; but redrafts, the 94,848-word bible, the five review panels and every tool call make true consumption a large multiple of that. Real token telemetry would have to come from the Claude&nbsp;Code session logs, not from git.<br><br>
+    <b>In-story span.</b> 22 March 2033 → 4 February 2034 &mdash; about ten and a half months, told across five parts. Git: +10,480 / −720 lines over 52 commits. One redacted cell on the map: <span class="redact">SO&nbsp;41&nbsp;55</span>.
+  </p>
+
+</div></div>
+
+<script>
+(function(){
+  var CH=[
+    {i:1,p:"O",w:3758,t:"Uncertainty Flags"},{i:2,p:"A",w:3429,t:"Structured Residuals"},
+    {i:3,p:"O",w:3595,t:"Muggle-Worthy"},{i:4,p:"O",w:3646,t:"Assessment Ongoing"},
+    {i:5,p:"A",w:3025,t:"Cover Stories"},{i:6,p:"O",w:3286,t:"The Motion"},
+    {i:7,p:"A",w:3469,t:"Terms and Conditions"},{i:8,p:"A",w:3280,t:"Perimeter"},
+    {i:9,p:"O",w:3287,t:"The Restored Hour"},{i:10,p:"A",w:3096,t:"World Models"},
+    {i:11,p:"O",w:3653,t:"Summons"},{i:12,p:"A",w:3068,t:"Home Bias"},
+    {i:13,p:"O",w:3226,t:"Keeping Score"},{i:14,p:"A",w:3766,t:"Canary"},
+    {i:15,p:"O",w:3763,t:"The Map Looks Back"},{i:16,p:"A",w:3713,t:"Specimen"},
+    {i:17,p:"O",w:3392,t:"P.L. to L.L."},{i:18,p:"O",w:3038,t:"The Option List"},
+    {i:19,p:"A",w:3128,t:"Buried Mathematics"},{i:20,p:"O",w:2956,t:"The Manor"},
+    {i:21,p:"A",w:3060,t:"Attribution"},{i:22,p:"A",w:3451,t:"The Ask"},
+    {i:23,p:"O",w:3238,t:"Compartments"},{i:24,p:"A",w:3072,t:"The Naturalist"},
+    {i:25,p:"O",w:3824,t:"The Apprentice"},{i:26,p:"O",w:3209,t:"Severance"},
+    {i:27,p:"O",w:3066,t:"What We Keep"},{i:28,p:"A",w:3155,t:"Erase Me"},
+    {i:29,p:"O",w:3416,t:"Full Disclosure"},{i:30,p:"O",w:3690,t:"Section Thirteen"},
+    {i:31,p:"A",w:3029,t:"The Cabinet Room"},{i:32,p:"A",w:3203,t:"Tranche"},
+    {i:33,p:"O",w:3774,t:"Two Receivers"},{i:34,p:"O",w:3406,t:"Where the Gates Open"},
+    {i:35,p:"A",w:3757,t:"A Committee Name"},{i:36,p:"O",w:3051,t:"Unplottable"}
+  ];
+  var cs=getComputedStyle(document.documentElement);
+  function c(n){return cs.getPropertyValue(n).trim();}
+  function el(s){return document.getElementById(s);}
+  function esc(s){return s.replace(/&/g,"&amp;").replace(/</g,"&lt;");}
+
+  // headline tiles
+  var tiles=[
+    ["124,642","words of prose"],["41","chapters &amp; interludes"],["5","parts"],
+    ["18","plants &amp; payoffs, all paid"],["52","git commits"],["~3.6","days end to end"],
+    ["299","A5 pages, typeset"],["2","points of view"]
+  ];
+  el("tiles").innerHTML=tiles.map(function(t){
+    return '<div class="tile"><div class="n">'+t[0]+'</div><div class="l">'+t[1]+'</div></div>';
+  }).join("");
+
+  // ---- chapter bar chart ----
+  (function(){
+    var W=980,H=340,padL=44,padR=14,padT=18,padB=34;
+    var n=CH.length, gap=6, bw=(W-padL-padR-gap*(n-1))/n;
+    var dmin=2500,dmax=4000, ih=H-padT-padB;
+    function y(v){return padT+ih-(v-dmin)/(dmax-dmin)*ih;}
+    var s='<svg viewBox="0 0 '+W+' '+H+'" role="img" aria-label="Word count of all 36 chapters, coloured by point of view">';
+    [2500,2900,3700,4000].forEach(function(v){
+      var dash=(v===2900||v===3700)?' stroke-dasharray="4 4"':'';
+      var col=(v===2900||v===3700)?c('--accent'):c('--border');
+      s+='<line x1="'+padL+'" x2="'+(W-padR)+'" y1="'+y(v)+'" y2="'+y(v)+'" stroke="'+col+'" stroke-width="1"'+dash+' opacity="'+((v===2900||v===3700)?.55:.9)+'"/>';
+      s+='<text x="'+(padL-8)+'" y="'+(y(v)+4)+'" text-anchor="end" font-family="'+c('--mono')+'" font-size="11" fill="'+c('--faint')+'">'+v+'</text>';
+    });
+    CH.forEach(function(d,k){
+      var x=padL+k*(bw+gap), yy=y(d.w), hh=padT+ih-yy;
+      var col=d.w>3700?c('--over'):(d.p==="O"?c('--orla'):c('--adam'));
+      s+='<g><title>ch'+d.i+' — '+esc(d.t)+' · '+(d.p==="O"?"Orla":"Adam")+' · '+d.w+' w</title>'+
+         '<rect x="'+x.toFixed(1)+'" y="'+yy.toFixed(1)+'" width="'+bw.toFixed(1)+'" height="'+hh.toFixed(1)+'" rx="2" fill="'+col+'"/></g>';
+      if(d.i%3===1){s+='<text x="'+(x+bw/2).toFixed(1)+'" y="'+(H-12)+'" text-anchor="middle" font-family="'+c('--mono')+'" font-size="10" fill="'+c('--faint')+'">'+d.i+'</text>';}
+    });
+    s+='</svg>';
+    el("chart").innerHTML=s;
+  })();
+
+  // ---- POV stacked bar ----
+  (function(){
+    var data=[["Orla Quinn",68274,c('--orla')],["Adam Kessler",52701,c('--adam')],["Interludes",3667,c('--faint')]];
+    var tot=124642, W=440,H=210, y=8, bh=42, x=0;
+    var s='<div style="font-family:'+c('--mono')+';font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:'+c('--faint')+';margin-bottom:14px">share of prose</div>';
+    s+='<svg viewBox="0 0 '+W+' 64" role="img" aria-label="Share of prose by point of view">';
+    data.forEach(function(d){var w=d[1]/tot*W; s+='<rect x="'+x.toFixed(1)+'" y="0" width="'+w.toFixed(1)+'" height="46" fill="'+d[2]+'"/>'; x+=w;});
+    s+='</svg>';
+    s+='<div style="margin-top:16px">';
+    data.forEach(function(d){
+      s+='<div class="rowstat"><span class="key"><span class="sw" style="background:'+d[2]+'"></span>'+d[0]+'</span><b>'+d[1].toLocaleString("en")+' w &middot; '+(d[1]/tot*100).toFixed(1)+'%</b></div>';
+    });
+    s+='</div>';
+    el("pov").innerHTML=s;
+  })();
+
+  // ---- parts bars ----
+  (function(){
+    var P=[["I",25024,8],["II",27912,9],["III",23488,8],["IV",23657,8],["V",24561,8]];
+    var max=27912;
+    var s='<div style="font-family:'+c('--mono')+';font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:'+c('--faint')+';margin-bottom:14px">words per part</div>';
+    P.forEach(function(d){
+      var pct=d[1]/max*100;
+      s+='<div style="margin-bottom:13px"><div style="display:flex;justify-content:space-between;font-size:14px;margin-bottom:5px"><span>Part '+d[0]+' <span style="color:'+c('--faint')+'">&middot; '+d[2]+' files</span></span><b class="barcap" style="font-weight:500">'+d[1].toLocaleString("en")+'</b></div>'+
+        '<div style="height:10px;background:'+c('--grid')+';border-radius:5px;overflow:hidden"><div style="height:100%;width:'+pct.toFixed(1)+'%;background:'+c('--accent')+';border-radius:5px"></div></div></div>';
+    });
+    el("parts").innerHTML=s;
+  })();
+
+  // ---- commits per day ----
+  (function(){
+    var D=[["20 Jul",2],["21 Jul",18],["22 Jul",16],["23 Jul",12],["24 Jul",4]];
+    var W=920,H=200,padL=30,padB=30,padT=12,max=18;
+    var n=D.length,gap=26,bw=(W-padL-gap*(n-1))/n, ih=H-padT-padB;
+    var s='<svg viewBox="0 0 '+W+' '+H+'" role="img" aria-label="Commits per day">';
+    D.forEach(function(d,k){
+      var x=padL+k*(bw+gap), hh=d[1]/max*ih, yy=padT+ih-hh;
+      s+='<rect x="'+x.toFixed(1)+'" y="'+yy.toFixed(1)+'" width="'+bw.toFixed(1)+'" height="'+hh.toFixed(1)+'" rx="3" fill="'+c('--accent')+'"/>';
+      s+='<text x="'+(x+bw/2).toFixed(1)+'" y="'+(yy-7)+'" text-anchor="middle" font-family="'+c('--mono')+'" font-size="14" fill="'+c('--text')+'">'+d[1]+'</text>';
+      s+='<text x="'+(x+bw/2).toFixed(1)+'" y="'+(H-9)+'" text-anchor="middle" font-family="'+c('--mono')+'" font-size="12" fill="'+c('--faint')+'">'+d[0]+'</text>';
+    });
+    s+='</svg>';
+    el("commits").innerHTML=s;
+  })();
+
+  // ---- phase ribbon ----
+  (function(){
+    var PH=[["Research","canon + world + landscape","4 prompts"],
+            ["Setup","premise → grid → tooling","6 prompts"],
+            ["Draft","36 chapters + 5 interludes","~30 prompts"],
+            ["Review","five per-part panels","5 prompts"],
+            ["Edit &amp; ship","structure, line, canon, typeset","8 prompts"]];
+    el("phases").innerHTML=PH.map(function(d){
+      return '<div class="phase"><div class="p">'+d[0]+'</div><div class="t">'+d[1]+'</div><div class="c">'+d[2]+'</div></div>';
+    }).join("");
+  })();
+
+  // ---- iceberg ----
+  (function(){
+    var prose=124642, bible=94848, max=prose;
+    var rows=[["Prose a reader sees",prose,c('--accent')],["Bible &amp; design docs",bible,c('--adam')]];
+    var s='';
+    rows.forEach(function(d){
+      var pct=d[1]/max*100;
+      s+='<div style="margin-bottom:16px"><div style="display:flex;justify-content:space-between;font-size:15px;margin-bottom:6px"><span>'+d[0]+'</span><b class="barcap" style="font-weight:500">'+d[1].toLocaleString("en")+' w</b></div>'+
+        '<div style="height:16px;background:'+c('--grid')+';border-radius:6px;overflow:hidden"><div style="height:100%;width:'+pct.toFixed(1)+'%;background:'+d[2]+';border-radius:6px"></div></div></div>';
+    });
+    el("iceberg").innerHTML=s;
+  })();
+})();
+</script>

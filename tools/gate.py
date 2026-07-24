@@ -115,6 +115,10 @@ AM_SPELLING_OK = {
     "resized", "resizes", "downsize", "oversize", "maize", "baize",
 }
 
+# Muggle is a proper noun in canon - always capitalised (WP5-routed to E4).
+# Lowercase only; the negative look-behind spares 'smuggle', 'smuggled', etc.
+MUGGLE_RE = re.compile(r"(?<![A-Za-z])muggle\w*")
+
 SIMILE_RE = re.compile(r"\b(like an? |as if |as though )", re.I)
 ITALIC_RE = re.compile(r"(?<![\*\w])\*([^*\n]+)\*(?!\*)")
 CAPS_RE = re.compile(r"\b[A-Z][a-z]{2,}(?:[ -][A-Z][a-z]{2,})*\b")
@@ -642,6 +646,11 @@ def check_lists(ch: Chapter, sc: Scopes, lists: dict[str, list[str]],
     if am:
         rep.fail("am-spelling", ch.rel, ", ".join(sorted(set(am))))
 
+    mug = sorted({m.group(0) for m in MUGGLE_RE.finditer(sc.body)})
+    if mug:
+        rep.fail("muggle-cap", ch.rel,
+                 ", ".join(f"'{h}' (canon: capitalise)" for h in mug))
+
 
 def check_thresholds(ch: Chapter, sc: Scopes, italics_ok: set[str],
                      rep: Report) -> None:
@@ -1057,6 +1066,7 @@ status: draft
 ---
 
 Short body, well under any band, which is the point of this fixture.
+The muggle waited, because a muggle always waits.
 """
 
 
@@ -1092,6 +1102,7 @@ def selftest(repo: Repo) -> int:
         "fanon-terms": "'magical core'",
         "americanisms": "'gotten', 'realized', 'color', 'favorite'",
         "am-spelling": "'organized' (-ize)",
+        "muggle-cap": "lowercase 'muggle' in ch03 body",
         "adverbs": "manner-adverb pile-up in narration",
         "similes": "like a / as if / as though cluster",
         "italics": "emphasis italics over budget",

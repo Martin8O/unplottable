@@ -1,0 +1,82 @@
+<meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  html,body{margin:0;padding:0;background:#070a0f}
+  #cover{width:1000px;height:1600px;font-family:'IBM Plex Mono',monospace}
+</style>
+<svg id="cover" viewBox="0 0 1000 1600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="vig" cx="50%" cy="42%" r="75%">
+      <stop offset="55%" stop-color="#0b0f16"/>
+      <stop offset="100%" stop-color="#05070b"/>
+    </radialGradient>
+    <pattern id="fine" width="48" height="48" patternUnits="userSpaceOnUse" patternTransform="translate(112 112)">
+      <path d="M48 0V48M0 48H48" fill="none" stroke="#16202f" stroke-width="1"/>
+    </pattern>
+    <pattern id="coarse" width="240" height="240" patternUnits="userSpaceOnUse" patternTransform="translate(112 112)">
+      <path d="M240 0V240M0 240H240" fill="none" stroke="#243449" stroke-width="1"/>
+    </pattern>
+    <g id="mark">
+      <circle r="52" fill="none" stroke="#b8924a" stroke-width="0.8" opacity="0.28"/>
+      <circle r="34" fill="none" stroke="#b8924a" stroke-width="0.9" opacity="0.55"/>
+      <circle r="18" fill="none" stroke="#c8a24a" stroke-width="1"/>
+      <path d="M-30 0H-8M8 0H30M0 -30V-8M0 8V30" stroke="#c8a24a" stroke-width="1"/>
+      <circle r="3.4" fill="#e6c983"/>
+    </g>
+  </defs>
+
+  <rect x="0" y="0" width="1000" height="1600" fill="url(#vig)"/>
+
+  <!-- survey grid -->
+  <rect x="112" y="112" width="768" height="1008" fill="url(#fine)"/>
+  <rect x="112" y="112" width="768" height="1008" fill="url(#coarse)"/>
+  <rect x="112" y="112" width="768" height="1008" fill="none" stroke="#2c3d54" stroke-width="1"/>
+
+  <!-- plate border -->
+  <rect x="60" y="60" width="880" height="1480" fill="none" stroke="#b8924a" stroke-width="1" opacity="0.30"/>
+
+  <!-- marginal coordinate ticks -->
+  <g opacity="0.55" font-size="13" letter-spacing="1">
+    <g fill="#616f88">
+      <text x="112" y="100" text-anchor="middle">40</text>
+      <text x="352" y="100" text-anchor="middle">41</text>
+      <text x="592" y="100" text-anchor="middle">42</text>
+      <text x="832" y="100" text-anchor="middle">43</text>
+      <text x="96" y="117" text-anchor="end">58</text>
+      <text x="96" y="357" text-anchor="end">57</text>
+      <text x="96" y="597" text-anchor="end">56</text>
+      <text x="96" y="837" text-anchor="end">55</text>
+      <text x="96" y="1077" text-anchor="end">54</text>
+    </g>
+  </g>
+
+  <!-- sheet reference, clinical -->
+  <text x="112" y="1150" fill="#4f5b70" font-size="12.5" letter-spacing="3">SHEET I · THE ANOMALY FIELD</text>
+  <text x="880" y="1150" text-anchor="end" fill="#4f5b70" font-size="12.5" letter-spacing="3">n = 1,461</text>
+
+  <!-- three anomalies on a slow diagonal -->
+  <use href="#mark" x="304" y="304"/>
+  <use href="#mark" x="592" y="592"/>
+  <use href="#mark" x="400" y="880"/>
+  <text x="332" y="270" fill="#8a7038" font-size="12.5" letter-spacing="2">01</text>
+  <text x="620" y="558" fill="#8a7038" font-size="12.5" letter-spacing="2">02</text>
+  <text x="428" y="846" fill="#8a7038" font-size="12.5" letter-spacing="2">03</text>
+
+  <!-- the redacted cell -->
+  <rect x="736" y="448" width="48" height="48" fill="#000000" stroke="#c8a24a" stroke-width="1" stroke-dasharray="4 3"/>
+  <g font-size="12.5" letter-spacing="1">
+    <text x="760" y="524" text-anchor="middle" fill="#616f88">SO 41 55</text>
+    <line x1="720" y1="520" x2="800" y2="520" stroke="#8a7038" stroke-width="1"/>
+  </g>
+
+  <!-- title block -->
+  <line x1="112" y1="1236" x2="888" y2="1236" stroke="#b8924a" stroke-width="1" opacity="0.35"/>
+  <text x="500" y="1372" text-anchor="middle" fill="#ece7da"
+        font-family="'Cormorant Garamond',serif" font-weight="600" font-size="128" letter-spacing="2">Unplottable</text>
+  <text x="500" y="1424" text-anchor="middle" fill="#c8a24a"
+        font-family="'Cormorant Garamond',serif" font-style="italic" font-weight="500" font-size="31" letter-spacing="6">the map was never empty</text>
+  <text x="500" y="1502" text-anchor="middle" fill="#7f8ba1"
+        font-size="17" letter-spacing="8">MARTIN SVOBODA</text>
+</svg>

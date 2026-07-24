@@ -20,9 +20,7 @@ the author's own.
 \begin{center}
 ```
 
-*For you —*
-
-*the one reader this was always written for.*
+*For Sašenka*
 
 ```{=latex}
 \end{center}

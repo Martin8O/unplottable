@@ -109,12 +109,14 @@ if ($LASTEXITCODE -ne 0) { Write-Host "assembly failed." -ForegroundColor Red; e
 $bookDir = Join-Path $repo 'book'
 $front = Join-Path $bookDir '00-front.md'
 $after = Join-Path $bookDir '99-afterword.md'
+$colophon = Join-Path $bookDir 'zz-colophon.md'
 $meta = Join-Path $bookDir 'metadata.yaml'
 
 $inputs = @()
 if (Test-Path $front) { $inputs += $front }
 $inputs += $combined
 if (Test-Path $after) { $inputs += $after }
+if (Test-Path $colophon) { $inputs += $colophon }
 
 $cover = $null
 foreach ($c in @('cover.png', 'cover.jpg', 'cover.jpeg')) {

@@ -4,17 +4,21 @@
 
 # Colophon
 
-This story was written by an artificial intelligence — Claude, made by
-Anthropic — one chapter at a time, inside a frame that a person built and then
-let run.
+This book began as a gift. Martin Svoboda wanted to make something for his
+girlfriend — a devoted reader of *Harry Potter* fan fiction — and to make it
+for her from nothing. There was one catch: he does not know this world at all.
+He has never read the books.
 
-Martin Svoboda set the method, not the plot. He chose that the book should
-exist, for whom, and how it would be made: a *bible* holding every fact of its
-world; a ledger tracking each planted clue to the page where it pays; an
-automatic check that had to pass before any chapter was kept. What happened
-inside that frame — the world, the characters, the turns, the sentences — the
-machine chose, because he does not know this world at all. Human-directed,
-AI-written: the shape and the standards are his; the story is the model's.
+So he built a frame instead of writing a story. He decided what the book should
+be, for whom, and how it would be made — he set the method and the standards —
+and handed the writing itself to an artificial intelligence: Claude, made by
+Anthropic, working one chapter at a time inside his rules.
+
+Those rules were strict. A *bible* held every fact of the world; a ledger
+tracked each planted clue to the page where it pays; an automatic check had to
+pass before any chapter was kept. What happened inside that frame — the world,
+the characters, the turns, the sentences — the machine chose. Human-directed,
+AI-written: the wish and the standards are his; the story is the model's.
 
 A few numbers, since the book is partly about counting:
 

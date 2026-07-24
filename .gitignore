@@ -6,6 +6,8 @@ data/
 build/
 *.epub
 *.pdf
+# ...but keep the committed stats exports
+!docs/unplottable-stats.pdf
 
 # python
 __pycache__/

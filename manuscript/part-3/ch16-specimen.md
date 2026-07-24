@@ -76,7 +76,7 @@ The word was so quiet, and so unlike an event, that Adam's first response was to
 
 The people were still there. Four warm bodies in that corridor, each one carrying a lifetime of the only nourishment the literature allowed this creature; and it had its face against the bars for a rack of spinning metal reading a corpus.
 
-"Mark," Rose said. Her voice had gone thin. Arm two. The rack's note held; the watts held; the only thing in the world that changed was what the machine was reading — and the specimen came off the grille slowly, tasted, resettled toward the people like an instrument returning to zero.
+"Mark," Rose said. Her voice had gone thin. Arm two. The rack's note held; the watts held; the only thing in the world that changed was what the machine was reading — and the specimen came off the grille slowly, tasted, resettled towards the people like an instrument returning to zero.
 
 They ran the reversal five times. Five times the schedule turned over in silence, unannounced, unbriefed, and five times the keepers' calls tracked it to the minute: on the door, on us, on the door, on us, on the door. The last time, nobody said mark and nobody moved and the corridor stood in its blue cold listening to a machine read, and Orla — who had been fast and funny at half past one, and quick and useful at three — said, plainly, with no joke anywhere in her:
 

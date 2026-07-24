@@ -54,7 +54,7 @@ Nothing else had happened. Nowhere. His instruments had run all week over everyt
 
 St Mungo's put Rose on the fourth floor in a side room with a window and called it assessment and called it nothing else, which was probably kindness and was certainly policy.
 
-Victoire came out to her in the corridor — thirty-three, silver-fair, a sweet-wrapper folded into a small precise crane in her breast pocket from some other family's long afternoon — and had declared her interest in writing on the first morning: cousin to the patient, married into the Auror side, not the treating Healer, available to families because somebody had to be.
+Victoire came out to her in the corridor — thirty-three, silver-fair, a sweet-wrapper folded into a small precise crane in her breast pocket from some other family's long afternoon — and had declared her interest in writing on the first morning: cousin to the patient, married into the law-enforcement side, not the treating Healer, available to families because somebody had to be.
 
 "They've no protocol. I'd rather you had that from me than off a form. There's a ward along this corridor for people whose minds were taken off them by a spell, and everything in the literature is about spells. This isn't in it." She had both hands round a cup she was not drinking, exactly the way Rose had held hers. "There's one case everybody in this hospital has heard of and nobody can cite, because it was never written down anywhere. Every Healer over fifty knows the shape of it. Not one of them can put it in a note."
 

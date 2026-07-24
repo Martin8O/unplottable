@@ -114,7 +114,7 @@ The third of them was Rose, and it was Rose the instrument had done the strange 
 
 All winter Adam had watched her come back from where the autumn sent her — the notebooks in her own hand that were never her own idea, the months of friendship with something that was only ever counting. She had come back the hard way, in public, testifying to a court about her own violated mind with the deadpan steadiness her mother had taught a courtroom. He had not known, until this room, what the treaty had decided to do with her.
 
-"They've put me on the bench," she said, and held up the page — her voice level over mischief over something she was not going to cry about in front of the Muggle. "The wizard side of the channel. Founding officers. There's Orla's name where the court nailed it, and Croaker for the Department, and then." She tapped it. "R. Weasley. Not a witness, not a casualty, not the girl it got. An officer, on the founding page, my name spelled the short way — because the long way's my mother's and this one's mine."
+"They've put me on the bench," she said, and held up the page — her voice level over mischief over something she was not going to cry about in front of the Muggle. "The wizard side of the channel. Founding officers. There's Orla's name where the court nailed it, and Croaker for the Department, and then." She tapped it. "R. Weasley. Not a witness, not a casualty, not the girl it got. An officer, on the founding page, my name spelled the short way — because the long way comes with a reputation, and this one's mine."
 
 "You earned the long way," Adam said.
 

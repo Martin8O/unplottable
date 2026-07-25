@@ -36,13 +36,17 @@
 param(
     [ValidateSet('epub', 'pdf', 'mobi', 'all')][string]$Format = 'all',
     [string]$OutDir = 'build',
+    [string]$Root = '',          # source root holding manuscript/ + book/ (default: repo, English). RU: 'Translation/RU'
+    [string]$Stem = 'unplottable',
+    [string]$Title = 'Unplottable',
     [switch]$Check
 )
 
 $ErrorActionPreference = 'Stop'
 $repo = Split-Path -Parent $PSScriptRoot
-$title = 'Unplottable'
-$stem = 'unplottable'
+$srcRoot = if ($Root) { Join-Path $repo $Root } else { $repo }
+$title = $Title
+$stem = $Stem
 
 function Get-Tool([string]$name) {
     $cmd = Get-Command $name -ErrorAction SilentlyContinue
@@ -102,11 +106,11 @@ $combined = Join-Path $out "$stem.md"
 
 Write-Host ""
 Write-Host "assembling ..." -ForegroundColor Cyan
-& $python (Join-Path $PSScriptRoot 'gate.py') --assemble $combined
+& $python (Join-Path $PSScriptRoot 'gate.py') --assemble $combined --root $srcRoot
 if ($LASTEXITCODE -ne 0) { Write-Host "assembly failed." -ForegroundColor Red; exit $LASTEXITCODE }
 
 # --- E4 front/back matter + metadata + cover ------------------------------
-$bookDir = Join-Path $repo 'book'
+$bookDir = Join-Path $srcRoot 'book'
 $front = Join-Path $bookDir '00-front.md'
 $after = Join-Path $bookDir '99-afterword.md'
 $colophon = Join-Path $bookDir 'zz-colophon.md'

@@ -47,7 +47,8 @@ percent — out of scope for the hands-off brief, available later if wanted.
 
 ## Status
 
-- [ ] Foundation (glossary + style) + pilot chapter
-- [ ] Full fan-out translate + verify (41 chapters)
-- [ ] Russian front/back matter + typeset (EPUB/MOBI/PDF)
-- [ ] Commit to the repo
+- [x] Foundation — Rosman glossary + Russian style spec
+- [x] Pilot — ch01 translated + adversarially verified (Fable 5 · high)
+- [ ] **Full run — see [`RUN-THIS.md`](RUN-THIS.md): one prompt in a new session (Fable 5 · high)**
+- [ ] Russian front/back matter + cover + typeset (EPUB/MOBI/PDF)
+- [ ] Commit + release

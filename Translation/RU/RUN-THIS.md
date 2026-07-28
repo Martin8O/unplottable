@@ -41,7 +41,7 @@ three prose-matter files (Fable 5 · high; small agents or inline), preserving s
   translate the disclaimer prose to Russian; the dedication *For Sašenka* → **«Сашеньке»**.
 - `book/99-afterword.md` → `Translation/RU/book/99-afterword.md` — translate the prose; heading
   *Afterword* → **«Послесловие»**; sign *— автор*.
-- `book/zz-colophon.md` → `Translation/RU/book/zz-colophon.md` — Martin's first-person note; translate
+- `book/zz-colophon.md` → `Translation/RU/book/zz-colophon.md` — the author's first-person note; translate
   faithfully to Russian, keep the `\newpage` block, heading → **«Колофон»**, keep the numbers, sign
   **«С любовью, Мартин»**.
 

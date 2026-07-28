@@ -4,18 +4,17 @@ Codename **Kartograf**. The Russian translation of *Unplottable*, living inside 
 subproject (not a separate repository). **Rosman (Росмэн) lexicon** for all Harry Potter canon terms —
 never Spivak/Махаон.
 
-## The goal (Martin's brief)
+## The goal of this translation
 
-The **best achievable fully-automated translation**, at the **lowest possible cost of his time and
-attention** — it should run itself, in as few of his prompts as possible. He does not read Russian and
-does not know the source world, so there is nothing for him to review; the pipeline must **verify its
-own quality**.
+The **best achievable fully-automated translation**, at the **lowest possible cost in prompts, time
+and attention** — it should run itself. Nobody on this side of the project reads Russian or knows the
+source world, so there is nothing to review by hand: the pipeline must **verify its own quality**.
 
 ## How it runs — a background multi-agent workflow (not one-prompt-per-hour)
 
 Instead of translating one chapter per session, the whole book is translated by a **single background
-workflow** that fans out across all 41 chapters at once and checks itself. Martin fires it once; it
-runs on its own and notifies when done.
+workflow** that fans out across all 41 chapters at once and checks itself. It is fired once; it runs
+on its own and notifies when done.
 
 | Phase | What runs | Agents |
 |---|---|---|
@@ -24,7 +23,7 @@ runs on its own and notifies when done.
 | **V · Verify** | one agent per chapter — adversarially checks the Russian against the English + glossary (terminology, no English residue, voice, nothing dropped/added, fair-play intact) and **fixes issues in place** | 41 |
 | **Assemble** | the main session builds the Russian EPUB / MOBI / A5 PDF (Palatino Linotype covers Cyrillic) with Russian front/back matter, and commits | — |
 
-**Martin's prompt cost: ~1.** He fires the run; it is autonomous from there. (A cheap **Foundation +
+**Prompt cost: ~1.** One prompt fires the run; it is autonomous from there. (A cheap **Foundation +
 1-chapter pilot** runs first to de-risk the pipeline before the full fan-out spends on all 41.)
 
 ## Layout

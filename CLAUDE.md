@@ -1,6 +1,6 @@
 # CLAUDE.md — The Anomaly Engine (working title)
 
-An original ~118k-word sci-fi novel (300–400 printed A5 pages) set in the Harry Potter universe (fan fiction, English prose), built one prompt at a time. Gift for a trope-savvy HP-fanfic veteran reader; the quality bar is HERS. Martin (the user) knows no HP canon — **never ask him content questions**; content decisions are the assistant's, process/scope/vibes are his.
+An original ~118k-word sci-fi novel (300–400 printed A5 pages) set in the Harry Potter universe (fan fiction, English prose), built one prompt at a time. Gift for a trope-savvy HP-fanfic veteran reader; the quality bar is HERS. The author (the user) knows no HP canon — **never ask content questions**; content decisions are the assistant's, process/scope/vibes are the author's.
 
 ## Read first, every session
 1. `Local/bootstrap.md` (current state, next step) → then the relevant `bible/` + `Local/Wiki/` sections for the prompt at hand.
@@ -15,7 +15,7 @@ An original ~118k-word sci-fi novel (300–400 printed A5 pages) set in the Harr
 - **Bible-first** (ADR-004): no fact in prose without a `bible/` home, logged in the SAME prompt; manuscript never contradicts bible.
 - **Ledger discipline**: twists/plants/payoffs only via `bible/foreshadowing-ledger.md`; front-matter `plants:`/`payoffs:` stay in sync (gate checks).
 - **Hard story constraints** (ADR-002): no time travel on-page · no resurrection/undone deaths · Voldemort stays finished (and is never teased as the revenant by the narrative) · no magic-vs-military war porn · magic keeps its mystery · muggle tech stays 2033-plausible, the anomaly engine is NOT conscious · ending constructive.
-- **Language**: prose + all repo text English (British English in-story; gate lints Americanisms); chat with Martin in Czech.
+- **Language**: prose + all repo text English (British English in-story; gate lints Americanisms); chat with the user in Czech.
 - `Local/` and `data/` never committed; commits happen only at wrap-up ("X is done" authorizes); scoped adds, no blind `git add -A`.
 - Docs (`dev_history.md`, ADRs, bootstrap) change only at wrap-up, never mid-prompt.
 
@@ -30,4 +30,4 @@ An original ~118k-word sci-fi novel (300–400 printed A5 pages) set in the Harr
 
 ## Workflow
 "let's start «X»" → just-in-time refine + plan-mode OK → execute with verification DURING → "«X» is done" → lean wrap-up (gate, ADR, changelog, bootstrap head ≤5×5, model-fit line, scoped commit+push). Announce every next prompt with its tier + `▶ Spustit na: <model> · <effort>`. Details: `docs/writing-workflow.md`.
-- **Model recs name a tier, not a family:** `frontier · <effort>` (frontier = strongest generally available Claude; family = Martin's call per run). **If a run reviews as not a fit, re-run it at a higher effort/model — never patch weak prose in place** (high → extra → max, then the stronger family); card/plants/bible survive, only the prose is redrafted. Full rule: `Local/Prompts requirements.md` §4.
+- **Model recs name a tier, not a family:** `frontier · <effort>` (frontier = strongest generally available Claude; family = the author's call per run). **If a run reviews as not a fit, re-run it at a higher effort/model — never patch weak prose in place** (high → extra → max, then the stronger family); card/plants/bible survive, only the prose is redrafted. Full rule: `Local/Prompts requirements.md` §4.

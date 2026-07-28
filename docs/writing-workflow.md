@@ -12,4 +12,4 @@ One prompt = one chapter (or one design/research slice). The loop:
 
 **Whole-book (E phase):** cold-read twist audit, line edit per part, canon/Brit/lint sweep, typeset (EPUB/PDF), release-posture decision.
 
-Model/effort per step follows the tier tags in the plan (`Local/all prompts.md`, private) via the shared model ladder. Tags read **`frontier · <effort>`** — a tier, not a model family (frontier = the strongest generally available Claude at the time); which family runs it is Martin's call per run.
+Model/effort per step follows the tier tags in the plan (`Local/all prompts.md`, private) via the shared model ladder. Tags read **`frontier · <effort>`** — a tier, not a model family (frontier = the strongest generally available Claude at the time); which family runs it is the author's call per run.

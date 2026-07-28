@@ -39,6 +39,7 @@ param(
     [string]$Root = '',          # source root holding manuscript/ + book/ (default: repo, English). RU: 'Translation/RU'
     [string]$Stem = 'unplottable',
     [string]$Title = 'Unplottable',
+    [string]$Lang = 'en-GB',     # RU: 'ru-RU' (drives pandoc/babel hyphenation)
     [switch]$Check
 )
 
@@ -135,7 +136,7 @@ $common = @(
     '--toc', '--toc-depth=1'
 )
 if (Test-Path $meta) { $common += @('--metadata-file', $meta) }
-$common += @('--metadata', "title=$title", '--metadata', 'lang=en-GB')
+$common += @('--metadata', "title=$title", '--metadata', "lang=$Lang")
 
 $built = @()
 $epub = Join-Path $out "$stem.epub"

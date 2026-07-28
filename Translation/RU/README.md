@@ -49,6 +49,6 @@ percent — out of scope for the hands-off brief, available later if wanted.
 
 - [x] Foundation — Rosman glossary + Russian style spec
 - [x] Pilot — ch01 translated + adversarially verified (Fable 5 · high)
-- [ ] **Full run — see [`RUN-THIS.md`](RUN-THIS.md): one prompt in a new session (Fable 5 · high)**
-- [ ] Russian front/back matter + cover + typeset (EPUB/MOBI/PDF)
-- [ ] Commit + release
+- [x] Full run — all 41 chapters translated + adversarially verified (Fable 5 · high, background fan-out) + cross-chapter consistency sweep
+- [x] Russian front/back matter + cover + typeset (EPUB/MOBI/PDF)
+- [x] Commit + release

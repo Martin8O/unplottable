@@ -980,7 +980,22 @@ def run_gate(repo: Repo, rep: Report, only: list[Path] | None = None) -> None:
 # --------------------------------------------------------------------------
 
 def assemble(repo: Repo, out: Path) -> int:
-    cards, part_titles = parse_cards(repo.read(repo.grid))
+    # Optional per-root localisation: book/assemble.yaml (flat key: value).
+    # Keys: title, lang, part_label, interlude_label, part_I..part_V.
+    # Absent file -> English defaults, part titles from bible/chapter-grid.md.
+    cfg: dict[str, str] = {}
+    cfg_path = repo.root / "book" / "assemble.yaml"
+    if cfg_path.exists():
+        for m in re.finditer(r"^([A-Za-z_]+):\s*(.+?)\s*$",
+                             repo.read(cfg_path), re.M):
+            cfg[m.group(1)] = m.group(2)
+    if repo.grid.exists():
+        cards, part_titles = parse_cards(repo.read(repo.grid))
+    else:
+        cards, part_titles = [], {}
+    for roman in ("I", "II", "III", "IV", "V"):
+        if f"part_{roman}" in cfg:
+            part_titles[roman] = cfg[f"part_{roman}"]
     by_id = {c.cid: c for c in cards}
     chapters = load_chapters(repo)
     if not chapters:
@@ -994,7 +1009,10 @@ def assemble(repo: Repo, out: Path) -> int:
         return (99, 0) if not cid.startswith("I-") else (
             {"I-1": 7, "I-2": 15, "I-3": 22, "I-4": 29, "I-5": 36}.get(cid, 99), 1)
 
-    lines = ["---", "title: Unplottable", "lang: en-GB", "---", ""]
+    part_label = cfg.get("part_label", "Part")
+    inter_label = cfg.get("interlude_label", "Interlude")
+    lines = ["---", f"title: {cfg.get('title', 'Unplottable')}",
+             f"lang: {cfg.get('lang', 'en-GB')}", "---", ""]
     current_part = None
     for ch in sorted(chapters, key=sort_key):
         cid = card_id_for(ch)
@@ -1003,12 +1021,12 @@ def assemble(repo: Repo, out: Path) -> int:
         if part != current_part:
             current_part = part
             name = part_titles.get(part, "")
-            lines += [f"# Part {part}" + (f" — {name}" if name else ""), ""]
+            lines += [f"# {part_label} {part}" + (f" — {name}" if name else ""), ""]
         title = str(ch.fm.get("title", ""))
         if cid.startswith("ch"):
             lines += [f"## {int(cid[2:])}. {title}", ""]
         else:
-            lines += [f"## Interlude {cid} — {title}", ""]
+            lines += [f"## {inter_label} {cid} — {title}", ""]
         body = re.sub(r"<!--.*?-->", "", ch.body, flags=re.S).strip()
         lines += [body, ""] if body else ["*[unwritten]*", ""]
     out.parent.mkdir(parents=True, exist_ok=True)
@@ -1155,14 +1173,16 @@ def main(argv: list[str] | None = None) -> int:
     args = ap.parse_args(argv)
 
     repo = Repo(args.root.resolve())
+    if args.assemble:
+        # Assembly needs only the manuscript (+ optional grid / assemble.yaml);
+        # translation roots carry no bible of their own.
+        return assemble(repo, args.assemble)
     for required in (repo.guide, repo.grid, repo.ledger, repo.timeline,
                      repo.glossary, repo.places):
         if not required.exists():
             print(f"gate: missing bible file {required}", file=sys.stderr)
             return 2
 
-    if args.assemble:
-        return assemble(repo, args.assemble)
     if args.selftest:
         return selftest(repo)
 

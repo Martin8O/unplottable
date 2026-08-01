@@ -4,6 +4,7 @@ data/
 
 # local tooling config (machine-specific paths)
 .claude/
+tools/local.ps1
 
 # build output
 build/

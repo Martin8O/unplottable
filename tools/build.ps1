@@ -44,6 +44,11 @@ param(
 )
 
 $ErrorActionPreference = 'Stop'
+
+# Machine-specific settings (e.g. $env:TECTONIC_HOME) live here, outside version control.
+$localConfig = Join-Path $PSScriptRoot 'local.ps1'
+if (Test-Path $localConfig) { . $localConfig }
+
 $repo = Split-Path -Parent $PSScriptRoot
 $srcRoot = if ($Root) { Join-Path $repo $Root } else { $repo }
 $title = $Title
@@ -69,9 +74,9 @@ $engine = $null
 foreach ($e in $engines) { if (-not $engine -and (Get-Tool $e)) { $engine = $e } }
 # Optional self-contained tectonic: set TECTONIC_HOME to a folder holding tectonic.exe.
 # A full TeX distribution can exhaust a small system drive, so this build prefers a
-# portable engine on whichever volume has room (see ADR-010).
+# portable engine on whichever volume has room (see ADR-010). Machine-specific paths
+# belong in tools\local.ps1 (gitignored), which is dot-sourced above when present.
 $tectonicHome = $env:TECTONIC_HOME
-if (-not $tectonicHome -and (Test-Path 'D:\tools\tectonic\tectonic.exe')) { $tectonicHome = 'D:\tools\tectonic' }
 if (-not $engine -and $tectonicHome -and (Test-Path (Join-Path $tectonicHome 'tectonic.exe'))) {
     $engine = Join-Path $tectonicHome 'tectonic.exe'
 }

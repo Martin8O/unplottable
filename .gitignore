@@ -2,6 +2,9 @@
 Local/
 data/
 
+# local tooling config (machine-specific paths)
+.claude/
+
 # build output
 build/
 *.epub

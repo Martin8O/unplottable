@@ -67,13 +67,17 @@ if (-not $calibre) {
 $engines = @('xelatex', 'lualatex', 'pdflatex', 'tectonic')
 $engine = $null
 foreach ($e in $engines) { if (-not $engine -and (Get-Tool $e)) { $engine = $e } }
-# Self-contained tectonic on D: (see E4: MiKTeX ran C: out of space).
-if (-not $engine -and (Test-Path 'D:\tools\tectonic\tectonic.exe')) {
-    $engine = 'D:\tools\tectonic\tectonic.exe'
+# Optional self-contained tectonic: set TECTONIC_HOME to a folder holding tectonic.exe.
+# A full TeX distribution can exhaust a small system drive, so this build prefers a
+# portable engine on whichever volume has room (see ADR-010).
+$tectonicHome = $env:TECTONIC_HOME
+if (-not $tectonicHome -and (Test-Path 'D:\tools\tectonic\tectonic.exe')) { $tectonicHome = 'D:\tools\tectonic' }
+if (-not $engine -and $tectonicHome -and (Test-Path (Join-Path $tectonicHome 'tectonic.exe'))) {
+    $engine = Join-Path $tectonicHome 'tectonic.exe'
 }
-# Keep tectonic's TeX-bundle cache off C: (it defaults to %LOCALAPPDATA%).
-if ($engine -like '*tectonic*' -and -not $env:TECTONIC_CACHE_DIR) {
-    $env:TECTONIC_CACHE_DIR = 'D:\tools\tectonic\cache'
+# Keep tectonic's TeX-bundle cache beside the engine (it defaults to %LOCALAPPDATA%).
+if ($engine -like '*tectonic*' -and -not $env:TECTONIC_CACHE_DIR -and $tectonicHome) {
+    $env:TECTONIC_CACHE_DIR = Join-Path $tectonicHome 'cache'
 }
 
 Write-Host "python:        $(if ($python) { $python } else { 'NOT FOUND' })"

@@ -8,8 +8,10 @@ bible/          story facts — the CONTRACT the prose must obey (characters, wo
                 timeline, glossary, foreshadowing ledger, invented-canon log, style guide)
 manuscript/     the novel: part-N/chNN-slug.md, one file per chapter, YAML front-matter
                 (chapter, part, title, pov, date_in_story, target_words, plants, payoffs, status)
-tools/          gate.py (one-command quality gate) · build.ps1 (pandoc → EPUB/PDF)
-docs/           this file · adr.md (decision index) · writing-workflow.md
+Translation/RU/ the Russian edition «Белые пятна» — termbase, voice spec, mirrored manuscript
+book/           front/back matter, metadata, cover (cover.png + reproducible cover.html)
+tools/          gate.py (one-command quality gate) · build.ps1 (pandoc → EPUB/MOBI/PDF)
+docs/           this file · adr.md (decision index) · writing-workflow.md · stats.html
 Local/          PRIVATE (gitignored): session brain, cookbook wiki, prompt plan, scratch
 ```
 

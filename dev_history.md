@@ -1,5 +1,12 @@
 # dev_history.md — changelog & decisions
 
+## 2026-08-01 — Public-repo pass, follow-up: the Russian runbook retired (gate green; no prose touched)
+
+- **`Translation/RU/RUN-THIS.md` removed from the repository** → `Local/runbooks/RUN-THIS-ru.md` (private, gitignored). It was the last piece of *apparatus* left in the public tree, held back on purpose while the Russian edition was still being finalised in a parallel session: a Czech operating instruction, a personal browser-profile path, model-effort tuning notes, and the dedicatee's name in a build step. Its job is finished — the edition it drove is translated, verified, typeset and released as `v1.1-ru`. Nothing in the repository links to it (checked); the two references in the entry below are the dated record of the decision, not live pointers.
+- **Verification:** `python tools\gate.py` **GREEN** (0 hard, 41 warn — unchanged baseline). Repository-wide re-scan after the removal: **no Czech text, no personal paths, no contact details or credentials anywhere in the tracked tree**; the committed translation workflow scripts scanned clean too. The parallel session's Russian work (ch04/ch05 flow-first retranslations + its own wrap-up, `e174f8c`) was already committed and pushed by that session and is untouched here.
+- Model-fit: used **Opus 5** on `frontier · low` (mechanical retirement of one file + a closing sweep) → **fit**.
+- **NEXT — none.** The public repository is clean; the remaining open choices (an AO3 release, a further translation) stay explicitly-chosen efforts with their own ADR.
+
 ## 2026-08-01 — Translation/RU: flow-first style test — ch04 + ch05 retranslated (native-reader feedback loop; verified; gate green)
 
 - **The test the brief called for** (`Translation/RU/style-flow-brief.md`): `style-test.workflow.js` run end-to-end — per chapter, one translator agent (flow-first retranslation per the brief) + one independent verifier (story-intact / flows / de-personified, plus an English back-translation of the opening three paragraphs for the non-Russian-reading author). 4 agents, Fable 5 · high; **all verdicts green on both chapters.**

@@ -58,7 +58,7 @@ const UNITS_ALL = [
 "id": "i1",
 "part": "part-1",
 "in": "manuscript/part-1/i1-preprint-memorandum.md",
-"out": "Translation/RU/manuscript/part-1/i1-preprint-memorandum.md"
+"out": "Translation/RU/manuscript/part-1/i1-after-ch07-preprint-memorandum.md"
 },
 {
 "id": "ch08",
